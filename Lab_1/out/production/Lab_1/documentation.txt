@@ -1,0 +1,263 @@
+Ravasz Tamás, 936/2, Lab 1
+
+Hardware specifications:
+
+Win 10 Home 64 bi; 8 cores, 16 threads AMD Ryzen 4900h 3.30(4.40)Ghz, 64 bit processor; 16 gb of RAM DDR4; 1 TB SSD
+
+The shop which manages the access for the items in the storage,
+each desired item has a lock associated to it so that at one given time
+only one customer can access it.
+Inside the shop I have three datastructures, hashmap for the products and their quantity.
+There is a "physical product storage" which represents the actual products that are obtained by each customer thread.
+The recorded storage represents the products that have remained after a user performs a bill payment in the shop,
+and a list of the initial products for verifying the process.
+Initially they all have the same values.
+
+The items are added at the initial phase of the application
+Each Customer thread has a shopping list which needs to be fulfilled and goes through those items at the start.
+
+Each item has its own mutex, so concurrent access to other items is allowed, while if a user wants the same
+product it has to wait.
+The customer has to lock only the product it wants to obtain from it's initial shopping list.
+
+The customer adds a bill to the shop
+Only one customer can add a bill at a given time
+and locks this method from other customers
+Only one bill is added, and after the operation the bill is part of the list of bills and the money is increased
+by the amount that is on the bill and the recorded amount for each products count is decreased
+
+
+The verifier tries to lock all the products and the billock to prevent the customers to access the shop to perform an
+audit. After performing the check it releases all the locks obtaiend previously and after that it will sleep for a given amount
+of time.
+
+In the meantime each customer is waiting for it's product to be unlocked, after unlock they will continue the fucntion as
+usual.
+
+These are the tests with the implementation.
+
+The number 1 test, with thread count of 1 and product count of 10 the resulting time is: 11 milliseconds
+The number 2 test, with thread count of 1 and product count of 20 the resulting time is: 3 milliseconds
+The number 3 test, with thread count of 1 and product count of 30 the resulting time is: 3 milliseconds
+The number 4 test, with thread count of 1 and product count of 40 the resulting time is: 3 milliseconds
+The number 5 test, with thread count of 1 and product count of 50 the resulting time is: 5 milliseconds
+The number 6 test, with thread count of 1 and product count of 150 the resulting time is: 4 milliseconds
+The number 7 test, with thread count of 1 and product count of 350 the resulting time is: 3 milliseconds
+The number 8 test, with thread count of 1 and product count of 500 the resulting time is: 2 milliseconds
+The number 9 test, with thread count of 1 and product count of 750 the resulting time is: 4 milliseconds
+The number 10 test, with thread count of 1 and product count of 1250 the resulting time is: 4 milliseconds
+The number 11 test, with thread count of 1 and product count of 2000 the resulting time is: 5 milliseconds
+The number 12 test, with thread count of 1 and product count of 2500 the resulting time is: 8 milliseconds
+The number 13 test, with thread count of 1 and product count of 5000 the resulting time is: 8 milliseconds
+The number 14 test, with thread count of 1 and product count of 10000 the resulting time is: 30 milliseconds
+The number 15 test, with thread count of 1 and product count of 20000 the resulting time is: 41 milliseconds
+The number 16 test, with thread count of 2 and product count of 10 the resulting time is: 3 milliseconds
+The number 17 test, with thread count of 2 and product count of 20 the resulting time is: 3 milliseconds
+The number 18 test, with thread count of 2 and product count of 30 the resulting time is: 3 milliseconds
+The number 19 test, with thread count of 2 and product count of 40 the resulting time is: 3 milliseconds
+The number 20 test, with thread count of 2 and product count of 50 the resulting time is: 2 milliseconds
+The number 21 test, with thread count of 2 and product count of 150 the resulting time is: 4 milliseconds
+The number 22 test, with thread count of 2 and product count of 350 the resulting time is: 4 milliseconds
+The number 23 test, with thread count of 2 and product count of 500 the resulting time is: 4 milliseconds
+The number 24 test, with thread count of 2 and product count of 750 the resulting time is: 4 milliseconds
+The number 25 test, with thread count of 2 and product count of 1250 the resulting time is: 7 milliseconds
+The number 26 test, with thread count of 2 and product count of 2000 the resulting time is: 6 milliseconds
+The number 27 test, with thread count of 2 and product count of 2500 the resulting time is: 19 milliseconds
+The number 28 test, with thread count of 2 and product count of 5000 the resulting time is: 30 milliseconds
+The number 29 test, with thread count of 2 and product count of 10000 the resulting time is: 43 milliseconds
+The number 30 test, with thread count of 2 and product count of 20000 the resulting time is: 83 milliseconds
+The number 31 test, with thread count of 4 and product count of 10 the resulting time is: 3 milliseconds
+The number 32 test, with thread count of 4 and product count of 20 the resulting time is: 2 milliseconds
+The number 33 test, with thread count of 4 and product count of 30 the resulting time is: 2 milliseconds
+The number 34 test, with thread count of 4 and product count of 40 the resulting time is: 3 milliseconds
+The number 35 test, with thread count of 4 and product count of 50 the resulting time is: 2 milliseconds
+The number 36 test, with thread count of 4 and product count of 150 the resulting time is: 5 milliseconds
+The number 37 test, with thread count of 4 and product count of 350 the resulting time is: 4 milliseconds
+The number 38 test, with thread count of 4 and product count of 500 the resulting time is: 13 milliseconds
+The number 39 test, with thread count of 4 and product count of 750 the resulting time is: 9 milliseconds
+The number 40 test, with thread count of 4 and product count of 1250 the resulting time is: 10 milliseconds
+The number 41 test, with thread count of 4 and product count of 2000 the resulting time is: 26 milliseconds
+The number 42 test, with thread count of 4 and product count of 2500 the resulting time is: 14 milliseconds
+The number 43 test, with thread count of 4 and product count of 5000 the resulting time is: 24 milliseconds
+The number 44 test, with thread count of 4 and product count of 10000 the resulting time is: 84 milliseconds
+The number 45 test, with thread count of 4 and product count of 20000 the resulting time is: 189 milliseconds
+The number 46 test, with thread count of 8 and product count of 10 the resulting time is: 1 milliseconds
+The number 47 test, with thread count of 8 and product count of 20 the resulting time is: 3 milliseconds
+The number 48 test, with thread count of 8 and product count of 30 the resulting time is: 1 milliseconds
+The number 49 test, with thread count of 8 and product count of 40 the resulting time is: 2 milliseconds
+The number 50 test, with thread count of 8 and product count of 50 the resulting time is: 2 milliseconds
+The number 51 test, with thread count of 8 and product count of 150 the resulting time is: 4 milliseconds
+The number 52 test, with thread count of 8 and product count of 350 the resulting time is: 5 milliseconds
+The number 53 test, with thread count of 8 and product count of 500 the resulting time is: 10 milliseconds
+The number 54 test, with thread count of 8 and product count of 750 the resulting time is: 8 milliseconds
+The number 55 test, with thread count of 8 and product count of 1250 the resulting time is: 22 milliseconds
+The number 56 test, with thread count of 8 and product count of 2000 the resulting time is: 22 milliseconds
+The number 57 test, with thread count of 8 and product count of 2500 the resulting time is: 24 milliseconds
+The number 58 test, with thread count of 8 and product count of 5000 the resulting time is: 60 milliseconds
+The number 59 test, with thread count of 8 and product count of 10000 the resulting time is: 111 milliseconds
+The number 60 test, with thread count of 8 and product count of 20000 the resulting time is: 296 milliseconds
+The number 61 test, with thread count of 16 and product count of 10 the resulting time is: 2 milliseconds
+The number 62 test, with thread count of 16 and product count of 20 the resulting time is: 3 milliseconds
+The number 63 test, with thread count of 16 and product count of 30 the resulting time is: 3 milliseconds
+The number 64 test, with thread count of 16 and product count of 40 the resulting time is: 7 milliseconds
+The number 65 test, with thread count of 16 and product count of 50 the resulting time is: 2 milliseconds
+The number 66 test, with thread count of 16 and product count of 150 the resulting time is: 6 milliseconds
+The number 67 test, with thread count of 16 and product count of 350 the resulting time is: 9 milliseconds
+The number 68 test, with thread count of 16 and product count of 500 the resulting time is: 14 milliseconds
+The number 69 test, with thread count of 16 and product count of 750 the resulting time is: 20 milliseconds
+The number 70 test, with thread count of 16 and product count of 1250 the resulting time is: 32 milliseconds
+The number 71 test, with thread count of 16 and product count of 2000 the resulting time is: 47 milliseconds
+The number 72 test, with thread count of 16 and product count of 2500 the resulting time is: 57 milliseconds
+The number 73 test, with thread count of 16 and product count of 5000 the resulting time is: 136 milliseconds
+The number 74 test, with thread count of 16 and product count of 10000 the resulting time is: 289 milliseconds
+The number 75 test, with thread count of 16 and product count of 20000 the resulting time is: 567 milliseconds
+The number 76 test, with thread count of 32 and product count of 10 the resulting time is: 1 milliseconds
+The number 77 test, with thread count of 32 and product count of 20 the resulting time is: 1 milliseconds
+The number 78 test, with thread count of 32 and product count of 30 the resulting time is: 3 milliseconds
+The number 79 test, with thread count of 32 and product count of 40 the resulting time is: 3 milliseconds
+The number 80 test, with thread count of 32 and product count of 50 the resulting time is: 5 milliseconds
+The number 81 test, with thread count of 32 and product count of 150 the resulting time is: 9 milliseconds
+The number 82 test, with thread count of 32 and product count of 350 the resulting time is: 19 milliseconds
+The number 83 test, with thread count of 32 and product count of 500 the resulting time is: 23 milliseconds
+The number 84 test, with thread count of 32 and product count of 750 the resulting time is: 41 milliseconds
+The number 85 test, with thread count of 32 and product count of 1250 the resulting time is: 68 milliseconds
+The number 86 test, with thread count of 32 and product count of 2000 the resulting time is: 112 milliseconds
+The number 87 test, with thread count of 32 and product count of 2500 the resulting time is: 153 milliseconds
+The number 88 test, with thread count of 32 and product count of 5000 the resulting time is: 309 milliseconds
+The number 89 test, with thread count of 32 and product count of 10000 the resulting time is: 513 milliseconds
+The number 90 test, with thread count of 32 and product count of 20000 the resulting time is: 1156 milliseconds
+The number 91 test, with thread count of 64 and product count of 10 the resulting time is: 3 milliseconds
+The number 92 test, with thread count of 64 and product count of 20 the resulting time is: 3 milliseconds
+The number 93 test, with thread count of 64 and product count of 30 the resulting time is: 3 milliseconds
+The number 94 test, with thread count of 64 and product count of 40 the resulting time is: 5 milliseconds
+The number 95 test, with thread count of 64 and product count of 50 the resulting time is: 7 milliseconds
+The number 96 test, with thread count of 64 and product count of 150 the resulting time is: 28 milliseconds
+The number 97 test, with thread count of 64 and product count of 350 the resulting time is: 49 milliseconds
+The number 98 test, with thread count of 64 and product count of 500 the resulting time is: 83 milliseconds
+The number 99 test, with thread count of 64 and product count of 750 the resulting time is: 127 milliseconds
+The number 100 test, with thread count of 64 and product count of 1250 the resulting time is: 215 milliseconds
+The number 101 test, with thread count of 64 and product count of 2000 the resulting time is: 323 milliseconds
+The number 102 test, with thread count of 64 and product count of 2500 the resulting time is: 318 milliseconds
+The number 103 test, with thread count of 64 and product count of 5000 the resulting time is: 679 milliseconds
+The number 104 test, with thread count of 64 and product count of 10000 the resulting time is: 1219 milliseconds
+The number 105 test, with thread count of 64 and product count of 20000 the resulting time is: 2770 milliseconds
+The number 106 test, with thread count of 128 and product count of 10 the resulting time is: 4 milliseconds
+The number 107 test, with thread count of 128 and product count of 20 the resulting time is: 2 milliseconds
+The number 108 test, with thread count of 128 and product count of 30 the resulting time is: 8 milliseconds
+The number 109 test, with thread count of 128 and product count of 40 the resulting time is: 13 milliseconds
+The number 110 test, with thread count of 128 and product count of 50 the resulting time is: 20 milliseconds
+The number 111 test, with thread count of 128 and product count of 150 the resulting time is: 54 milliseconds
+The number 112 test, with thread count of 128 and product count of 350 the resulting time is: 119 milliseconds
+The number 113 test, with thread count of 128 and product count of 500 the resulting time is: 177 milliseconds
+The number 114 test, with thread count of 128 and product count of 750 the resulting time is: 283 milliseconds
+The number 115 test, with thread count of 128 and product count of 1250 the resulting time is: 401 milliseconds
+The number 116 test, with thread count of 128 and product count of 2000 the resulting time is: 627 milliseconds
+The number 117 test, with thread count of 128 and product count of 2500 the resulting time is: 972 milliseconds
+The number 118 test, with thread count of 128 and product count of 5000 the resulting time is: 1684 milliseconds
+The number 119 test, with thread count of 128 and product count of 10000 the resulting time is: 3413 milliseconds
+The number 120 test, with thread count of 128 and product count of 20000 the resulting time is: 6881 milliseconds
+The number 121 test, with thread count of 256 and product count of 10 the resulting time is: 3 milliseconds
+The number 122 test, with thread count of 256 and product count of 20 the resulting time is: 3 milliseconds
+The number 123 test, with thread count of 256 and product count of 30 the resulting time is: 14 milliseconds
+The number 124 test, with thread count of 256 and product count of 40 the resulting time is: 21 milliseconds
+The number 125 test, with thread count of 256 and product count of 50 the resulting time is: 36 milliseconds
+The number 126 test, with thread count of 256 and product count of 150 the resulting time is: 112 milliseconds
+The number 127 test, with thread count of 256 and product count of 350 the resulting time is: 347 milliseconds
+The number 128 test, with thread count of 256 and product count of 500 the resulting time is: 429 milliseconds
+The number 129 test, with thread count of 256 and product count of 750 the resulting time is: 607 milliseconds
+The number 130 test, with thread count of 256 and product count of 1250 the resulting time is: 1078 milliseconds
+The number 131 test, with thread count of 256 and product count of 2000 the resulting time is: 1528 milliseconds
+The number 132 test, with thread count of 256 and product count of 2500 the resulting time is: 2017 milliseconds
+The number 133 test, with thread count of 256 and product count of 5000 the resulting time is: 5285 milliseconds
+The number 134 test, with thread count of 256 and product count of 10000 the resulting time is: 7887 milliseconds
+The number 135 test, with thread count of 256 and product count of 20000 the resulting time is: 16598 milliseconds
+The number 136 test, with thread count of 512 and product count of 10 the resulting time is: 2 milliseconds
+The number 137 test, with thread count of 512 and product count of 20 the resulting time is: 4 milliseconds
+The number 138 test, with thread count of 512 and product count of 30 the resulting time is: 31 milliseconds
+The number 139 test, with thread count of 512 and product count of 40 the resulting time is: 43 milliseconds
+The number 140 test, with thread count of 512 and product count of 50 the resulting time is: 67 milliseconds
+The number 141 test, with thread count of 512 and product count of 150 the resulting time is: 238 milliseconds
+The number 142 test, with thread count of 512 and product count of 350 the resulting time is: 583 milliseconds
+The number 143 test, with thread count of 512 and product count of 500 the resulting time is: 867 milliseconds
+The number 144 test, with thread count of 512 and product count of 750 the resulting time is: 1269 milliseconds
+The number 145 test, with thread count of 512 and product count of 1250 the resulting time is: 2180 milliseconds
+The number 146 test, with thread count of 512 and product count of 2000 the resulting time is: 3529 milliseconds
+The number 147 test, with thread count of 512 and product count of 2500 the resulting time is: 4397 milliseconds
+The number 148 test, with thread count of 512 and product count of 5000 the resulting time is: 8916 milliseconds
+The number 149 test, with thread count of 512 and product count of 10000 the resulting time is: 17519 milliseconds
+The number 150 test, with thread count of 512 and product count of 20000 the resulting time is: 32288 milliseconds
+The number 151 test, with thread count of 1024 and product count of 10 the resulting time is: 1 milliseconds
+The number 152 test, with thread count of 1024 and product count of 20 the resulting time is: 24 milliseconds
+The number 153 test, with thread count of 1024 and product count of 30 the resulting time is: 51 milliseconds
+The number 154 test, with thread count of 1024 and product count of 40 the resulting time is: 88 milliseconds
+The number 155 test, with thread count of 1024 and product count of 50 the resulting time is: 125 milliseconds
+The number 156 test, with thread count of 1024 and product count of 150 the resulting time is: 442 milliseconds
+The number 157 test, with thread count of 1024 and product count of 350 the resulting time is: 1119 milliseconds
+The number 158 test, with thread count of 1024 and product count of 500 the resulting time is: 1642 milliseconds
+The number 159 test, with thread count of 1024 and product count of 750 the resulting time is: 2397 milliseconds
+The number 160 test, with thread count of 1024 and product count of 1250 the resulting time is: 4164 milliseconds
+The number 161 test, with thread count of 1024 and product count of 2000 the resulting time is: 6648 milliseconds
+The number 162 test, with thread count of 1024 and product count of 2500 the resulting time is: 8720 milliseconds
+The number 163 test, with thread count of 1024 and product count of 5000 the resulting time is: 17381 milliseconds
+The number 164 test, with thread count of 1024 and product count of 10000 the resulting time is: 32949 milliseconds
+The number 165 test, with thread count of 1024 and product count of 20000 the resulting time is: 65582 milliseconds
+The number 166 test, with thread count of 2048 and product count of 10 the resulting time is: 3 milliseconds
+The number 167 test, with thread count of 2048 and product count of 20 the resulting time is: 1 milliseconds
+The number 168 test, with thread count of 2048 and product count of 30 the resulting time is: 90 milliseconds
+The number 169 test, with thread count of 2048 and product count of 40 the resulting time is: 172 milliseconds
+The number 170 test, with thread count of 2048 and product count of 50 the resulting time is: 250 milliseconds
+The number 171 test, with thread count of 2048 and product count of 150 the resulting time is: 1015 milliseconds
+The number 172 test, with thread count of 2048 and product count of 350 the resulting time is: 2345 milliseconds
+The number 173 test, with thread count of 2048 and product count of 500 the resulting time is: 3359 milliseconds
+The number 174 test, with thread count of 2048 and product count of 750 the resulting time is: 4978 milliseconds
+The number 175 test, with thread count of 2048 and product count of 1250 the resulting time is: 8509 milliseconds
+The number 176 test, with thread count of 2048 and product count of 2000 the resulting time is: 13471 milliseconds
+The number 177 test, with thread count of 2048 and product count of 2500 the resulting time is: 16573 milliseconds
+The number 178 test, with thread count of 2048 and product count of 5000 the resulting time is: 33536 milliseconds
+The number 179 test, with thread count of 2048 and product count of 10000 the resulting time is: 67193 milliseconds
+The number 180 test, with thread count of 2048 and product count of 20000 the resulting time is: 130305 milliseconds
+The number 181 test, with thread count of 4096 and product count of 10 the resulting time is: 1 milliseconds
+The number 182 test, with thread count of 4096 and product count of 20 the resulting time is: 3 milliseconds
+The number 183 test, with thread count of 4096 and product count of 30 the resulting time is: 158 milliseconds
+The number 184 test, with thread count of 4096 and product count of 40 the resulting time is: 291 milliseconds
+The number 185 test, with thread count of 4096 and product count of 50 the resulting time is: 439 milliseconds
+The number 186 test, with thread count of 4096 and product count of 150 the resulting time is: 1828 milliseconds
+The number 187 test, with thread count of 4096 and product count of 350 the resulting time is: 4461 milliseconds
+The number 188 test, with thread count of 4096 and product count of 500 the resulting time is: 6308 milliseconds
+The number 189 test, with thread count of 4096 and product count of 750 the resulting time is: 9324 milliseconds
+The number 190 test, with thread count of 4096 and product count of 1250 the resulting time is: 15714 milliseconds
+The number 191 test, with thread count of 4096 and product count of 2000 the resulting time is: 25642 milliseconds
+The number 192 test, with thread count of 4096 and product count of 2500 the resulting time is: 31817 milliseconds
+The number 193 test, with thread count of 4096 and product count of 5000 the resulting time is: 65186 milliseconds
+The number 194 test, with thread count of 4096 and product count of 10000 the resulting time is: 129893 milliseconds
+The number 195 test, with thread count of 4096 and product count of 20000 the resulting time is: 265937 milliseconds
+The number 196 test, with thread count of 8196 and product count of 10 the resulting time is: 2 milliseconds
+The number 197 test, with thread count of 8196 and product count of 20 the resulting time is: 3 milliseconds
+The number 198 test, with thread count of 8196 and product count of 30 the resulting time is: 220 milliseconds
+The number 199 test, with thread count of 8196 and product count of 40 the resulting time is: 473 milliseconds
+The number 200 test, with thread count of 8196 and product count of 50 the resulting time is: 780 milliseconds
+The number 201 test, with thread count of 8196 and product count of 150 the resulting time is: 3563 milliseconds
+The number 202 test, with thread count of 8196 and product count of 350 the resulting time is: 9263 milliseconds
+The number 203 test, with thread count of 8196 and product count of 500 the resulting time is: 13343 milliseconds
+The number 204 test, with thread count of 8196 and product count of 750 the resulting time is: 19987 milliseconds
+The number 205 test, with thread count of 8196 and product count of 1250 the resulting time is: 33479 milliseconds
+The number 206 test, with thread count of 8196 and product count of 2000 the resulting time is: 53981 milliseconds
+The number 207 test, with thread count of 8196 and product count of 2500 the resulting time is: 67303 milliseconds
+The number 208 test, with thread count of 8196 and product count of 5000 the resulting time is: 134545 milliseconds
+The number 209 test, with thread count of 8196 and product count of 10000 the resulting time is: 271966 milliseconds
+The number 210 test, with thread count of 8196 and product count of 20000 the resulting time is: 535585 milliseconds
+The number 211 test, with thread count of 10000 and product count of 10 the resulting time is: 1 milliseconds
+The number 212 test, with thread count of 10000 and product count of 20 the resulting time is: 31 milliseconds
+The number 213 test, with thread count of 10000 and product count of 30 the resulting time is: 148 milliseconds
+The number 214 test, with thread count of 10000 and product count of 40 the resulting time is: 405 milliseconds
+The number 215 test, with thread count of 10000 and product count of 50 the resulting time is: 695 milliseconds
+The number 216 test, with thread count of 10000 and product count of 150 the resulting time is: 4156 milliseconds
+The number 217 test, with thread count of 10000 and product count of 350 the resulting time is: 10857 milliseconds
+The number 218 test, with thread count of 10000 and product count of 500 the resulting time is: 14973 milliseconds
+The number 219 test, with thread count of 10000 and product count of 750 the resulting time is: 24147 milliseconds
+The number 220 test, with thread count of 10000 and product count of 1250 the resulting time is: 40661 milliseconds
+The number 221 test, with thread count of 10000 and product count of 2000 the resulting time is: 65536 milliseconds
+The number 222 test, with thread count of 10000 and product count of 2500 the resulting time is: 83665 milliseconds
+The number 223 test, with thread count of 10000 and product count of 5000 the resulting time is: 169301 milliseconds
+The number 224 test, with thread count of 10000 and product count of 10000 the resulting time is: 330958 milliseconds
+The number 225 test, with thread count of 10000 and product count of 20000 the resulting time is: 689186 milliseconds

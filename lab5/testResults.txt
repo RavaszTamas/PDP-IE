@@ -1,0 +1,5050 @@
+Test with size: 10
+simple sequential test:10 time: 0 ms
+simple parallel test:10 time: 0 ms
+karatsuba sequential test:10 time: 0 ms
+karatsuba parallel test:10 time: 4 ms
+Test with size: 11
+simple sequential test:11 time: 0 ms
+simple parallel test:11 time: 4 ms
+karatsuba sequential test:11 time: 0 ms
+karatsuba parallel test:11 time: 4 ms
+Test with size: 12
+simple sequential test:12 time: 0 ms
+simple parallel test:12 time: 1 ms
+karatsuba sequential test:12 time: 0 ms
+karatsuba parallel test:12 time: 4 ms
+Test with size: 13
+simple sequential test:13 time: 0 ms
+simple parallel test:13 time: 1 ms
+karatsuba sequential test:13 time: 0 ms
+karatsuba parallel test:13 time: 4 ms
+Test with size: 14
+simple sequential test:14 time: 0 ms
+simple parallel test:14 time: 0 ms
+karatsuba sequential test:14 time: 0 ms
+karatsuba parallel test:14 time: 4 ms
+Test with size: 15
+simple sequential test:15 time: 0 ms
+simple parallel test:15 time: 0 ms
+karatsuba sequential test:15 time: 0 ms
+karatsuba parallel test:15 time: 5 ms
+Test with size: 16
+simple sequential test:16 time: 0 ms
+simple parallel test:16 time: 1 ms
+karatsuba sequential test:16 time: 0 ms
+karatsuba parallel test:16 time: 5 ms
+Test with size: 17
+simple sequential test:17 time: 0 ms
+simple parallel test:17 time: 1 ms
+karatsuba sequential test:17 time: 0 ms
+karatsuba parallel test:17 time: 7 ms
+Test with size: 18
+simple sequential test:18 time: 0 ms
+simple parallel test:18 time: 0 ms
+karatsuba sequential test:18 time: 0 ms
+karatsuba parallel test:18 time: 8 ms
+Test with size: 19
+simple sequential test:19 time: 0 ms
+simple parallel test:19 time: 1 ms
+karatsuba sequential test:19 time: 0 ms
+karatsuba parallel test:19 time: 7 ms
+Test with size: 20
+simple sequential test:20 time: 0 ms
+simple parallel test:20 time: 0 ms
+karatsuba sequential test:20 time: 0 ms
+karatsuba parallel test:20 time: 9 ms
+Test with size: 21
+simple sequential test:21 time: 0 ms
+simple parallel test:21 time: 1 ms
+karatsuba sequential test:21 time: 0 ms
+karatsuba parallel test:21 time: 9 ms
+Test with size: 22
+simple sequential test:22 time: 0 ms
+simple parallel test:22 time: 0 ms
+karatsuba sequential test:22 time: 0 ms
+karatsuba parallel test:22 time: 11 ms
+Test with size: 23
+simple sequential test:23 time: 0 ms
+simple parallel test:23 time: 0 ms
+karatsuba sequential test:23 time: 0 ms
+karatsuba parallel test:23 time: 12 ms
+Test with size: 24
+simple sequential test:24 time: 0 ms
+simple parallel test:24 time: 0 ms
+karatsuba sequential test:24 time: 0 ms
+karatsuba parallel test:24 time: 11 ms
+Test with size: 25
+simple sequential test:25 time: 0 ms
+simple parallel test:25 time: 0 ms
+karatsuba sequential test:25 time: 0 ms
+karatsuba parallel test:25 time: 12 ms
+Test with size: 26
+simple sequential test:26 time: 0 ms
+simple parallel test:26 time: 0 ms
+karatsuba sequential test:26 time: 0 ms
+karatsuba parallel test:26 time: 12 ms
+Test with size: 27
+simple sequential test:27 time: 0 ms
+simple parallel test:27 time: 0 ms
+karatsuba sequential test:27 time: 0 ms
+karatsuba parallel test:27 time: 13 ms
+Test with size: 28
+simple sequential test:28 time: 0 ms
+simple parallel test:28 time: 1 ms
+karatsuba sequential test:28 time: 0 ms
+karatsuba parallel test:28 time: 13 ms
+Test with size: 29
+simple sequential test:29 time: 0 ms
+simple parallel test:29 time: 1 ms
+karatsuba sequential test:29 time: 0 ms
+karatsuba parallel test:29 time: 14 ms
+Test with size: 30
+simple sequential test:30 time: 0 ms
+simple parallel test:30 time: 0 ms
+karatsuba sequential test:30 time: 0 ms
+karatsuba parallel test:30 time: 14 ms
+Test with size: 31
+simple sequential test:31 time: 0 ms
+simple parallel test:31 time: 0 ms
+karatsuba sequential test:31 time: 0 ms
+karatsuba parallel test:31 time: 16 ms
+Test with size: 32
+simple sequential test:32 time: 0 ms
+simple parallel test:32 time: 1 ms
+karatsuba sequential test:32 time: 0 ms
+karatsuba parallel test:32 time: 16 ms
+Test with size: 33
+simple sequential test:33 time: 0 ms
+simple parallel test:33 time: 1 ms
+karatsuba sequential test:33 time: 0 ms
+karatsuba parallel test:33 time: 22 ms
+Test with size: 34
+simple sequential test:34 time: 0 ms
+simple parallel test:34 time: 0 ms
+karatsuba sequential test:34 time: 0 ms
+karatsuba parallel test:34 time: 23 ms
+Test with size: 35
+simple sequential test:35 time: 0 ms
+simple parallel test:35 time: 1 ms
+karatsuba sequential test:35 time: 0 ms
+karatsuba parallel test:35 time: 23 ms
+Test with size: 36
+simple sequential test:36 time: 0 ms
+simple parallel test:36 time: 0 ms
+karatsuba sequential test:36 time: 0 ms
+karatsuba parallel test:36 time: 24 ms
+Test with size: 37
+simple sequential test:37 time: 0 ms
+simple parallel test:37 time: 1 ms
+karatsuba sequential test:37 time: 0 ms
+karatsuba parallel test:37 time: 26 ms
+Test with size: 38
+simple sequential test:38 time: 0 ms
+simple parallel test:38 time: 1 ms
+karatsuba sequential test:38 time: 0 ms
+karatsuba parallel test:38 time: 26 ms
+Test with size: 39
+simple sequential test:39 time: 0 ms
+simple parallel test:39 time: 1 ms
+karatsuba sequential test:39 time: 0 ms
+karatsuba parallel test:39 time: 28 ms
+Test with size: 40
+simple sequential test:40 time: 0 ms
+simple parallel test:40 time: 0 ms
+karatsuba sequential test:40 time: 0 ms
+karatsuba parallel test:40 time: 30 ms
+Test with size: 41
+simple sequential test:41 time: 0 ms
+simple parallel test:41 time: 1 ms
+karatsuba sequential test:41 time: 0 ms
+karatsuba parallel test:41 time: 33 ms
+Test with size: 42
+simple sequential test:42 time: 0 ms
+simple parallel test:42 time: 0 ms
+karatsuba sequential test:42 time: 0 ms
+karatsuba parallel test:42 time: 35 ms
+Test with size: 43
+simple sequential test:43 time: 0 ms
+simple parallel test:43 time: 1 ms
+karatsuba sequential test:43 time: 0 ms
+karatsuba parallel test:43 time: 39 ms
+Test with size: 44
+simple sequential test:44 time: 0 ms
+simple parallel test:44 time: 1 ms
+karatsuba sequential test:44 time: 0 ms
+karatsuba parallel test:44 time: 41 ms
+Test with size: 45
+simple sequential test:45 time: 0 ms
+simple parallel test:45 time: 0 ms
+karatsuba sequential test:45 time: 1 ms
+karatsuba parallel test:45 time: 45 ms
+Test with size: 46
+simple sequential test:46 time: 0 ms
+simple parallel test:46 time: 0 ms
+karatsuba sequential test:46 time: 1 ms
+karatsuba parallel test:46 time: 43 ms
+Test with size: 47
+simple sequential test:47 time: 0 ms
+simple parallel test:47 time: 1 ms
+karatsuba sequential test:47 time: 0 ms
+karatsuba parallel test:47 time: 37 ms
+Test with size: 48
+simple sequential test:48 time: 0 ms
+simple parallel test:48 time: 0 ms
+karatsuba sequential test:48 time: 0 ms
+karatsuba parallel test:48 time: 41 ms
+Test with size: 49
+simple sequential test:49 time: 0 ms
+simple parallel test:49 time: 0 ms
+karatsuba sequential test:49 time: 0 ms
+karatsuba parallel test:49 time: 40 ms
+Test with size: 50
+simple sequential test:50 time: 0 ms
+simple parallel test:50 time: 1 ms
+karatsuba sequential test:50 time: 0 ms
+karatsuba parallel test:50 time: 38 ms
+Test with size: 51
+simple sequential test:51 time: 0 ms
+simple parallel test:51 time: 0 ms
+karatsuba sequential test:51 time: 0 ms
+karatsuba parallel test:51 time: 38 ms
+Test with size: 52
+simple sequential test:52 time: 0 ms
+simple parallel test:52 time: 0 ms
+karatsuba sequential test:52 time: 0 ms
+karatsuba parallel test:52 time: 37 ms
+Test with size: 53
+simple sequential test:53 time: 0 ms
+simple parallel test:53 time: 0 ms
+karatsuba sequential test:53 time: 1 ms
+karatsuba parallel test:53 time: 41 ms
+Test with size: 54
+simple sequential test:54 time: 0 ms
+simple parallel test:54 time: 0 ms
+karatsuba sequential test:54 time: 1 ms
+karatsuba parallel test:54 time: 39 ms
+Test with size: 55
+simple sequential test:55 time: 0 ms
+simple parallel test:55 time: 1 ms
+karatsuba sequential test:55 time: 0 ms
+karatsuba parallel test:55 time: 39 ms
+Test with size: 56
+simple sequential test:56 time: 0 ms
+simple parallel test:56 time: 0 ms
+karatsuba sequential test:56 time: 0 ms
+karatsuba parallel test:56 time: 41 ms
+Test with size: 57
+simple sequential test:57 time: 0 ms
+simple parallel test:57 time: 1 ms
+karatsuba sequential test:57 time: 0 ms
+karatsuba parallel test:57 time: 44 ms
+Test with size: 58
+simple sequential test:58 time: 0 ms
+simple parallel test:58 time: 1 ms
+karatsuba sequential test:58 time: 0 ms
+karatsuba parallel test:58 time: 48 ms
+Test with size: 59
+simple sequential test:59 time: 0 ms
+simple parallel test:59 time: 0 ms
+karatsuba sequential test:59 time: 0 ms
+karatsuba parallel test:59 time: 46 ms
+Test with size: 60
+simple sequential test:60 time: 0 ms
+simple parallel test:60 time: 1 ms
+karatsuba sequential test:60 time: 0 ms
+karatsuba parallel test:60 time: 48 ms
+Test with size: 61
+simple sequential test:61 time: 0 ms
+simple parallel test:61 time: 1 ms
+karatsuba sequential test:61 time: 0 ms
+karatsuba parallel test:61 time: 45 ms
+Test with size: 62
+simple sequential test:62 time: 0 ms
+simple parallel test:62 time: 1 ms
+karatsuba sequential test:62 time: 0 ms
+karatsuba parallel test:62 time: 46 ms
+Test with size: 63
+simple sequential test:63 time: 0 ms
+simple parallel test:63 time: 1 ms
+karatsuba sequential test:63 time: 0 ms
+karatsuba parallel test:63 time: 48 ms
+Test with size: 64
+simple sequential test:64 time: 0 ms
+simple parallel test:64 time: 0 ms
+karatsuba sequential test:64 time: 0 ms
+karatsuba parallel test:64 time: 49 ms
+Test with size: 65
+simple sequential test:65 time: 0 ms
+simple parallel test:65 time: 0 ms
+karatsuba sequential test:65 time: 1 ms
+karatsuba parallel test:65 time: 48 ms
+Test with size: 66
+simple sequential test:66 time: 0 ms
+simple parallel test:66 time: 1 ms
+karatsuba sequential test:66 time: 0 ms
+karatsuba parallel test:66 time: 50 ms
+Test with size: 67
+simple sequential test:67 time: 0 ms
+simple parallel test:67 time: 1 ms
+karatsuba sequential test:67 time: 0 ms
+karatsuba parallel test:67 time: 51 ms
+Test with size: 68
+simple sequential test:68 time: 0 ms
+simple parallel test:68 time: 0 ms
+karatsuba sequential test:68 time: 0 ms
+karatsuba parallel test:68 time: 49 ms
+Test with size: 69
+simple sequential test:69 time: 0 ms
+simple parallel test:69 time: 0 ms
+karatsuba sequential test:69 time: 1 ms
+karatsuba parallel test:69 time: 49 ms
+Test with size: 70
+simple sequential test:70 time: 0 ms
+simple parallel test:70 time: 0 ms
+karatsuba sequential test:70 time: 0 ms
+karatsuba parallel test:70 time: 48 ms
+Test with size: 71
+simple sequential test:71 time: 0 ms
+simple parallel test:71 time: 0 ms
+karatsuba sequential test:71 time: 0 ms
+karatsuba parallel test:71 time: 50 ms
+Test with size: 72
+simple sequential test:72 time: 1 ms
+simple parallel test:72 time: 0 ms
+karatsuba sequential test:72 time: 0 ms
+karatsuba parallel test:72 time: 50 ms
+Test with size: 73
+simple sequential test:73 time: 0 ms
+simple parallel test:73 time: 1 ms
+karatsuba sequential test:73 time: 0 ms
+karatsuba parallel test:73 time: 51 ms
+Test with size: 74
+simple sequential test:74 time: 0 ms
+simple parallel test:74 time: 1 ms
+karatsuba sequential test:74 time: 0 ms
+karatsuba parallel test:74 time: 52 ms
+Test with size: 75
+simple sequential test:75 time: 0 ms
+simple parallel test:75 time: 0 ms
+karatsuba sequential test:75 time: 0 ms
+karatsuba parallel test:75 time: 54 ms
+Test with size: 76
+simple sequential test:76 time: 0 ms
+simple parallel test:76 time: 1 ms
+karatsuba sequential test:76 time: 0 ms
+karatsuba parallel test:76 time: 53 ms
+Test with size: 77
+simple sequential test:77 time: 0 ms
+simple parallel test:77 time: 1 ms
+karatsuba sequential test:77 time: 0 ms
+karatsuba parallel test:77 time: 60 ms
+Test with size: 78
+simple sequential test:78 time: 0 ms
+simple parallel test:78 time: 0 ms
+karatsuba sequential test:78 time: 0 ms
+karatsuba parallel test:78 time: 61 ms
+Test with size: 79
+simple sequential test:79 time: 0 ms
+simple parallel test:79 time: 0 ms
+karatsuba sequential test:79 time: 1 ms
+karatsuba parallel test:79 time: 62 ms
+Test with size: 80
+simple sequential test:80 time: 0 ms
+simple parallel test:80 time: 0 ms
+karatsuba sequential test:80 time: 0 ms
+karatsuba parallel test:80 time: 58 ms
+Test with size: 81
+simple sequential test:81 time: 0 ms
+simple parallel test:81 time: 0 ms
+karatsuba sequential test:81 time: 0 ms
+karatsuba parallel test:81 time: 59 ms
+Test with size: 82
+simple sequential test:82 time: 0 ms
+simple parallel test:82 time: 0 ms
+karatsuba sequential test:82 time: 1 ms
+karatsuba parallel test:82 time: 54 ms
+Test with size: 83
+simple sequential test:83 time: 0 ms
+simple parallel test:83 time: 1 ms
+karatsuba sequential test:83 time: 0 ms
+karatsuba parallel test:83 time: 57 ms
+Test with size: 84
+simple sequential test:84 time: 0 ms
+simple parallel test:84 time: 1 ms
+karatsuba sequential test:84 time: 0 ms
+karatsuba parallel test:84 time: 58 ms
+Test with size: 85
+simple sequential test:85 time: 0 ms
+simple parallel test:85 time: 0 ms
+karatsuba sequential test:85 time: 1 ms
+karatsuba parallel test:85 time: 62 ms
+Test with size: 86
+simple sequential test:86 time: 0 ms
+simple parallel test:86 time: 0 ms
+karatsuba sequential test:86 time: 1 ms
+karatsuba parallel test:86 time: 59 ms
+Test with size: 87
+simple sequential test:87 time: 0 ms
+simple parallel test:87 time: 1 ms
+karatsuba sequential test:87 time: 0 ms
+karatsuba parallel test:87 time: 62 ms
+Test with size: 88
+simple sequential test:88 time: 0 ms
+simple parallel test:88 time: 0 ms
+karatsuba sequential test:88 time: 1 ms
+karatsuba parallel test:88 time: 63 ms
+Test with size: 89
+simple sequential test:89 time: 0 ms
+simple parallel test:89 time: 0 ms
+karatsuba sequential test:89 time: 1 ms
+karatsuba parallel test:89 time: 58 ms
+Test with size: 90
+simple sequential test:90 time: 0 ms
+simple parallel test:90 time: 0 ms
+karatsuba sequential test:90 time: 1 ms
+karatsuba parallel test:90 time: 70 ms
+Test with size: 91
+simple sequential test:91 time: 0 ms
+simple parallel test:91 time: 1 ms
+karatsuba sequential test:91 time: 0 ms
+karatsuba parallel test:91 time: 63 ms
+Test with size: 92
+simple sequential test:92 time: 0 ms
+simple parallel test:92 time: 1 ms
+karatsuba sequential test:92 time: 0 ms
+karatsuba parallel test:92 time: 62 ms
+Test with size: 93
+simple sequential test:93 time: 0 ms
+simple parallel test:93 time: 1 ms
+karatsuba sequential test:93 time: 0 ms
+karatsuba parallel test:93 time: 62 ms
+Test with size: 94
+simple sequential test:94 time: 0 ms
+simple parallel test:94 time: 1 ms
+karatsuba sequential test:94 time: 1 ms
+karatsuba parallel test:94 time: 61 ms
+Test with size: 95
+simple sequential test:95 time: 0 ms
+simple parallel test:95 time: 0 ms
+karatsuba sequential test:95 time: 0 ms
+karatsuba parallel test:95 time: 65 ms
+Test with size: 96
+simple sequential test:96 time: 0 ms
+simple parallel test:96 time: 1 ms
+karatsuba sequential test:96 time: 0 ms
+karatsuba parallel test:96 time: 64 ms
+Test with size: 97
+simple sequential test:97 time: 0 ms
+simple parallel test:97 time: 1 ms
+karatsuba sequential test:97 time: 0 ms
+karatsuba parallel test:97 time: 64 ms
+Test with size: 98
+simple sequential test:98 time: 0 ms
+simple parallel test:98 time: 0 ms
+karatsuba sequential test:98 time: 1 ms
+karatsuba parallel test:98 time: 74 ms
+Test with size: 99
+simple sequential test:99 time: 0 ms
+simple parallel test:99 time: 1 ms
+karatsuba sequential test:99 time: 0 ms
+karatsuba parallel test:99 time: 66 ms
+Test with size: 100
+simple sequential test:100 time: 0 ms
+simple parallel test:100 time: 1 ms
+karatsuba sequential test:100 time: 0 ms
+karatsuba parallel test:100 time: 65 ms
+Test with size: 101
+simple sequential test:101 time: 0 ms
+simple parallel test:101 time: 0 ms
+karatsuba sequential test:101 time: 1 ms
+karatsuba parallel test:101 time: 72 ms
+Test with size: 102
+simple sequential test:102 time: 0 ms
+simple parallel test:102 time: 1 ms
+karatsuba sequential test:102 time: 0 ms
+karatsuba parallel test:102 time: 70 ms
+Test with size: 103
+simple sequential test:103 time: 0 ms
+simple parallel test:103 time: 0 ms
+karatsuba sequential test:103 time: 1 ms
+karatsuba parallel test:103 time: 68 ms
+Test with size: 104
+simple sequential test:104 time: 0 ms
+simple parallel test:104 time: 0 ms
+karatsuba sequential test:104 time: 1 ms
+karatsuba parallel test:104 time: 71 ms
+Test with size: 105
+simple sequential test:105 time: 0 ms
+simple parallel test:105 time: 0 ms
+karatsuba sequential test:105 time: 1 ms
+karatsuba parallel test:105 time: 71 ms
+Test with size: 106
+simple sequential test:106 time: 0 ms
+simple parallel test:106 time: 1 ms
+karatsuba sequential test:106 time: 0 ms
+karatsuba parallel test:106 time: 74 ms
+Test with size: 107
+simple sequential test:107 time: 0 ms
+simple parallel test:107 time: 1 ms
+karatsuba sequential test:107 time: 0 ms
+karatsuba parallel test:107 time: 72 ms
+Test with size: 108
+simple sequential test:108 time: 0 ms
+simple parallel test:108 time: 1 ms
+karatsuba sequential test:108 time: 0 ms
+karatsuba parallel test:108 time: 72 ms
+Test with size: 109
+simple sequential test:109 time: 0 ms
+simple parallel test:109 time: 1 ms
+karatsuba sequential test:109 time: 0 ms
+karatsuba parallel test:109 time: 71 ms
+Test with size: 110
+simple sequential test:110 time: 0 ms
+simple parallel test:110 time: 0 ms
+karatsuba sequential test:110 time: 1 ms
+karatsuba parallel test:110 time: 74 ms
+Test with size: 111
+simple sequential test:111 time: 0 ms
+simple parallel test:111 time: 0 ms
+karatsuba sequential test:111 time: 1 ms
+karatsuba parallel test:111 time: 76 ms
+Test with size: 112
+simple sequential test:112 time: 0 ms
+simple parallel test:112 time: 1 ms
+karatsuba sequential test:112 time: 0 ms
+karatsuba parallel test:112 time: 75 ms
+Test with size: 113
+simple sequential test:113 time: 0 ms
+simple parallel test:113 time: 1 ms
+karatsuba sequential test:113 time: 0 ms
+karatsuba parallel test:113 time: 73 ms
+Test with size: 114
+simple sequential test:114 time: 0 ms
+simple parallel test:114 time: 1 ms
+karatsuba sequential test:114 time: 0 ms
+karatsuba parallel test:114 time: 76 ms
+Test with size: 115
+simple sequential test:115 time: 0 ms
+simple parallel test:115 time: 0 ms
+karatsuba sequential test:115 time: 1 ms
+karatsuba parallel test:115 time: 74 ms
+Test with size: 116
+simple sequential test:116 time: 1 ms
+simple parallel test:116 time: 0 ms
+karatsuba sequential test:116 time: 1 ms
+karatsuba parallel test:116 time: 74 ms
+Test with size: 117
+simple sequential test:117 time: 0 ms
+simple parallel test:117 time: 1 ms
+karatsuba sequential test:117 time: 0 ms
+karatsuba parallel test:117 time: 76 ms
+Test with size: 118
+simple sequential test:118 time: 0 ms
+simple parallel test:118 time: 0 ms
+karatsuba sequential test:118 time: 1 ms
+karatsuba parallel test:118 time: 100 ms
+Test with size: 119
+simple sequential test:119 time: 0 ms
+simple parallel test:119 time: 1 ms
+karatsuba sequential test:119 time: 0 ms
+karatsuba parallel test:119 time: 79 ms
+Test with size: 120
+simple sequential test:120 time: 0 ms
+simple parallel test:120 time: 0 ms
+karatsuba sequential test:120 time: 0 ms
+karatsuba parallel test:120 time: 78 ms
+Test with size: 121
+simple sequential test:121 time: 0 ms
+simple parallel test:121 time: 1 ms
+karatsuba sequential test:121 time: 0 ms
+karatsuba parallel test:121 time: 80 ms
+Test with size: 122
+simple sequential test:122 time: 0 ms
+simple parallel test:122 time: 1 ms
+karatsuba sequential test:122 time: 0 ms
+karatsuba parallel test:122 time: 82 ms
+Test with size: 123
+simple sequential test:123 time: 0 ms
+simple parallel test:123 time: 0 ms
+karatsuba sequential test:123 time: 1 ms
+karatsuba parallel test:123 time: 83 ms
+Test with size: 124
+simple sequential test:124 time: 0 ms
+simple parallel test:124 time: 1 ms
+karatsuba sequential test:124 time: 0 ms
+karatsuba parallel test:124 time: 78 ms
+Test with size: 125
+simple sequential test:125 time: 1 ms
+simple parallel test:125 time: 0 ms
+karatsuba sequential test:125 time: 0 ms
+karatsuba parallel test:125 time: 78 ms
+Test with size: 126
+simple sequential test:126 time: 1 ms
+simple parallel test:126 time: 0 ms
+karatsuba sequential test:126 time: 1 ms
+karatsuba parallel test:126 time: 88 ms
+Test with size: 127
+simple sequential test:127 time: 0 ms
+simple parallel test:127 time: 0 ms
+karatsuba sequential test:127 time: 1 ms
+karatsuba parallel test:127 time: 94 ms
+Test with size: 128
+simple sequential test:128 time: 0 ms
+simple parallel test:128 time: 1 ms
+karatsuba sequential test:128 time: 0 ms
+karatsuba parallel test:128 time: 92 ms
+Test with size: 129
+simple sequential test:129 time: 0 ms
+simple parallel test:129 time: 1 ms
+karatsuba sequential test:129 time: 1 ms
+karatsuba parallel test:129 time: 90 ms
+Test with size: 130
+simple sequential test:130 time: 0 ms
+simple parallel test:130 time: 1 ms
+karatsuba sequential test:130 time: 1 ms
+karatsuba parallel test:130 time: 85 ms
+Test with size: 131
+simple sequential test:131 time: 0 ms
+simple parallel test:131 time: 1 ms
+karatsuba sequential test:131 time: 1 ms
+karatsuba parallel test:131 time: 89 ms
+Test with size: 132
+simple sequential test:132 time: 0 ms
+simple parallel test:132 time: 1 ms
+karatsuba sequential test:132 time: 1 ms
+karatsuba parallel test:132 time: 86 ms
+Test with size: 133
+simple sequential test:133 time: 0 ms
+simple parallel test:133 time: 0 ms
+karatsuba sequential test:133 time: 1 ms
+karatsuba parallel test:133 time: 87 ms
+Test with size: 134
+simple sequential test:134 time: 0 ms
+simple parallel test:134 time: 1 ms
+karatsuba sequential test:134 time: 1 ms
+karatsuba parallel test:134 time: 87 ms
+Test with size: 135
+simple sequential test:135 time: 0 ms
+simple parallel test:135 time: 1 ms
+karatsuba sequential test:135 time: 1 ms
+karatsuba parallel test:135 time: 86 ms
+Test with size: 136
+simple sequential test:136 time: 1 ms
+simple parallel test:136 time: 0 ms
+karatsuba sequential test:136 time: 1 ms
+karatsuba parallel test:136 time: 85 ms
+Test with size: 137
+simple sequential test:137 time: 0 ms
+simple parallel test:137 time: 1 ms
+karatsuba sequential test:137 time: 1 ms
+karatsuba parallel test:137 time: 87 ms
+Test with size: 138
+simple sequential test:138 time: 0 ms
+simple parallel test:138 time: 1 ms
+karatsuba sequential test:138 time: 1 ms
+karatsuba parallel test:138 time: 85 ms
+Test with size: 139
+simple sequential test:139 time: 1 ms
+simple parallel test:139 time: 0 ms
+karatsuba sequential test:139 time: 1 ms
+karatsuba parallel test:139 time: 87 ms
+Test with size: 140
+simple sequential test:140 time: 0 ms
+simple parallel test:140 time: 1 ms
+karatsuba sequential test:140 time: 1 ms
+karatsuba parallel test:140 time: 86 ms
+Test with size: 141
+simple sequential test:141 time: 0 ms
+simple parallel test:141 time: 1 ms
+karatsuba sequential test:141 time: 1 ms
+karatsuba parallel test:141 time: 85 ms
+Test with size: 142
+simple sequential test:142 time: 0 ms
+simple parallel test:142 time: 0 ms
+karatsuba sequential test:142 time: 1 ms
+karatsuba parallel test:142 time: 86 ms
+Test with size: 143
+simple sequential test:143 time: 0 ms
+simple parallel test:143 time: 0 ms
+karatsuba sequential test:143 time: 1 ms
+karatsuba parallel test:143 time: 89 ms
+Test with size: 144
+simple sequential test:144 time: 0 ms
+simple parallel test:144 time: 1 ms
+karatsuba sequential test:144 time: 0 ms
+karatsuba parallel test:144 time: 83 ms
+Test with size: 145
+simple sequential test:145 time: 0 ms
+simple parallel test:145 time: 1 ms
+karatsuba sequential test:145 time: 0 ms
+karatsuba parallel test:145 time: 84 ms
+Test with size: 146
+simple sequential test:146 time: 0 ms
+simple parallel test:146 time: 0 ms
+karatsuba sequential test:146 time: 1 ms
+karatsuba parallel test:146 time: 86 ms
+Test with size: 147
+simple sequential test:147 time: 0 ms
+simple parallel test:147 time: 1 ms
+karatsuba sequential test:147 time: 1 ms
+karatsuba parallel test:147 time: 90 ms
+Test with size: 148
+simple sequential test:148 time: 0 ms
+simple parallel test:148 time: 0 ms
+karatsuba sequential test:148 time: 1 ms
+karatsuba parallel test:148 time: 88 ms
+Test with size: 149
+simple sequential test:149 time: 0 ms
+simple parallel test:149 time: 1 ms
+karatsuba sequential test:149 time: 0 ms
+karatsuba parallel test:149 time: 89 ms
+Test with size: 150
+simple sequential test:150 time: 0 ms
+simple parallel test:150 time: 1 ms
+karatsuba sequential test:150 time: 0 ms
+karatsuba parallel test:150 time: 85 ms
+Test with size: 151
+simple sequential test:151 time: 1 ms
+simple parallel test:151 time: 0 ms
+karatsuba sequential test:151 time: 1 ms
+karatsuba parallel test:151 time: 87 ms
+Test with size: 152
+simple sequential test:152 time: 1 ms
+simple parallel test:152 time: 1 ms
+karatsuba sequential test:152 time: 0 ms
+karatsuba parallel test:152 time: 91 ms
+Test with size: 153
+simple sequential test:153 time: 0 ms
+simple parallel test:153 time: 0 ms
+karatsuba sequential test:153 time: 1 ms
+karatsuba parallel test:153 time: 89 ms
+Test with size: 154
+simple sequential test:154 time: 0 ms
+simple parallel test:154 time: 0 ms
+karatsuba sequential test:154 time: 0 ms
+karatsuba parallel test:154 time: 93 ms
+Test with size: 155
+simple sequential test:155 time: 0 ms
+simple parallel test:155 time: 0 ms
+karatsuba sequential test:155 time: 1 ms
+karatsuba parallel test:155 time: 88 ms
+Test with size: 156
+simple sequential test:156 time: 0 ms
+simple parallel test:156 time: 1 ms
+karatsuba sequential test:156 time: 1 ms
+karatsuba parallel test:156 time: 87 ms
+Test with size: 157
+simple sequential test:157 time: 1 ms
+simple parallel test:157 time: 0 ms
+karatsuba sequential test:157 time: 1 ms
+karatsuba parallel test:157 time: 88 ms
+Test with size: 158
+simple sequential test:158 time: 0 ms
+simple parallel test:158 time: 1 ms
+karatsuba sequential test:158 time: 0 ms
+karatsuba parallel test:158 time: 87 ms
+Test with size: 159
+simple sequential test:159 time: 0 ms
+simple parallel test:159 time: 1 ms
+karatsuba sequential test:159 time: 0 ms
+karatsuba parallel test:159 time: 86 ms
+Test with size: 160
+simple sequential test:160 time: 0 ms
+simple parallel test:160 time: 1 ms
+karatsuba sequential test:160 time: 1 ms
+karatsuba parallel test:160 time: 90 ms
+Test with size: 161
+simple sequential test:161 time: 0 ms
+simple parallel test:161 time: 1 ms
+karatsuba sequential test:161 time: 1 ms
+karatsuba parallel test:161 time: 88 ms
+Test with size: 162
+simple sequential test:162 time: 0 ms
+simple parallel test:162 time: 1 ms
+karatsuba sequential test:162 time: 1 ms
+karatsuba parallel test:162 time: 87 ms
+Test with size: 163
+simple sequential test:163 time: 1 ms
+simple parallel test:163 time: 1 ms
+karatsuba sequential test:163 time: 1 ms
+karatsuba parallel test:163 time: 91 ms
+Test with size: 164
+simple sequential test:164 time: 1 ms
+simple parallel test:164 time: 0 ms
+karatsuba sequential test:164 time: 1 ms
+karatsuba parallel test:164 time: 88 ms
+Test with size: 165
+simple sequential test:165 time: 1 ms
+simple parallel test:165 time: 0 ms
+karatsuba sequential test:165 time: 1 ms
+karatsuba parallel test:165 time: 91 ms
+Test with size: 166
+simple sequential test:166 time: 0 ms
+simple parallel test:166 time: 1 ms
+karatsuba sequential test:166 time: 1 ms
+karatsuba parallel test:166 time: 83 ms
+Test with size: 167
+simple sequential test:167 time: 0 ms
+simple parallel test:167 time: 1 ms
+karatsuba sequential test:167 time: 1 ms
+karatsuba parallel test:167 time: 86 ms
+Test with size: 168
+simple sequential test:168 time: 1 ms
+simple parallel test:168 time: 0 ms
+karatsuba sequential test:168 time: 1 ms
+karatsuba parallel test:168 time: 87 ms
+Test with size: 169
+simple sequential test:169 time: 0 ms
+simple parallel test:169 time: 0 ms
+karatsuba sequential test:169 time: 1 ms
+karatsuba parallel test:169 time: 87 ms
+Test with size: 170
+simple sequential test:170 time: 0 ms
+simple parallel test:170 time: 1 ms
+karatsuba sequential test:170 time: 2 ms
+karatsuba parallel test:170 time: 87 ms
+Test with size: 171
+simple sequential test:171 time: 0 ms
+simple parallel test:171 time: 0 ms
+karatsuba sequential test:171 time: 1 ms
+karatsuba parallel test:171 time: 86 ms
+Test with size: 172
+simple sequential test:172 time: 1 ms
+simple parallel test:172 time: 0 ms
+karatsuba sequential test:172 time: 1 ms
+karatsuba parallel test:172 time: 88 ms
+Test with size: 173
+simple sequential test:173 time: 0 ms
+simple parallel test:173 time: 1 ms
+karatsuba sequential test:173 time: 1 ms
+karatsuba parallel test:173 time: 85 ms
+Test with size: 174
+simple sequential test:174 time: 0 ms
+simple parallel test:174 time: 1 ms
+karatsuba sequential test:174 time: 1 ms
+karatsuba parallel test:174 time: 86 ms
+Test with size: 175
+simple sequential test:175 time: 1 ms
+simple parallel test:175 time: 0 ms
+karatsuba sequential test:175 time: 1 ms
+karatsuba parallel test:175 time: 89 ms
+Test with size: 176
+simple sequential test:176 time: 0 ms
+simple parallel test:176 time: 1 ms
+karatsuba sequential test:176 time: 1 ms
+karatsuba parallel test:176 time: 88 ms
+Test with size: 177
+simple sequential test:177 time: 0 ms
+simple parallel test:177 time: 1 ms
+karatsuba sequential test:177 time: 1 ms
+karatsuba parallel test:177 time: 86 ms
+Test with size: 178
+simple sequential test:178 time: 0 ms
+simple parallel test:178 time: 1 ms
+karatsuba sequential test:178 time: 1 ms
+karatsuba parallel test:178 time: 90 ms
+Test with size: 179
+simple sequential test:179 time: 0 ms
+simple parallel test:179 time: 1 ms
+karatsuba sequential test:179 time: 1 ms
+karatsuba parallel test:179 time: 85 ms
+Test with size: 180
+simple sequential test:180 time: 1 ms
+simple parallel test:180 time: 0 ms
+karatsuba sequential test:180 time: 1 ms
+karatsuba parallel test:180 time: 90 ms
+Test with size: 181
+simple sequential test:181 time: 0 ms
+simple parallel test:181 time: 0 ms
+karatsuba sequential test:181 time: 1 ms
+karatsuba parallel test:181 time: 86 ms
+Test with size: 182
+simple sequential test:182 time: 0 ms
+simple parallel test:182 time: 1 ms
+karatsuba sequential test:182 time: 1 ms
+karatsuba parallel test:182 time: 85 ms
+Test with size: 183
+simple sequential test:183 time: 0 ms
+simple parallel test:183 time: 1 ms
+karatsuba sequential test:183 time: 2 ms
+karatsuba parallel test:183 time: 86 ms
+Test with size: 184
+simple sequential test:184 time: 1 ms
+simple parallel test:184 time: 0 ms
+karatsuba sequential test:184 time: 1 ms
+karatsuba parallel test:184 time: 92 ms
+Test with size: 185
+simple sequential test:185 time: 1 ms
+simple parallel test:185 time: 0 ms
+karatsuba sequential test:185 time: 1 ms
+karatsuba parallel test:185 time: 87 ms
+Test with size: 186
+simple sequential test:186 time: 1 ms
+simple parallel test:186 time: 0 ms
+karatsuba sequential test:186 time: 1 ms
+karatsuba parallel test:186 time: 88 ms
+Test with size: 187
+simple sequential test:187 time: 0 ms
+simple parallel test:187 time: 1 ms
+karatsuba sequential test:187 time: 1 ms
+karatsuba parallel test:187 time: 86 ms
+Test with size: 188
+simple sequential test:188 time: 1 ms
+simple parallel test:188 time: 0 ms
+karatsuba sequential test:188 time: 2 ms
+karatsuba parallel test:188 time: 85 ms
+Test with size: 189
+simple sequential test:189 time: 0 ms
+simple parallel test:189 time: 1 ms
+karatsuba sequential test:189 time: 1 ms
+karatsuba parallel test:189 time: 85 ms
+Test with size: 190
+simple sequential test:190 time: 0 ms
+simple parallel test:190 time: 1 ms
+karatsuba sequential test:190 time: 1 ms
+karatsuba parallel test:190 time: 86 ms
+Test with size: 191
+simple sequential test:191 time: 0 ms
+simple parallel test:191 time: 2 ms
+karatsuba sequential test:191 time: 1 ms
+karatsuba parallel test:191 time: 86 ms
+Test with size: 192
+simple sequential test:192 time: 1 ms
+simple parallel test:192 time: 0 ms
+karatsuba sequential test:192 time: 1 ms
+karatsuba parallel test:192 time: 84 ms
+Test with size: 193
+simple sequential test:193 time: 0 ms
+simple parallel test:193 time: 0 ms
+karatsuba sequential test:193 time: 2 ms
+karatsuba parallel test:193 time: 86 ms
+Test with size: 194
+simple sequential test:194 time: 0 ms
+simple parallel test:194 time: 1 ms
+karatsuba sequential test:194 time: 1 ms
+karatsuba parallel test:194 time: 86 ms
+Test with size: 195
+simple sequential test:195 time: 0 ms
+simple parallel test:195 time: 1 ms
+karatsuba sequential test:195 time: 1 ms
+karatsuba parallel test:195 time: 88 ms
+Test with size: 196
+simple sequential test:196 time: 0 ms
+simple parallel test:196 time: 1 ms
+karatsuba sequential test:196 time: 1 ms
+karatsuba parallel test:196 time: 88 ms
+Test with size: 197
+simple sequential test:197 time: 0 ms
+simple parallel test:197 time: 0 ms
+karatsuba sequential test:197 time: 2 ms
+karatsuba parallel test:197 time: 91 ms
+Test with size: 198
+simple sequential test:198 time: 0 ms
+simple parallel test:198 time: 1 ms
+karatsuba sequential test:198 time: 2 ms
+karatsuba parallel test:198 time: 93 ms
+Test with size: 199
+simple sequential test:199 time: 0 ms
+simple parallel test:199 time: 0 ms
+karatsuba sequential test:199 time: 2 ms
+karatsuba parallel test:199 time: 89 ms
+Test with size: 200
+simple sequential test:200 time: 0 ms
+simple parallel test:200 time: 1 ms
+karatsuba sequential test:200 time: 1 ms
+karatsuba parallel test:200 time: 97 ms
+Test with size: 201
+simple sequential test:201 time: 1 ms
+simple parallel test:201 time: 0 ms
+karatsuba sequential test:201 time: 1 ms
+karatsuba parallel test:201 time: 90 ms
+Test with size: 202
+simple sequential test:202 time: 1 ms
+simple parallel test:202 time: 0 ms
+karatsuba sequential test:202 time: 1 ms
+karatsuba parallel test:202 time: 87 ms
+Test with size: 203
+simple sequential test:203 time: 0 ms
+simple parallel test:203 time: 1 ms
+karatsuba sequential test:203 time: 1 ms
+karatsuba parallel test:203 time: 84 ms
+Test with size: 204
+simple sequential test:204 time: 0 ms
+simple parallel test:204 time: 0 ms
+karatsuba sequential test:204 time: 2 ms
+karatsuba parallel test:204 time: 88 ms
+Test with size: 205
+simple sequential test:205 time: 0 ms
+simple parallel test:205 time: 1 ms
+karatsuba sequential test:205 time: 1 ms
+karatsuba parallel test:205 time: 86 ms
+Test with size: 206
+simple sequential test:206 time: 0 ms
+simple parallel test:206 time: 1 ms
+karatsuba sequential test:206 time: 1 ms
+karatsuba parallel test:206 time: 85 ms
+Test with size: 207
+simple sequential test:207 time: 1 ms
+simple parallel test:207 time: 0 ms
+karatsuba sequential test:207 time: 1 ms
+karatsuba parallel test:207 time: 85 ms
+Test with size: 208
+simple sequential test:208 time: 0 ms
+simple parallel test:208 time: 1 ms
+karatsuba sequential test:208 time: 2 ms
+karatsuba parallel test:208 time: 86 ms
+Test with size: 209
+simple sequential test:209 time: 0 ms
+simple parallel test:209 time: 0 ms
+karatsuba sequential test:209 time: 2 ms
+karatsuba parallel test:209 time: 90 ms
+Test with size: 210
+simple sequential test:210 time: 0 ms
+simple parallel test:210 time: 1 ms
+karatsuba sequential test:210 time: 1 ms
+karatsuba parallel test:210 time: 100 ms
+Test with size: 211
+simple sequential test:211 time: 1 ms
+simple parallel test:211 time: 1 ms
+karatsuba sequential test:211 time: 1 ms
+karatsuba parallel test:211 time: 93 ms
+Test with size: 212
+simple sequential test:212 time: 0 ms
+simple parallel test:212 time: 1 ms
+karatsuba sequential test:212 time: 1 ms
+karatsuba parallel test:212 time: 87 ms
+Test with size: 213
+simple sequential test:213 time: 1 ms
+simple parallel test:213 time: 0 ms
+karatsuba sequential test:213 time: 2 ms
+karatsuba parallel test:213 time: 87 ms
+Test with size: 214
+simple sequential test:214 time: 1 ms
+simple parallel test:214 time: 1 ms
+karatsuba sequential test:214 time: 1 ms
+karatsuba parallel test:214 time: 82 ms
+Test with size: 215
+simple sequential test:215 time: 1 ms
+simple parallel test:215 time: 1 ms
+karatsuba sequential test:215 time: 1 ms
+karatsuba parallel test:215 time: 85 ms
+Test with size: 216
+simple sequential test:216 time: 0 ms
+simple parallel test:216 time: 1 ms
+karatsuba sequential test:216 time: 1 ms
+karatsuba parallel test:216 time: 85 ms
+Test with size: 217
+simple sequential test:217 time: 0 ms
+simple parallel test:217 time: 1 ms
+karatsuba sequential test:217 time: 2 ms
+karatsuba parallel test:217 time: 83 ms
+Test with size: 218
+simple sequential test:218 time: 0 ms
+simple parallel test:218 time: 2 ms
+karatsuba sequential test:218 time: 1 ms
+karatsuba parallel test:218 time: 85 ms
+Test with size: 219
+simple sequential test:219 time: 0 ms
+simple parallel test:219 time: 1 ms
+karatsuba sequential test:219 time: 1 ms
+karatsuba parallel test:219 time: 87 ms
+Test with size: 220
+simple sequential test:220 time: 0 ms
+simple parallel test:220 time: 1 ms
+karatsuba sequential test:220 time: 1 ms
+karatsuba parallel test:220 time: 86 ms
+Test with size: 221
+simple sequential test:221 time: 1 ms
+simple parallel test:221 time: 0 ms
+karatsuba sequential test:221 time: 2 ms
+karatsuba parallel test:221 time: 87 ms
+Test with size: 222
+simple sequential test:222 time: 0 ms
+simple parallel test:222 time: 1 ms
+karatsuba sequential test:222 time: 1 ms
+karatsuba parallel test:222 time: 89 ms
+Test with size: 223
+simple sequential test:223 time: 0 ms
+simple parallel test:223 time: 1 ms
+karatsuba sequential test:223 time: 1 ms
+karatsuba parallel test:223 time: 85 ms
+Test with size: 224
+simple sequential test:224 time: 0 ms
+simple parallel test:224 time: 1 ms
+karatsuba sequential test:224 time: 1 ms
+karatsuba parallel test:224 time: 87 ms
+Test with size: 225
+simple sequential test:225 time: 1 ms
+simple parallel test:225 time: 0 ms
+karatsuba sequential test:225 time: 2 ms
+karatsuba parallel test:225 time: 88 ms
+Test with size: 226
+simple sequential test:226 time: 0 ms
+simple parallel test:226 time: 1 ms
+karatsuba sequential test:226 time: 1 ms
+karatsuba parallel test:226 time: 86 ms
+Test with size: 227
+simple sequential test:227 time: 1 ms
+simple parallel test:227 time: 1 ms
+karatsuba sequential test:227 time: 1 ms
+karatsuba parallel test:227 time: 86 ms
+Test with size: 228
+simple sequential test:228 time: 1 ms
+simple parallel test:228 time: 0 ms
+karatsuba sequential test:228 time: 2 ms
+karatsuba parallel test:228 time: 89 ms
+Test with size: 229
+simple sequential test:229 time: 0 ms
+simple parallel test:229 time: 1 ms
+karatsuba sequential test:229 time: 1 ms
+karatsuba parallel test:229 time: 85 ms
+Test with size: 230
+simple sequential test:230 time: 0 ms
+simple parallel test:230 time: 2 ms
+karatsuba sequential test:230 time: 2 ms
+karatsuba parallel test:230 time: 88 ms
+Test with size: 231
+simple sequential test:231 time: 1 ms
+simple parallel test:231 time: 1 ms
+karatsuba sequential test:231 time: 1 ms
+karatsuba parallel test:231 time: 89 ms
+Test with size: 232
+simple sequential test:232 time: 1 ms
+simple parallel test:232 time: 0 ms
+karatsuba sequential test:232 time: 2 ms
+karatsuba parallel test:232 time: 88 ms
+Test with size: 233
+simple sequential test:233 time: 0 ms
+simple parallel test:233 time: 1 ms
+karatsuba sequential test:233 time: 1 ms
+karatsuba parallel test:233 time: 86 ms
+Test with size: 234
+simple sequential test:234 time: 0 ms
+simple parallel test:234 time: 0 ms
+karatsuba sequential test:234 time: 2 ms
+karatsuba parallel test:234 time: 86 ms
+Test with size: 235
+simple sequential test:235 time: 0 ms
+simple parallel test:235 time: 1 ms
+karatsuba sequential test:235 time: 2 ms
+karatsuba parallel test:235 time: 86 ms
+Test with size: 236
+simple sequential test:236 time: 0 ms
+simple parallel test:236 time: 1 ms
+karatsuba sequential test:236 time: 1 ms
+karatsuba parallel test:236 time: 85 ms
+Test with size: 237
+simple sequential test:237 time: 1 ms
+simple parallel test:237 time: 1 ms
+karatsuba sequential test:237 time: 2 ms
+karatsuba parallel test:237 time: 86 ms
+Test with size: 238
+simple sequential test:238 time: 1 ms
+simple parallel test:238 time: 0 ms
+karatsuba sequential test:238 time: 2 ms
+karatsuba parallel test:238 time: 83 ms
+Test with size: 239
+simple sequential test:239 time: 0 ms
+simple parallel test:239 time: 1 ms
+karatsuba sequential test:239 time: 2 ms
+karatsuba parallel test:239 time: 85 ms
+Test with size: 240
+simple sequential test:240 time: 1 ms
+simple parallel test:240 time: 1 ms
+karatsuba sequential test:240 time: 1 ms
+karatsuba parallel test:240 time: 88 ms
+Test with size: 241
+simple sequential test:241 time: 1 ms
+simple parallel test:241 time: 0 ms
+karatsuba sequential test:241 time: 2 ms
+karatsuba parallel test:241 time: 85 ms
+Test with size: 242
+simple sequential test:242 time: 1 ms
+simple parallel test:242 time: 1 ms
+karatsuba sequential test:242 time: 1 ms
+karatsuba parallel test:242 time: 92 ms
+Test with size: 243
+simple sequential test:243 time: 1 ms
+simple parallel test:243 time: 1 ms
+karatsuba sequential test:243 time: 2 ms
+karatsuba parallel test:243 time: 98 ms
+Test with size: 244
+simple sequential test:244 time: 0 ms
+simple parallel test:244 time: 1 ms
+karatsuba sequential test:244 time: 1 ms
+karatsuba parallel test:244 time: 81 ms
+Test with size: 245
+simple sequential test:245 time: 1 ms
+simple parallel test:245 time: 0 ms
+karatsuba sequential test:245 time: 2 ms
+karatsuba parallel test:245 time: 78 ms
+Test with size: 246
+simple sequential test:246 time: 1 ms
+simple parallel test:246 time: 0 ms
+karatsuba sequential test:246 time: 2 ms
+karatsuba parallel test:246 time: 78 ms
+Test with size: 247
+simple sequential test:247 time: 1 ms
+simple parallel test:247 time: 0 ms
+karatsuba sequential test:247 time: 2 ms
+karatsuba parallel test:247 time: 80 ms
+Test with size: 248
+simple sequential test:248 time: 1 ms
+simple parallel test:248 time: 0 ms
+karatsuba sequential test:248 time: 2 ms
+karatsuba parallel test:248 time: 76 ms
+Test with size: 249
+simple sequential test:249 time: 1 ms
+simple parallel test:249 time: 0 ms
+karatsuba sequential test:249 time: 2 ms
+karatsuba parallel test:249 time: 79 ms
+Test with size: 250
+simple sequential test:250 time: 1 ms
+simple parallel test:250 time: 0 ms
+karatsuba sequential test:250 time: 2 ms
+karatsuba parallel test:250 time: 77 ms
+Test with size: 251
+simple sequential test:251 time: 0 ms
+simple parallel test:251 time: 1 ms
+karatsuba sequential test:251 time: 1 ms
+karatsuba parallel test:251 time: 79 ms
+Test with size: 252
+simple sequential test:252 time: 0 ms
+simple parallel test:252 time: 1 ms
+karatsuba sequential test:252 time: 1 ms
+karatsuba parallel test:252 time: 79 ms
+Test with size: 253
+simple sequential test:253 time: 1 ms
+simple parallel test:253 time: 0 ms
+karatsuba sequential test:253 time: 2 ms
+karatsuba parallel test:253 time: 78 ms
+Test with size: 254
+simple sequential test:254 time: 1 ms
+simple parallel test:254 time: 0 ms
+karatsuba sequential test:254 time: 2 ms
+karatsuba parallel test:254 time: 80 ms
+Test with size: 255
+simple sequential test:255 time: 0 ms
+simple parallel test:255 time: 1 ms
+karatsuba sequential test:255 time: 1 ms
+karatsuba parallel test:255 time: 81 ms
+Test with size: 256
+simple sequential test:256 time: 1 ms
+simple parallel test:256 time: 1 ms
+karatsuba sequential test:256 time: 1 ms
+karatsuba parallel test:256 time: 76 ms
+Test with size: 257
+simple sequential test:257 time: 1 ms
+simple parallel test:257 time: 0 ms
+karatsuba sequential test:257 time: 2 ms
+karatsuba parallel test:257 time: 78 ms
+Test with size: 258
+simple sequential test:258 time: 1 ms
+simple parallel test:258 time: 0 ms
+karatsuba sequential test:258 time: 2 ms
+karatsuba parallel test:258 time: 78 ms
+Test with size: 259
+simple sequential test:259 time: 1 ms
+simple parallel test:259 time: 0 ms
+karatsuba sequential test:259 time: 2 ms
+karatsuba parallel test:259 time: 82 ms
+Test with size: 260
+simple sequential test:260 time: 1 ms
+simple parallel test:260 time: 0 ms
+karatsuba sequential test:260 time: 2 ms
+karatsuba parallel test:260 time: 82 ms
+Test with size: 261
+simple sequential test:261 time: 1 ms
+simple parallel test:261 time: 0 ms
+karatsuba sequential test:261 time: 2 ms
+karatsuba parallel test:261 time: 78 ms
+Test with size: 262
+simple sequential test:262 time: 1 ms
+simple parallel test:262 time: 0 ms
+karatsuba sequential test:262 time: 2 ms
+karatsuba parallel test:262 time: 82 ms
+Test with size: 263
+simple sequential test:263 time: 0 ms
+simple parallel test:263 time: 1 ms
+karatsuba sequential test:263 time: 2 ms
+karatsuba parallel test:263 time: 77 ms
+Test with size: 264
+simple sequential test:264 time: 0 ms
+simple parallel test:264 time: 1 ms
+karatsuba sequential test:264 time: 2 ms
+karatsuba parallel test:264 time: 77 ms
+Test with size: 265
+simple sequential test:265 time: 0 ms
+simple parallel test:265 time: 1 ms
+karatsuba sequential test:265 time: 2 ms
+karatsuba parallel test:265 time: 79 ms
+Test with size: 266
+simple sequential test:266 time: 0 ms
+simple parallel test:266 time: 1 ms
+karatsuba sequential test:266 time: 2 ms
+karatsuba parallel test:266 time: 77 ms
+Test with size: 267
+simple sequential test:267 time: 1 ms
+simple parallel test:267 time: 0 ms
+karatsuba sequential test:267 time: 2 ms
+karatsuba parallel test:267 time: 79 ms
+Test with size: 268
+simple sequential test:268 time: 0 ms
+simple parallel test:268 time: 1 ms
+karatsuba sequential test:268 time: 2 ms
+karatsuba parallel test:268 time: 79 ms
+Test with size: 269
+simple sequential test:269 time: 0 ms
+simple parallel test:269 time: 1 ms
+karatsuba sequential test:269 time: 2 ms
+karatsuba parallel test:269 time: 80 ms
+Test with size: 270
+simple sequential test:270 time: 1 ms
+simple parallel test:270 time: 1 ms
+karatsuba sequential test:270 time: 2 ms
+karatsuba parallel test:270 time: 77 ms
+Test with size: 271
+simple sequential test:271 time: 1 ms
+simple parallel test:271 time: 0 ms
+karatsuba sequential test:271 time: 2 ms
+karatsuba parallel test:271 time: 79 ms
+Test with size: 272
+simple sequential test:272 time: 0 ms
+simple parallel test:272 time: 1 ms
+karatsuba sequential test:272 time: 2 ms
+karatsuba parallel test:272 time: 79 ms
+Test with size: 273
+simple sequential test:273 time: 1 ms
+simple parallel test:273 time: 0 ms
+karatsuba sequential test:273 time: 2 ms
+karatsuba parallel test:273 time: 79 ms
+Test with size: 274
+simple sequential test:274 time: 0 ms
+simple parallel test:274 time: 1 ms
+karatsuba sequential test:274 time: 2 ms
+karatsuba parallel test:274 time: 79 ms
+Test with size: 275
+simple sequential test:275 time: 0 ms
+simple parallel test:275 time: 1 ms
+karatsuba sequential test:275 time: 2 ms
+karatsuba parallel test:275 time: 82 ms
+Test with size: 276
+simple sequential test:276 time: 1 ms
+simple parallel test:276 time: 0 ms
+karatsuba sequential test:276 time: 2 ms
+karatsuba parallel test:276 time: 80 ms
+Test with size: 277
+simple sequential test:277 time: 0 ms
+simple parallel test:277 time: 1 ms
+karatsuba sequential test:277 time: 2 ms
+karatsuba parallel test:277 time: 79 ms
+Test with size: 278
+simple sequential test:278 time: 1 ms
+simple parallel test:278 time: 1 ms
+karatsuba sequential test:278 time: 2 ms
+karatsuba parallel test:278 time: 82 ms
+Test with size: 279
+simple sequential test:279 time: 1 ms
+simple parallel test:279 time: 0 ms
+karatsuba sequential test:279 time: 2 ms
+karatsuba parallel test:279 time: 80 ms
+Test with size: 280
+simple sequential test:280 time: 1 ms
+simple parallel test:280 time: 1 ms
+karatsuba sequential test:280 time: 2 ms
+karatsuba parallel test:280 time: 78 ms
+Test with size: 281
+simple sequential test:281 time: 1 ms
+simple parallel test:281 time: 1 ms
+karatsuba sequential test:281 time: 2 ms
+karatsuba parallel test:281 time: 79 ms
+Test with size: 282
+simple sequential test:282 time: 1 ms
+simple parallel test:282 time: 0 ms
+karatsuba sequential test:282 time: 3 ms
+karatsuba parallel test:282 time: 80 ms
+Test with size: 283
+simple sequential test:283 time: 1 ms
+simple parallel test:283 time: 0 ms
+karatsuba sequential test:283 time: 3 ms
+karatsuba parallel test:283 time: 77 ms
+Test with size: 284
+simple sequential test:284 time: 1 ms
+simple parallel test:284 time: 1 ms
+karatsuba sequential test:284 time: 2 ms
+karatsuba parallel test:284 time: 78 ms
+Test with size: 285
+simple sequential test:285 time: 1 ms
+simple parallel test:285 time: 0 ms
+karatsuba sequential test:285 time: 2 ms
+karatsuba parallel test:285 time: 78 ms
+Test with size: 286
+simple sequential test:286 time: 1 ms
+simple parallel test:286 time: 0 ms
+karatsuba sequential test:286 time: 3 ms
+karatsuba parallel test:286 time: 77 ms
+Test with size: 287
+simple sequential test:287 time: 0 ms
+simple parallel test:287 time: 1 ms
+karatsuba sequential test:287 time: 2 ms
+karatsuba parallel test:287 time: 81 ms
+Test with size: 288
+simple sequential test:288 time: 0 ms
+simple parallel test:288 time: 1 ms
+karatsuba sequential test:288 time: 3 ms
+karatsuba parallel test:288 time: 80 ms
+Test with size: 289
+simple sequential test:289 time: 1 ms
+simple parallel test:289 time: 0 ms
+karatsuba sequential test:289 time: 2 ms
+karatsuba parallel test:289 time: 79 ms
+Test with size: 290
+simple sequential test:290 time: 0 ms
+simple parallel test:290 time: 1 ms
+karatsuba sequential test:290 time: 2 ms
+karatsuba parallel test:290 time: 82 ms
+Test with size: 291
+simple sequential test:291 time: 1 ms
+simple parallel test:291 time: 1 ms
+karatsuba sequential test:291 time: 2 ms
+karatsuba parallel test:291 time: 80 ms
+Test with size: 292
+simple sequential test:292 time: 1 ms
+simple parallel test:292 time: 0 ms
+karatsuba sequential test:292 time: 3 ms
+karatsuba parallel test:292 time: 84 ms
+Test with size: 293
+simple sequential test:293 time: 1 ms
+simple parallel test:293 time: 0 ms
+karatsuba sequential test:293 time: 3 ms
+karatsuba parallel test:293 time: 94 ms
+Test with size: 294
+simple sequential test:294 time: 1 ms
+simple parallel test:294 time: 1 ms
+karatsuba sequential test:294 time: 2 ms
+karatsuba parallel test:294 time: 82 ms
+Test with size: 295
+simple sequential test:295 time: 0 ms
+simple parallel test:295 time: 1 ms
+karatsuba sequential test:295 time: 2 ms
+karatsuba parallel test:295 time: 83 ms
+Test with size: 296
+simple sequential test:296 time: 1 ms
+simple parallel test:296 time: 1 ms
+karatsuba sequential test:296 time: 2 ms
+karatsuba parallel test:296 time: 81 ms
+Test with size: 297
+simple sequential test:297 time: 1 ms
+simple parallel test:297 time: 1 ms
+karatsuba sequential test:297 time: 2 ms
+karatsuba parallel test:297 time: 79 ms
+Test with size: 298
+simple sequential test:298 time: 1 ms
+simple parallel test:298 time: 1 ms
+karatsuba sequential test:298 time: 2 ms
+karatsuba parallel test:298 time: 79 ms
+Test with size: 299
+simple sequential test:299 time: 1 ms
+simple parallel test:299 time: 0 ms
+karatsuba sequential test:299 time: 2 ms
+karatsuba parallel test:299 time: 83 ms
+Test with size: 300
+simple sequential test:300 time: 1 ms
+simple parallel test:300 time: 0 ms
+karatsuba sequential test:300 time: 3 ms
+karatsuba parallel test:300 time: 79 ms
+Test with size: 301
+simple sequential test:301 time: 0 ms
+simple parallel test:301 time: 1 ms
+karatsuba sequential test:301 time: 3 ms
+karatsuba parallel test:301 time: 81 ms
+Test with size: 302
+simple sequential test:302 time: 1 ms
+simple parallel test:302 time: 1 ms
+karatsuba sequential test:302 time: 2 ms
+karatsuba parallel test:302 time: 82 ms
+Test with size: 303
+simple sequential test:303 time: 1 ms
+simple parallel test:303 time: 1 ms
+karatsuba sequential test:303 time: 2 ms
+karatsuba parallel test:303 time: 78 ms
+Test with size: 304
+simple sequential test:304 time: 0 ms
+simple parallel test:304 time: 1 ms
+karatsuba sequential test:304 time: 2 ms
+karatsuba parallel test:304 time: 78 ms
+Test with size: 305
+simple sequential test:305 time: 1 ms
+simple parallel test:305 time: 1 ms
+karatsuba sequential test:305 time: 2 ms
+karatsuba parallel test:305 time: 79 ms
+Test with size: 306
+simple sequential test:306 time: 1 ms
+simple parallel test:306 time: 1 ms
+karatsuba sequential test:306 time: 2 ms
+karatsuba parallel test:306 time: 81 ms
+Test with size: 307
+simple sequential test:307 time: 1 ms
+simple parallel test:307 time: 1 ms
+karatsuba sequential test:307 time: 2 ms
+karatsuba parallel test:307 time: 80 ms
+Test with size: 308
+simple sequential test:308 time: 1 ms
+simple parallel test:308 time: 1 ms
+karatsuba sequential test:308 time: 2 ms
+karatsuba parallel test:308 time: 77 ms
+Test with size: 309
+simple sequential test:309 time: 1 ms
+simple parallel test:309 time: 0 ms
+karatsuba sequential test:309 time: 3 ms
+karatsuba parallel test:309 time: 78 ms
+Test with size: 310
+simple sequential test:310 time: 1 ms
+simple parallel test:310 time: 1 ms
+karatsuba sequential test:310 time: 2 ms
+karatsuba parallel test:310 time: 79 ms
+Test with size: 311
+simple sequential test:311 time: 1 ms
+simple parallel test:311 time: 0 ms
+karatsuba sequential test:311 time: 3 ms
+karatsuba parallel test:311 time: 77 ms
+Test with size: 312
+simple sequential test:312 time: 0 ms
+simple parallel test:312 time: 1 ms
+karatsuba sequential test:312 time: 3 ms
+karatsuba parallel test:312 time: 83 ms
+Test with size: 313
+simple sequential test:313 time: 1 ms
+simple parallel test:313 time: 0 ms
+karatsuba sequential test:313 time: 3 ms
+karatsuba parallel test:313 time: 79 ms
+Test with size: 314
+simple sequential test:314 time: 1 ms
+simple parallel test:314 time: 1 ms
+karatsuba sequential test:314 time: 3 ms
+karatsuba parallel test:314 time: 78 ms
+Test with size: 315
+simple sequential test:315 time: 1 ms
+simple parallel test:315 time: 1 ms
+karatsuba sequential test:315 time: 2 ms
+karatsuba parallel test:315 time: 81 ms
+Test with size: 316
+simple sequential test:316 time: 0 ms
+simple parallel test:316 time: 1 ms
+karatsuba sequential test:316 time: 3 ms
+karatsuba parallel test:316 time: 79 ms
+Test with size: 317
+simple sequential test:317 time: 1 ms
+simple parallel test:317 time: 1 ms
+karatsuba sequential test:317 time: 2 ms
+karatsuba parallel test:317 time: 82 ms
+Test with size: 318
+simple sequential test:318 time: 0 ms
+simple parallel test:318 time: 0 ms
+karatsuba sequential test:318 time: 3 ms
+karatsuba parallel test:318 time: 77 ms
+Test with size: 319
+simple sequential test:319 time: 1 ms
+simple parallel test:319 time: 1 ms
+karatsuba sequential test:319 time: 2 ms
+karatsuba parallel test:319 time: 79 ms
+Test with size: 320
+simple sequential test:320 time: 0 ms
+simple parallel test:320 time: 0 ms
+karatsuba sequential test:320 time: 3 ms
+karatsuba parallel test:320 time: 80 ms
+Test with size: 321
+simple sequential test:321 time: 1 ms
+simple parallel test:321 time: 1 ms
+karatsuba sequential test:321 time: 3 ms
+karatsuba parallel test:321 time: 78 ms
+Test with size: 322
+simple sequential test:322 time: 1 ms
+simple parallel test:322 time: 1 ms
+karatsuba sequential test:322 time: 3 ms
+karatsuba parallel test:322 time: 81 ms
+Test with size: 323
+simple sequential test:323 time: 1 ms
+simple parallel test:323 time: 0 ms
+karatsuba sequential test:323 time: 2 ms
+karatsuba parallel test:323 time: 77 ms
+Test with size: 324
+simple sequential test:324 time: 0 ms
+simple parallel test:324 time: 1 ms
+karatsuba sequential test:324 time: 3 ms
+karatsuba parallel test:324 time: 78 ms
+Test with size: 325
+simple sequential test:325 time: 1 ms
+simple parallel test:325 time: 1 ms
+karatsuba sequential test:325 time: 3 ms
+karatsuba parallel test:325 time: 81 ms
+Test with size: 326
+simple sequential test:326 time: 1 ms
+simple parallel test:326 time: 1 ms
+karatsuba sequential test:326 time: 3 ms
+karatsuba parallel test:326 time: 77 ms
+Test with size: 327
+simple sequential test:327 time: 1 ms
+simple parallel test:327 time: 1 ms
+karatsuba sequential test:327 time: 2 ms
+karatsuba parallel test:327 time: 79 ms
+Test with size: 328
+simple sequential test:328 time: 1 ms
+simple parallel test:328 time: 1 ms
+karatsuba sequential test:328 time: 3 ms
+karatsuba parallel test:328 time: 78 ms
+Test with size: 329
+simple sequential test:329 time: 1 ms
+simple parallel test:329 time: 1 ms
+karatsuba sequential test:329 time: 3 ms
+karatsuba parallel test:329 time: 77 ms
+Test with size: 330
+simple sequential test:330 time: 1 ms
+simple parallel test:330 time: 1 ms
+karatsuba sequential test:330 time: 2 ms
+karatsuba parallel test:330 time: 82 ms
+Test with size: 331
+simple sequential test:331 time: 1 ms
+simple parallel test:331 time: 1 ms
+karatsuba sequential test:331 time: 3 ms
+karatsuba parallel test:331 time: 78 ms
+Test with size: 332
+simple sequential test:332 time: 1 ms
+simple parallel test:332 time: 0 ms
+karatsuba sequential test:332 time: 3 ms
+karatsuba parallel test:332 time: 80 ms
+Test with size: 333
+simple sequential test:333 time: 1 ms
+simple parallel test:333 time: 1 ms
+karatsuba sequential test:333 time: 3 ms
+karatsuba parallel test:333 time: 78 ms
+Test with size: 334
+simple sequential test:334 time: 1 ms
+simple parallel test:334 time: 1 ms
+karatsuba sequential test:334 time: 3 ms
+karatsuba parallel test:334 time: 79 ms
+Test with size: 335
+simple sequential test:335 time: 1 ms
+simple parallel test:335 time: 1 ms
+karatsuba sequential test:335 time: 2 ms
+karatsuba parallel test:335 time: 80 ms
+Test with size: 336
+simple sequential test:336 time: 1 ms
+simple parallel test:336 time: 1 ms
+karatsuba sequential test:336 time: 3 ms
+karatsuba parallel test:336 time: 78 ms
+Test with size: 337
+simple sequential test:337 time: 1 ms
+simple parallel test:337 time: 1 ms
+karatsuba sequential test:337 time: 2 ms
+karatsuba parallel test:337 time: 80 ms
+Test with size: 338
+simple sequential test:338 time: 0 ms
+simple parallel test:338 time: 1 ms
+karatsuba sequential test:338 time: 4 ms
+karatsuba parallel test:338 time: 78 ms
+Test with size: 339
+simple sequential test:339 time: 1 ms
+simple parallel test:339 time: 1 ms
+karatsuba sequential test:339 time: 3 ms
+karatsuba parallel test:339 time: 81 ms
+Test with size: 340
+simple sequential test:340 time: 2 ms
+simple parallel test:340 time: 0 ms
+karatsuba sequential test:340 time: 3 ms
+karatsuba parallel test:340 time: 78 ms
+Test with size: 341
+simple sequential test:341 time: 1 ms
+simple parallel test:341 time: 1 ms
+karatsuba sequential test:341 time: 3 ms
+karatsuba parallel test:341 time: 77 ms
+Test with size: 342
+simple sequential test:342 time: 1 ms
+simple parallel test:342 time: 1 ms
+karatsuba sequential test:342 time: 3 ms
+karatsuba parallel test:342 time: 78 ms
+Test with size: 343
+simple sequential test:343 time: 1 ms
+simple parallel test:343 time: 0 ms
+karatsuba sequential test:343 time: 3 ms
+karatsuba parallel test:343 time: 80 ms
+Test with size: 344
+simple sequential test:344 time: 1 ms
+simple parallel test:344 time: 1 ms
+karatsuba sequential test:344 time: 3 ms
+karatsuba parallel test:344 time: 78 ms
+Test with size: 345
+simple sequential test:345 time: 1 ms
+simple parallel test:345 time: 1 ms
+karatsuba sequential test:345 time: 3 ms
+karatsuba parallel test:345 time: 80 ms
+Test with size: 346
+simple sequential test:346 time: 1 ms
+simple parallel test:346 time: 1 ms
+karatsuba sequential test:346 time: 3 ms
+karatsuba parallel test:346 time: 81 ms
+Test with size: 347
+simple sequential test:347 time: 0 ms
+simple parallel test:347 time: 0 ms
+karatsuba sequential test:347 time: 4 ms
+karatsuba parallel test:347 time: 78 ms
+Test with size: 348
+simple sequential test:348 time: 1 ms
+simple parallel test:348 time: 1 ms
+karatsuba sequential test:348 time: 3 ms
+karatsuba parallel test:348 time: 79 ms
+Test with size: 349
+simple sequential test:349 time: 1 ms
+simple parallel test:349 time: 1 ms
+karatsuba sequential test:349 time: 3 ms
+karatsuba parallel test:349 time: 79 ms
+Test with size: 350
+simple sequential test:350 time: 1 ms
+simple parallel test:350 time: 0 ms
+karatsuba sequential test:350 time: 3 ms
+karatsuba parallel test:350 time: 86 ms
+Test with size: 351
+simple sequential test:351 time: 1 ms
+simple parallel test:351 time: 1 ms
+karatsuba sequential test:351 time: 4 ms
+karatsuba parallel test:351 time: 77 ms
+Test with size: 352
+simple sequential test:352 time: 1 ms
+simple parallel test:352 time: 1 ms
+karatsuba sequential test:352 time: 3 ms
+karatsuba parallel test:352 time: 80 ms
+Test with size: 353
+simple sequential test:353 time: 1 ms
+simple parallel test:353 time: 1 ms
+karatsuba sequential test:353 time: 3 ms
+karatsuba parallel test:353 time: 82 ms
+Test with size: 354
+simple sequential test:354 time: 1 ms
+simple parallel test:354 time: 1 ms
+karatsuba sequential test:354 time: 4 ms
+karatsuba parallel test:354 time: 79 ms
+Test with size: 355
+simple sequential test:355 time: 1 ms
+simple parallel test:355 time: 1 ms
+karatsuba sequential test:355 time: 3 ms
+karatsuba parallel test:355 time: 77 ms
+Test with size: 356
+simple sequential test:356 time: 1 ms
+simple parallel test:356 time: 1 ms
+karatsuba sequential test:356 time: 3 ms
+karatsuba parallel test:356 time: 81 ms
+Test with size: 357
+simple sequential test:357 time: 1 ms
+simple parallel test:357 time: 1 ms
+karatsuba sequential test:357 time: 3 ms
+karatsuba parallel test:357 time: 78 ms
+Test with size: 358
+simple sequential test:358 time: 1 ms
+simple parallel test:358 time: 1 ms
+karatsuba sequential test:358 time: 3 ms
+karatsuba parallel test:358 time: 82 ms
+Test with size: 359
+simple sequential test:359 time: 1 ms
+simple parallel test:359 time: 0 ms
+karatsuba sequential test:359 time: 4 ms
+karatsuba parallel test:359 time: 84 ms
+Test with size: 360
+simple sequential test:360 time: 1 ms
+simple parallel test:360 time: 1 ms
+karatsuba sequential test:360 time: 3 ms
+karatsuba parallel test:360 time: 77 ms
+Test with size: 361
+simple sequential test:361 time: 1 ms
+simple parallel test:361 time: 0 ms
+karatsuba sequential test:361 time: 3 ms
+karatsuba parallel test:361 time: 81 ms
+Test with size: 362
+simple sequential test:362 time: 1 ms
+simple parallel test:362 time: 1 ms
+karatsuba sequential test:362 time: 3 ms
+karatsuba parallel test:362 time: 80 ms
+Test with size: 363
+simple sequential test:363 time: 1 ms
+simple parallel test:363 time: 0 ms
+karatsuba sequential test:363 time: 4 ms
+karatsuba parallel test:363 time: 79 ms
+Test with size: 364
+simple sequential test:364 time: 1 ms
+simple parallel test:364 time: 1 ms
+karatsuba sequential test:364 time: 4 ms
+karatsuba parallel test:364 time: 80 ms
+Test with size: 365
+simple sequential test:365 time: 1 ms
+simple parallel test:365 time: 0 ms
+karatsuba sequential test:365 time: 3 ms
+karatsuba parallel test:365 time: 82 ms
+Test with size: 366
+simple sequential test:366 time: 1 ms
+simple parallel test:366 time: 2 ms
+karatsuba sequential test:366 time: 3 ms
+karatsuba parallel test:366 time: 79 ms
+Test with size: 367
+simple sequential test:367 time: 1 ms
+simple parallel test:367 time: 1 ms
+karatsuba sequential test:367 time: 3 ms
+karatsuba parallel test:367 time: 78 ms
+Test with size: 368
+simple sequential test:368 time: 1 ms
+simple parallel test:368 time: 1 ms
+karatsuba sequential test:368 time: 3 ms
+karatsuba parallel test:368 time: 82 ms
+Test with size: 369
+simple sequential test:369 time: 1 ms
+simple parallel test:369 time: 0 ms
+karatsuba sequential test:369 time: 4 ms
+karatsuba parallel test:369 time: 78 ms
+Test with size: 370
+simple sequential test:370 time: 1 ms
+simple parallel test:370 time: 0 ms
+karatsuba sequential test:370 time: 3 ms
+karatsuba parallel test:370 time: 82 ms
+Test with size: 371
+simple sequential test:371 time: 1 ms
+simple parallel test:371 time: 1 ms
+karatsuba sequential test:371 time: 4 ms
+karatsuba parallel test:371 time: 81 ms
+Test with size: 372
+simple sequential test:372 time: 1 ms
+simple parallel test:372 time: 0 ms
+karatsuba sequential test:372 time: 4 ms
+karatsuba parallel test:372 time: 78 ms
+Test with size: 373
+simple sequential test:373 time: 1 ms
+simple parallel test:373 time: 1 ms
+karatsuba sequential test:373 time: 3 ms
+karatsuba parallel test:373 time: 80 ms
+Test with size: 374
+simple sequential test:374 time: 1 ms
+simple parallel test:374 time: 1 ms
+karatsuba sequential test:374 time: 4 ms
+karatsuba parallel test:374 time: 84 ms
+Test with size: 375
+simple sequential test:375 time: 1 ms
+simple parallel test:375 time: 0 ms
+karatsuba sequential test:375 time: 4 ms
+karatsuba parallel test:375 time: 78 ms
+Test with size: 376
+simple sequential test:376 time: 1 ms
+simple parallel test:376 time: 1 ms
+karatsuba sequential test:376 time: 3 ms
+karatsuba parallel test:376 time: 78 ms
+Test with size: 377
+simple sequential test:377 time: 1 ms
+simple parallel test:377 time: 1 ms
+karatsuba sequential test:377 time: 4 ms
+karatsuba parallel test:377 time: 79 ms
+Test with size: 378
+simple sequential test:378 time: 1 ms
+simple parallel test:378 time: 1 ms
+karatsuba sequential test:378 time: 4 ms
+karatsuba parallel test:378 time: 78 ms
+Test with size: 379
+simple sequential test:379 time: 1 ms
+simple parallel test:379 time: 1 ms
+karatsuba sequential test:379 time: 3 ms
+karatsuba parallel test:379 time: 83 ms
+Test with size: 380
+simple sequential test:380 time: 2 ms
+simple parallel test:380 time: 1 ms
+karatsuba sequential test:380 time: 4 ms
+karatsuba parallel test:380 time: 97 ms
+Test with size: 381
+simple sequential test:381 time: 1 ms
+simple parallel test:381 time: 1 ms
+karatsuba sequential test:381 time: 4 ms
+karatsuba parallel test:381 time: 89 ms
+Test with size: 382
+simple sequential test:382 time: 2 ms
+simple parallel test:382 time: 1 ms
+karatsuba sequential test:382 time: 3 ms
+karatsuba parallel test:382 time: 87 ms
+Test with size: 383
+simple sequential test:383 time: 1 ms
+simple parallel test:383 time: 1 ms
+karatsuba sequential test:383 time: 3 ms
+karatsuba parallel test:383 time: 90 ms
+Test with size: 384
+simple sequential test:384 time: 1 ms
+simple parallel test:384 time: 1 ms
+karatsuba sequential test:384 time: 4 ms
+karatsuba parallel test:384 time: 85 ms
+Test with size: 385
+simple sequential test:385 time: 1 ms
+simple parallel test:385 time: 1 ms
+karatsuba sequential test:385 time: 4 ms
+karatsuba parallel test:385 time: 87 ms
+Test with size: 386
+simple sequential test:386 time: 2 ms
+simple parallel test:386 time: 0 ms
+karatsuba sequential test:386 time: 4 ms
+karatsuba parallel test:386 time: 94 ms
+Test with size: 387
+simple sequential test:387 time: 1 ms
+simple parallel test:387 time: 1 ms
+karatsuba sequential test:387 time: 4 ms
+karatsuba parallel test:387 time: 89 ms
+Test with size: 388
+simple sequential test:388 time: 2 ms
+simple parallel test:388 time: 1 ms
+karatsuba sequential test:388 time: 3 ms
+karatsuba parallel test:388 time: 87 ms
+Test with size: 389
+simple sequential test:389 time: 1 ms
+simple parallel test:389 time: 1 ms
+karatsuba sequential test:389 time: 4 ms
+karatsuba parallel test:389 time: 88 ms
+Test with size: 390
+simple sequential test:390 time: 2 ms
+simple parallel test:390 time: 2 ms
+karatsuba sequential test:390 time: 3 ms
+karatsuba parallel test:390 time: 86 ms
+Test with size: 391
+simple sequential test:391 time: 2 ms
+simple parallel test:391 time: 1 ms
+karatsuba sequential test:391 time: 3 ms
+karatsuba parallel test:391 time: 90 ms
+Test with size: 392
+simple sequential test:392 time: 2 ms
+simple parallel test:392 time: 1 ms
+karatsuba sequential test:392 time: 3 ms
+karatsuba parallel test:392 time: 88 ms
+Test with size: 393
+simple sequential test:393 time: 2 ms
+simple parallel test:393 time: 1 ms
+karatsuba sequential test:393 time: 3 ms
+karatsuba parallel test:393 time: 89 ms
+Test with size: 394
+simple sequential test:394 time: 2 ms
+simple parallel test:394 time: 0 ms
+karatsuba sequential test:394 time: 4 ms
+karatsuba parallel test:394 time: 88 ms
+Test with size: 395
+simple sequential test:395 time: 1 ms
+simple parallel test:395 time: 1 ms
+karatsuba sequential test:395 time: 4 ms
+karatsuba parallel test:395 time: 90 ms
+Test with size: 396
+simple sequential test:396 time: 2 ms
+simple parallel test:396 time: 1 ms
+karatsuba sequential test:396 time: 3 ms
+karatsuba parallel test:396 time: 89 ms
+Test with size: 397
+simple sequential test:397 time: 2 ms
+simple parallel test:397 time: 1 ms
+karatsuba sequential test:397 time: 3 ms
+karatsuba parallel test:397 time: 88 ms
+Test with size: 398
+simple sequential test:398 time: 1 ms
+simple parallel test:398 time: 1 ms
+karatsuba sequential test:398 time: 4 ms
+karatsuba parallel test:398 time: 89 ms
+Test with size: 399
+simple sequential test:399 time: 2 ms
+simple parallel test:399 time: 1 ms
+karatsuba sequential test:399 time: 4 ms
+karatsuba parallel test:399 time: 89 ms
+Test with size: 400
+simple sequential test:400 time: 1 ms
+simple parallel test:400 time: 1 ms
+karatsuba sequential test:400 time: 5 ms
+karatsuba parallel test:400 time: 86 ms
+Test with size: 401
+simple sequential test:401 time: 1 ms
+simple parallel test:401 time: 1 ms
+karatsuba sequential test:401 time: 4 ms
+karatsuba parallel test:401 time: 90 ms
+Test with size: 402
+simple sequential test:402 time: 1 ms
+simple parallel test:402 time: 2 ms
+karatsuba sequential test:402 time: 4 ms
+karatsuba parallel test:402 time: 89 ms
+Test with size: 403
+simple sequential test:403 time: 1 ms
+simple parallel test:403 time: 1 ms
+karatsuba sequential test:403 time: 4 ms
+karatsuba parallel test:403 time: 87 ms
+Test with size: 404
+simple sequential test:404 time: 1 ms
+simple parallel test:404 time: 1 ms
+karatsuba sequential test:404 time: 4 ms
+karatsuba parallel test:404 time: 91 ms
+Test with size: 405
+simple sequential test:405 time: 2 ms
+simple parallel test:405 time: 2 ms
+karatsuba sequential test:405 time: 4 ms
+karatsuba parallel test:405 time: 87 ms
+Test with size: 406
+simple sequential test:406 time: 1 ms
+simple parallel test:406 time: 1 ms
+karatsuba sequential test:406 time: 4 ms
+karatsuba parallel test:406 time: 86 ms
+Test with size: 407
+simple sequential test:407 time: 1 ms
+simple parallel test:407 time: 2 ms
+karatsuba sequential test:407 time: 4 ms
+karatsuba parallel test:407 time: 89 ms
+Test with size: 408
+simple sequential test:408 time: 1 ms
+simple parallel test:408 time: 1 ms
+karatsuba sequential test:408 time: 4 ms
+karatsuba parallel test:408 time: 87 ms
+Test with size: 409
+simple sequential test:409 time: 1 ms
+simple parallel test:409 time: 1 ms
+karatsuba sequential test:409 time: 4 ms
+karatsuba parallel test:409 time: 88 ms
+Test with size: 410
+simple sequential test:410 time: 2 ms
+simple parallel test:410 time: 1 ms
+karatsuba sequential test:410 time: 3 ms
+karatsuba parallel test:410 time: 90 ms
+Test with size: 411
+simple sequential test:411 time: 2 ms
+simple parallel test:411 time: 1 ms
+karatsuba sequential test:411 time: 4 ms
+karatsuba parallel test:411 time: 88 ms
+Test with size: 412
+simple sequential test:412 time: 2 ms
+simple parallel test:412 time: 1 ms
+karatsuba sequential test:412 time: 3 ms
+karatsuba parallel test:412 time: 86 ms
+Test with size: 413
+simple sequential test:413 time: 2 ms
+simple parallel test:413 time: 1 ms
+karatsuba sequential test:413 time: 4 ms
+karatsuba parallel test:413 time: 90 ms
+Test with size: 414
+simple sequential test:414 time: 2 ms
+simple parallel test:414 time: 1 ms
+karatsuba sequential test:414 time: 4 ms
+karatsuba parallel test:414 time: 90 ms
+Test with size: 415
+simple sequential test:415 time: 2 ms
+simple parallel test:415 time: 1 ms
+karatsuba sequential test:415 time: 4 ms
+karatsuba parallel test:415 time: 86 ms
+Test with size: 416
+simple sequential test:416 time: 2 ms
+simple parallel test:416 time: 1 ms
+karatsuba sequential test:416 time: 5 ms
+karatsuba parallel test:416 time: 87 ms
+Test with size: 417
+simple sequential test:417 time: 1 ms
+simple parallel test:417 time: 1 ms
+karatsuba sequential test:417 time: 4 ms
+karatsuba parallel test:417 time: 89 ms
+Test with size: 418
+simple sequential test:418 time: 2 ms
+simple parallel test:418 time: 1 ms
+karatsuba sequential test:418 time: 4 ms
+karatsuba parallel test:418 time: 86 ms
+Test with size: 419
+simple sequential test:419 time: 1 ms
+simple parallel test:419 time: 1 ms
+karatsuba sequential test:419 time: 4 ms
+karatsuba parallel test:419 time: 86 ms
+Test with size: 420
+simple sequential test:420 time: 1 ms
+simple parallel test:420 time: 2 ms
+karatsuba sequential test:420 time: 5 ms
+karatsuba parallel test:420 time: 88 ms
+Test with size: 421
+simple sequential test:421 time: 2 ms
+simple parallel test:421 time: 1 ms
+karatsuba sequential test:421 time: 4 ms
+karatsuba parallel test:421 time: 86 ms
+Test with size: 422
+simple sequential test:422 time: 2 ms
+simple parallel test:422 time: 1 ms
+karatsuba sequential test:422 time: 3 ms
+karatsuba parallel test:422 time: 86 ms
+Test with size: 423
+simple sequential test:423 time: 1 ms
+simple parallel test:423 time: 1 ms
+karatsuba sequential test:423 time: 3 ms
+karatsuba parallel test:423 time: 84 ms
+Test with size: 424
+simple sequential test:424 time: 1 ms
+simple parallel test:424 time: 1 ms
+karatsuba sequential test:424 time: 4 ms
+karatsuba parallel test:424 time: 86 ms
+Test with size: 425
+simple sequential test:425 time: 2 ms
+simple parallel test:425 time: 1 ms
+karatsuba sequential test:425 time: 3 ms
+karatsuba parallel test:425 time: 89 ms
+Test with size: 426
+simple sequential test:426 time: 1 ms
+simple parallel test:426 time: 1 ms
+karatsuba sequential test:426 time: 4 ms
+karatsuba parallel test:426 time: 86 ms
+Test with size: 427
+simple sequential test:427 time: 2 ms
+simple parallel test:427 time: 2 ms
+karatsuba sequential test:427 time: 4 ms
+karatsuba parallel test:427 time: 90 ms
+Test with size: 428
+simple sequential test:428 time: 1 ms
+simple parallel test:428 time: 2 ms
+karatsuba sequential test:428 time: 5 ms
+karatsuba parallel test:428 time: 85 ms
+Test with size: 429
+simple sequential test:429 time: 1 ms
+simple parallel test:429 time: 1 ms
+karatsuba sequential test:429 time: 4 ms
+karatsuba parallel test:429 time: 86 ms
+Test with size: 430
+simple sequential test:430 time: 2 ms
+simple parallel test:430 time: 1 ms
+karatsuba sequential test:430 time: 4 ms
+karatsuba parallel test:430 time: 86 ms
+Test with size: 431
+simple sequential test:431 time: 1 ms
+simple parallel test:431 time: 2 ms
+karatsuba sequential test:431 time: 3 ms
+karatsuba parallel test:431 time: 87 ms
+Test with size: 432
+simple sequential test:432 time: 1 ms
+simple parallel test:432 time: 1 ms
+karatsuba sequential test:432 time: 6 ms
+karatsuba parallel test:432 time: 88 ms
+Test with size: 433
+simple sequential test:433 time: 2 ms
+simple parallel test:433 time: 1 ms
+karatsuba sequential test:433 time: 4 ms
+karatsuba parallel test:433 time: 89 ms
+Test with size: 434
+simple sequential test:434 time: 1 ms
+simple parallel test:434 time: 1 ms
+karatsuba sequential test:434 time: 4 ms
+karatsuba parallel test:434 time: 88 ms
+Test with size: 435
+simple sequential test:435 time: 2 ms
+simple parallel test:435 time: 1 ms
+karatsuba sequential test:435 time: 4 ms
+karatsuba parallel test:435 time: 92 ms
+Test with size: 436
+simple sequential test:436 time: 2 ms
+simple parallel test:436 time: 1 ms
+karatsuba sequential test:436 time: 4 ms
+karatsuba parallel test:436 time: 90 ms
+Test with size: 437
+simple sequential test:437 time: 1 ms
+simple parallel test:437 time: 1 ms
+karatsuba sequential test:437 time: 5 ms
+karatsuba parallel test:437 time: 101 ms
+Test with size: 438
+simple sequential test:438 time: 2 ms
+simple parallel test:438 time: 1 ms
+karatsuba sequential test:438 time: 4 ms
+karatsuba parallel test:438 time: 89 ms
+Test with size: 439
+simple sequential test:439 time: 2 ms
+simple parallel test:439 time: 1 ms
+karatsuba sequential test:439 time: 4 ms
+karatsuba parallel test:439 time: 87 ms
+Test with size: 440
+simple sequential test:440 time: 1 ms
+simple parallel test:440 time: 2 ms
+karatsuba sequential test:440 time: 4 ms
+karatsuba parallel test:440 time: 88 ms
+Test with size: 441
+simple sequential test:441 time: 2 ms
+simple parallel test:441 time: 1 ms
+karatsuba sequential test:441 time: 4 ms
+karatsuba parallel test:441 time: 86 ms
+Test with size: 442
+simple sequential test:442 time: 2 ms
+simple parallel test:442 time: 1 ms
+karatsuba sequential test:442 time: 4 ms
+karatsuba parallel test:442 time: 91 ms
+Test with size: 443
+simple sequential test:443 time: 1 ms
+simple parallel test:443 time: 2 ms
+karatsuba sequential test:443 time: 4 ms
+karatsuba parallel test:443 time: 90 ms
+Test with size: 444
+simple sequential test:444 time: 2 ms
+simple parallel test:444 time: 1 ms
+karatsuba sequential test:444 time: 4 ms
+karatsuba parallel test:444 time: 88 ms
+Test with size: 445
+simple sequential test:445 time: 2 ms
+simple parallel test:445 time: 1 ms
+karatsuba sequential test:445 time: 5 ms
+karatsuba parallel test:445 time: 95 ms
+Test with size: 446
+simple sequential test:446 time: 1 ms
+simple parallel test:446 time: 1 ms
+karatsuba sequential test:446 time: 5 ms
+karatsuba parallel test:446 time: 89 ms
+Test with size: 447
+simple sequential test:447 time: 2 ms
+simple parallel test:447 time: 1 ms
+karatsuba sequential test:447 time: 4 ms
+karatsuba parallel test:447 time: 98 ms
+Test with size: 448
+simple sequential test:448 time: 2 ms
+simple parallel test:448 time: 1 ms
+karatsuba sequential test:448 time: 4 ms
+karatsuba parallel test:448 time: 91 ms
+Test with size: 449
+simple sequential test:449 time: 2 ms
+simple parallel test:449 time: 1 ms
+karatsuba sequential test:449 time: 4 ms
+karatsuba parallel test:449 time: 91 ms
+Test with size: 450
+simple sequential test:450 time: 2 ms
+simple parallel test:450 time: 1 ms
+karatsuba sequential test:450 time: 4 ms
+karatsuba parallel test:450 time: 95 ms
+Test with size: 451
+simple sequential test:451 time: 2 ms
+simple parallel test:451 time: 1 ms
+karatsuba sequential test:451 time: 5 ms
+karatsuba parallel test:451 time: 87 ms
+Test with size: 452
+simple sequential test:452 time: 1 ms
+simple parallel test:452 time: 1 ms
+karatsuba sequential test:452 time: 5 ms
+karatsuba parallel test:452 time: 82 ms
+Test with size: 453
+simple sequential test:453 time: 2 ms
+simple parallel test:453 time: 1 ms
+karatsuba sequential test:453 time: 5 ms
+karatsuba parallel test:453 time: 85 ms
+Test with size: 454
+simple sequential test:454 time: 2 ms
+simple parallel test:454 time: 1 ms
+karatsuba sequential test:454 time: 5 ms
+karatsuba parallel test:454 time: 82 ms
+Test with size: 455
+simple sequential test:455 time: 2 ms
+simple parallel test:455 time: 2 ms
+karatsuba sequential test:455 time: 4 ms
+karatsuba parallel test:455 time: 78 ms
+Test with size: 456
+simple sequential test:456 time: 1 ms
+simple parallel test:456 time: 1 ms
+karatsuba sequential test:456 time: 5 ms
+karatsuba parallel test:456 time: 86 ms
+Test with size: 457
+simple sequential test:457 time: 1 ms
+simple parallel test:457 time: 1 ms
+karatsuba sequential test:457 time: 5 ms
+karatsuba parallel test:457 time: 77 ms
+Test with size: 458
+simple sequential test:458 time: 1 ms
+simple parallel test:458 time: 1 ms
+karatsuba sequential test:458 time: 4 ms
+karatsuba parallel test:458 time: 78 ms
+Test with size: 459
+simple sequential test:459 time: 1 ms
+simple parallel test:459 time: 2 ms
+karatsuba sequential test:459 time: 5 ms
+karatsuba parallel test:459 time: 81 ms
+Test with size: 460
+simple sequential test:460 time: 2 ms
+simple parallel test:460 time: 1 ms
+karatsuba sequential test:460 time: 4 ms
+karatsuba parallel test:460 time: 88 ms
+Test with size: 461
+simple sequential test:461 time: 2 ms
+simple parallel test:461 time: 1 ms
+karatsuba sequential test:461 time: 4 ms
+karatsuba parallel test:461 time: 95 ms
+Test with size: 462
+simple sequential test:462 time: 2 ms
+simple parallel test:462 time: 1 ms
+karatsuba sequential test:462 time: 5 ms
+karatsuba parallel test:462 time: 78 ms
+Test with size: 463
+simple sequential test:463 time: 2 ms
+simple parallel test:463 time: 1 ms
+karatsuba sequential test:463 time: 5 ms
+karatsuba parallel test:463 time: 81 ms
+Test with size: 464
+simple sequential test:464 time: 2 ms
+simple parallel test:464 time: 1 ms
+karatsuba sequential test:464 time: 4 ms
+karatsuba parallel test:464 time: 94 ms
+Test with size: 465
+simple sequential test:465 time: 2 ms
+simple parallel test:465 time: 1 ms
+karatsuba sequential test:465 time: 4 ms
+karatsuba parallel test:465 time: 94 ms
+Test with size: 466
+simple sequential test:466 time: 3 ms
+simple parallel test:466 time: 1 ms
+karatsuba sequential test:466 time: 4 ms
+karatsuba parallel test:466 time: 84 ms
+Test with size: 467
+simple sequential test:467 time: 3 ms
+simple parallel test:467 time: 1 ms
+karatsuba sequential test:467 time: 5 ms
+karatsuba parallel test:467 time: 84 ms
+Test with size: 468
+simple sequential test:468 time: 2 ms
+simple parallel test:468 time: 1 ms
+karatsuba sequential test:468 time: 5 ms
+karatsuba parallel test:468 time: 77 ms
+Test with size: 469
+simple sequential test:469 time: 2 ms
+simple parallel test:469 time: 1 ms
+karatsuba sequential test:469 time: 5 ms
+karatsuba parallel test:469 time: 91 ms
+Test with size: 470
+simple sequential test:470 time: 2 ms
+simple parallel test:470 time: 1 ms
+karatsuba sequential test:470 time: 5 ms
+karatsuba parallel test:470 time: 78 ms
+Test with size: 471
+simple sequential test:471 time: 1 ms
+simple parallel test:471 time: 2 ms
+karatsuba sequential test:471 time: 4 ms
+karatsuba parallel test:471 time: 78 ms
+Test with size: 472
+simple sequential test:472 time: 2 ms
+simple parallel test:472 time: 1 ms
+karatsuba sequential test:472 time: 4 ms
+karatsuba parallel test:472 time: 85 ms
+Test with size: 473
+simple sequential test:473 time: 2 ms
+simple parallel test:473 time: 1 ms
+karatsuba sequential test:473 time: 5 ms
+karatsuba parallel test:473 time: 80 ms
+Test with size: 474
+simple sequential test:474 time: 2 ms
+simple parallel test:474 time: 1 ms
+karatsuba sequential test:474 time: 4 ms
+karatsuba parallel test:474 time: 77 ms
+Test with size: 475
+simple sequential test:475 time: 2 ms
+simple parallel test:475 time: 1 ms
+karatsuba sequential test:475 time: 4 ms
+karatsuba parallel test:475 time: 93 ms
+Test with size: 476
+simple sequential test:476 time: 2 ms
+simple parallel test:476 time: 1 ms
+karatsuba sequential test:476 time: 4 ms
+karatsuba parallel test:476 time: 81 ms
+Test with size: 477
+simple sequential test:477 time: 2 ms
+simple parallel test:477 time: 1 ms
+karatsuba sequential test:477 time: 4 ms
+karatsuba parallel test:477 time: 76 ms
+Test with size: 478
+simple sequential test:478 time: 2 ms
+simple parallel test:478 time: 1 ms
+karatsuba sequential test:478 time: 5 ms
+karatsuba parallel test:478 time: 90 ms
+Test with size: 479
+simple sequential test:479 time: 1 ms
+simple parallel test:479 time: 2 ms
+karatsuba sequential test:479 time: 4 ms
+karatsuba parallel test:479 time: 81 ms
+Test with size: 480
+simple sequential test:480 time: 1 ms
+simple parallel test:480 time: 2 ms
+karatsuba sequential test:480 time: 4 ms
+karatsuba parallel test:480 time: 82 ms
+Test with size: 481
+simple sequential test:481 time: 2 ms
+simple parallel test:481 time: 2 ms
+karatsuba sequential test:481 time: 5 ms
+karatsuba parallel test:481 time: 76 ms
+Test with size: 482
+simple sequential test:482 time: 2 ms
+simple parallel test:482 time: 2 ms
+karatsuba sequential test:482 time: 4 ms
+karatsuba parallel test:482 time: 81 ms
+Test with size: 483
+simple sequential test:483 time: 2 ms
+simple parallel test:483 time: 2 ms
+karatsuba sequential test:483 time: 5 ms
+karatsuba parallel test:483 time: 91 ms
+Test with size: 484
+simple sequential test:484 time: 2 ms
+simple parallel test:484 time: 2 ms
+karatsuba sequential test:484 time: 5 ms
+karatsuba parallel test:484 time: 77 ms
+Test with size: 485
+simple sequential test:485 time: 2 ms
+simple parallel test:485 time: 2 ms
+karatsuba sequential test:485 time: 4 ms
+karatsuba parallel test:485 time: 79 ms
+Test with size: 486
+simple sequential test:486 time: 2 ms
+simple parallel test:486 time: 1 ms
+karatsuba sequential test:486 time: 4 ms
+karatsuba parallel test:486 time: 88 ms
+Test with size: 487
+simple sequential test:487 time: 2 ms
+simple parallel test:487 time: 2 ms
+karatsuba sequential test:487 time: 4 ms
+karatsuba parallel test:487 time: 77 ms
+Test with size: 488
+simple sequential test:488 time: 2 ms
+simple parallel test:488 time: 1 ms
+karatsuba sequential test:488 time: 5 ms
+karatsuba parallel test:488 time: 77 ms
+Test with size: 489
+simple sequential test:489 time: 2 ms
+simple parallel test:489 time: 2 ms
+karatsuba sequential test:489 time: 4 ms
+karatsuba parallel test:489 time: 88 ms
+Test with size: 490
+simple sequential test:490 time: 2 ms
+simple parallel test:490 time: 2 ms
+karatsuba sequential test:490 time: 5 ms
+karatsuba parallel test:490 time: 76 ms
+Test with size: 491
+simple sequential test:491 time: 2 ms
+simple parallel test:491 time: 1 ms
+karatsuba sequential test:491 time: 4 ms
+karatsuba parallel test:491 time: 75 ms
+Test with size: 492
+simple sequential test:492 time: 2 ms
+simple parallel test:492 time: 1 ms
+karatsuba sequential test:492 time: 5 ms
+karatsuba parallel test:492 time: 91 ms
+Test with size: 493
+simple sequential test:493 time: 1 ms
+simple parallel test:493 time: 1 ms
+karatsuba sequential test:493 time: 4 ms
+karatsuba parallel test:493 time: 81 ms
+Test with size: 494
+simple sequential test:494 time: 2 ms
+simple parallel test:494 time: 2 ms
+karatsuba sequential test:494 time: 4 ms
+karatsuba parallel test:494 time: 85 ms
+Test with size: 495
+simple sequential test:495 time: 3 ms
+simple parallel test:495 time: 1 ms
+karatsuba sequential test:495 time: 4 ms
+karatsuba parallel test:495 time: 77 ms
+Test with size: 496
+simple sequential test:496 time: 2 ms
+simple parallel test:496 time: 1 ms
+karatsuba sequential test:496 time: 5 ms
+karatsuba parallel test:496 time: 79 ms
+Test with size: 497
+simple sequential test:497 time: 2 ms
+simple parallel test:497 time: 2 ms
+karatsuba sequential test:497 time: 4 ms
+karatsuba parallel test:497 time: 89 ms
+Test with size: 498
+simple sequential test:498 time: 2 ms
+simple parallel test:498 time: 2 ms
+karatsuba sequential test:498 time: 5 ms
+karatsuba parallel test:498 time: 78 ms
+Test with size: 499
+simple sequential test:499 time: 2 ms
+simple parallel test:499 time: 2 ms
+karatsuba sequential test:499 time: 4 ms
+karatsuba parallel test:499 time: 78 ms
+Test with size: 500
+simple sequential test:500 time: 2 ms
+simple parallel test:500 time: 2 ms
+karatsuba sequential test:500 time: 4 ms
+karatsuba parallel test:500 time: 88 ms
+Test with size: 501
+simple sequential test:501 time: 2 ms
+simple parallel test:501 time: 2 ms
+karatsuba sequential test:501 time: 5 ms
+karatsuba parallel test:501 time: 81 ms
+Test with size: 502
+simple sequential test:502 time: 2 ms
+simple parallel test:502 time: 1 ms
+karatsuba sequential test:502 time: 5 ms
+karatsuba parallel test:502 time: 76 ms
+Test with size: 503
+simple sequential test:503 time: 1 ms
+simple parallel test:503 time: 2 ms
+karatsuba sequential test:503 time: 5 ms
+karatsuba parallel test:503 time: 88 ms
+Test with size: 504
+simple sequential test:504 time: 2 ms
+simple parallel test:504 time: 1 ms
+karatsuba sequential test:504 time: 5 ms
+karatsuba parallel test:504 time: 80 ms
+Test with size: 505
+simple sequential test:505 time: 2 ms
+simple parallel test:505 time: 1 ms
+karatsuba sequential test:505 time: 5 ms
+karatsuba parallel test:505 time: 86 ms
+Test with size: 506
+simple sequential test:506 time: 3 ms
+simple parallel test:506 time: 3 ms
+karatsuba sequential test:506 time: 5 ms
+karatsuba parallel test:506 time: 79 ms
+Test with size: 507
+simple sequential test:507 time: 2 ms
+simple parallel test:507 time: 1 ms
+karatsuba sequential test:507 time: 5 ms
+karatsuba parallel test:507 time: 77 ms
+Test with size: 508
+simple sequential test:508 time: 2 ms
+simple parallel test:508 time: 1 ms
+karatsuba sequential test:508 time: 5 ms
+karatsuba parallel test:508 time: 87 ms
+Test with size: 509
+simple sequential test:509 time: 2 ms
+simple parallel test:509 time: 2 ms
+karatsuba sequential test:509 time: 5 ms
+karatsuba parallel test:509 time: 79 ms
+Test with size: 510
+simple sequential test:510 time: 2 ms
+simple parallel test:510 time: 1 ms
+karatsuba sequential test:510 time: 5 ms
+karatsuba parallel test:510 time: 76 ms
+Test with size: 511
+simple sequential test:511 time: 2 ms
+simple parallel test:511 time: 1 ms
+karatsuba sequential test:511 time: 5 ms
+karatsuba parallel test:511 time: 86 ms
+Test with size: 512
+simple sequential test:512 time: 2 ms
+simple parallel test:512 time: 2 ms
+karatsuba sequential test:512 time: 4 ms
+karatsuba parallel test:512 time: 75 ms
+Test with size: 513
+simple sequential test:513 time: 2 ms
+simple parallel test:513 time: 2 ms
+karatsuba sequential test:513 time: 5 ms
+karatsuba parallel test:513 time: 76 ms
+Test with size: 514
+simple sequential test:514 time: 2 ms
+simple parallel test:514 time: 1 ms
+karatsuba sequential test:514 time: 5 ms
+karatsuba parallel test:514 time: 89 ms
+Test with size: 515
+simple sequential test:515 time: 2 ms
+simple parallel test:515 time: 2 ms
+karatsuba sequential test:515 time: 4 ms
+karatsuba parallel test:515 time: 76 ms
+Test with size: 516
+simple sequential test:516 time: 2 ms
+simple parallel test:516 time: 2 ms
+karatsuba sequential test:516 time: 5 ms
+karatsuba parallel test:516 time: 81 ms
+Test with size: 517
+simple sequential test:517 time: 2 ms
+simple parallel test:517 time: 1 ms
+karatsuba sequential test:517 time: 6 ms
+karatsuba parallel test:517 time: 94 ms
+Test with size: 518
+simple sequential test:518 time: 2 ms
+simple parallel test:518 time: 2 ms
+karatsuba sequential test:518 time: 5 ms
+karatsuba parallel test:518 time: 85 ms
+Test with size: 519
+simple sequential test:519 time: 3 ms
+simple parallel test:519 time: 1 ms
+karatsuba sequential test:519 time: 5 ms
+karatsuba parallel test:519 time: 89 ms
+Test with size: 520
+simple sequential test:520 time: 2 ms
+simple parallel test:520 time: 1 ms
+karatsuba sequential test:520 time: 5 ms
+karatsuba parallel test:520 time: 78 ms
+Test with size: 521
+simple sequential test:521 time: 2 ms
+simple parallel test:521 time: 1 ms
+karatsuba sequential test:521 time: 5 ms
+karatsuba parallel test:521 time: 86 ms
+Test with size: 522
+simple sequential test:522 time: 3 ms
+simple parallel test:522 time: 1 ms
+karatsuba sequential test:522 time: 5 ms
+karatsuba parallel test:522 time: 88 ms
+Test with size: 523
+simple sequential test:523 time: 2 ms
+simple parallel test:523 time: 2 ms
+karatsuba sequential test:523 time: 5 ms
+karatsuba parallel test:523 time: 77 ms
+Test with size: 524
+simple sequential test:524 time: 2 ms
+simple parallel test:524 time: 2 ms
+karatsuba sequential test:524 time: 5 ms
+karatsuba parallel test:524 time: 78 ms
+Test with size: 525
+simple sequential test:525 time: 2 ms
+simple parallel test:525 time: 1 ms
+karatsuba sequential test:525 time: 5 ms
+karatsuba parallel test:525 time: 85 ms
+Test with size: 526
+simple sequential test:526 time: 2 ms
+simple parallel test:526 time: 3 ms
+karatsuba sequential test:526 time: 5 ms
+karatsuba parallel test:526 time: 74 ms
+Test with size: 527
+simple sequential test:527 time: 2 ms
+simple parallel test:527 time: 1 ms
+karatsuba sequential test:527 time: 6 ms
+karatsuba parallel test:527 time: 77 ms
+Test with size: 528
+simple sequential test:528 time: 3 ms
+simple parallel test:528 time: 2 ms
+karatsuba sequential test:528 time: 7 ms
+karatsuba parallel test:528 time: 78 ms
+Test with size: 529
+simple sequential test:529 time: 3 ms
+simple parallel test:529 time: 1 ms
+karatsuba sequential test:529 time: 6 ms
+karatsuba parallel test:529 time: 77 ms
+Test with size: 530
+simple sequential test:530 time: 3 ms
+simple parallel test:530 time: 1 ms
+karatsuba sequential test:530 time: 6 ms
+karatsuba parallel test:530 time: 90 ms
+Test with size: 531
+simple sequential test:531 time: 2 ms
+simple parallel test:531 time: 2 ms
+karatsuba sequential test:531 time: 5 ms
+karatsuba parallel test:531 time: 77 ms
+Test with size: 532
+simple sequential test:532 time: 3 ms
+simple parallel test:532 time: 1 ms
+karatsuba sequential test:532 time: 6 ms
+karatsuba parallel test:532 time: 75 ms
+Test with size: 533
+simple sequential test:533 time: 2 ms
+simple parallel test:533 time: 2 ms
+karatsuba sequential test:533 time: 5 ms
+karatsuba parallel test:533 time: 88 ms
+Test with size: 534
+simple sequential test:534 time: 2 ms
+simple parallel test:534 time: 2 ms
+karatsuba sequential test:534 time: 6 ms
+karatsuba parallel test:534 time: 77 ms
+Test with size: 535
+simple sequential test:535 time: 2 ms
+simple parallel test:535 time: 2 ms
+karatsuba sequential test:535 time: 6 ms
+karatsuba parallel test:535 time: 77 ms
+Test with size: 536
+simple sequential test:536 time: 2 ms
+simple parallel test:536 time: 2 ms
+karatsuba sequential test:536 time: 5 ms
+karatsuba parallel test:536 time: 90 ms
+Test with size: 537
+simple sequential test:537 time: 2 ms
+simple parallel test:537 time: 2 ms
+karatsuba sequential test:537 time: 6 ms
+karatsuba parallel test:537 time: 75 ms
+Test with size: 538
+simple sequential test:538 time: 2 ms
+simple parallel test:538 time: 3 ms
+karatsuba sequential test:538 time: 5 ms
+karatsuba parallel test:538 time: 81 ms
+Test with size: 539
+simple sequential test:539 time: 3 ms
+simple parallel test:539 time: 2 ms
+karatsuba sequential test:539 time: 7 ms
+karatsuba parallel test:539 time: 83 ms
+Test with size: 540
+simple sequential test:540 time: 2 ms
+simple parallel test:540 time: 2 ms
+karatsuba sequential test:540 time: 6 ms
+karatsuba parallel test:540 time: 82 ms
+Test with size: 541
+simple sequential test:541 time: 2 ms
+simple parallel test:541 time: 2 ms
+karatsuba sequential test:541 time: 5 ms
+karatsuba parallel test:541 time: 87 ms
+Test with size: 542
+simple sequential test:542 time: 3 ms
+simple parallel test:542 time: 1 ms
+karatsuba sequential test:542 time: 6 ms
+karatsuba parallel test:542 time: 77 ms
+Test with size: 543
+simple sequential test:543 time: 3 ms
+simple parallel test:543 time: 2 ms
+karatsuba sequential test:543 time: 6 ms
+karatsuba parallel test:543 time: 75 ms
+Test with size: 544
+simple sequential test:544 time: 2 ms
+simple parallel test:544 time: 2 ms
+karatsuba sequential test:544 time: 6 ms
+karatsuba parallel test:544 time: 83 ms
+Test with size: 545
+simple sequential test:545 time: 3 ms
+simple parallel test:545 time: 2 ms
+karatsuba sequential test:545 time: 6 ms
+karatsuba parallel test:545 time: 77 ms
+Test with size: 546
+simple sequential test:546 time: 2 ms
+simple parallel test:546 time: 1 ms
+karatsuba sequential test:546 time: 7 ms
+karatsuba parallel test:546 time: 76 ms
+Test with size: 547
+simple sequential test:547 time: 3 ms
+simple parallel test:547 time: 1 ms
+karatsuba sequential test:547 time: 6 ms
+karatsuba parallel test:547 time: 90 ms
+Test with size: 548
+simple sequential test:548 time: 3 ms
+simple parallel test:548 time: 2 ms
+karatsuba sequential test:548 time: 7 ms
+karatsuba parallel test:548 time: 76 ms
+Test with size: 549
+simple sequential test:549 time: 3 ms
+simple parallel test:549 time: 2 ms
+karatsuba sequential test:549 time: 6 ms
+karatsuba parallel test:549 time: 73 ms
+Test with size: 550
+simple sequential test:550 time: 2 ms
+simple parallel test:550 time: 3 ms
+karatsuba sequential test:550 time: 6 ms
+karatsuba parallel test:550 time: 94 ms
+Test with size: 551
+simple sequential test:551 time: 3 ms
+simple parallel test:551 time: 2 ms
+karatsuba sequential test:551 time: 6 ms
+karatsuba parallel test:551 time: 85 ms
+Test with size: 552
+simple sequential test:552 time: 3 ms
+simple parallel test:552 time: 1 ms
+karatsuba sequential test:552 time: 7 ms
+karatsuba parallel test:552 time: 101 ms
+Test with size: 553
+simple sequential test:553 time: 2 ms
+simple parallel test:553 time: 2 ms
+karatsuba sequential test:553 time: 6 ms
+karatsuba parallel test:553 time: 80 ms
+Test with size: 554
+simple sequential test:554 time: 3 ms
+simple parallel test:554 time: 2 ms
+karatsuba sequential test:554 time: 6 ms
+karatsuba parallel test:554 time: 74 ms
+Test with size: 555
+simple sequential test:555 time: 3 ms
+simple parallel test:555 time: 2 ms
+karatsuba sequential test:555 time: 6 ms
+karatsuba parallel test:555 time: 89 ms
+Test with size: 556
+simple sequential test:556 time: 2 ms
+simple parallel test:556 time: 2 ms
+karatsuba sequential test:556 time: 6 ms
+karatsuba parallel test:556 time: 76 ms
+Test with size: 557
+simple sequential test:557 time: 2 ms
+simple parallel test:557 time: 2 ms
+karatsuba sequential test:557 time: 6 ms
+karatsuba parallel test:557 time: 75 ms
+Test with size: 558
+simple sequential test:558 time: 3 ms
+simple parallel test:558 time: 2 ms
+karatsuba sequential test:558 time: 8 ms
+karatsuba parallel test:558 time: 87 ms
+Test with size: 559
+simple sequential test:559 time: 3 ms
+simple parallel test:559 time: 2 ms
+karatsuba sequential test:559 time: 6 ms
+karatsuba parallel test:559 time: 89 ms
+Test with size: 560
+simple sequential test:560 time: 2 ms
+simple parallel test:560 time: 2 ms
+karatsuba sequential test:560 time: 6 ms
+karatsuba parallel test:560 time: 98 ms
+Test with size: 561
+simple sequential test:561 time: 2 ms
+simple parallel test:561 time: 1 ms
+karatsuba sequential test:561 time: 7 ms
+karatsuba parallel test:561 time: 85 ms
+Test with size: 562
+simple sequential test:562 time: 3 ms
+simple parallel test:562 time: 2 ms
+karatsuba sequential test:562 time: 6 ms
+karatsuba parallel test:562 time: 92 ms
+Test with size: 563
+simple sequential test:563 time: 3 ms
+simple parallel test:563 time: 2 ms
+karatsuba sequential test:563 time: 9 ms
+karatsuba parallel test:563 time: 97 ms
+Test with size: 564
+simple sequential test:564 time: 3 ms
+simple parallel test:564 time: 1 ms
+karatsuba sequential test:564 time: 7 ms
+karatsuba parallel test:564 time: 89 ms
+Test with size: 565
+simple sequential test:565 time: 2 ms
+simple parallel test:565 time: 2 ms
+karatsuba sequential test:565 time: 6 ms
+karatsuba parallel test:565 time: 78 ms
+Test with size: 566
+simple sequential test:566 time: 3 ms
+simple parallel test:566 time: 2 ms
+karatsuba sequential test:566 time: 6 ms
+karatsuba parallel test:566 time: 79 ms
+Test with size: 567
+simple sequential test:567 time: 2 ms
+simple parallel test:567 time: 2 ms
+karatsuba sequential test:567 time: 7 ms
+karatsuba parallel test:567 time: 75 ms
+Test with size: 568
+simple sequential test:568 time: 3 ms
+simple parallel test:568 time: 2 ms
+karatsuba sequential test:568 time: 7 ms
+karatsuba parallel test:568 time: 77 ms
+Test with size: 569
+simple sequential test:569 time: 3 ms
+simple parallel test:569 time: 2 ms
+karatsuba sequential test:569 time: 6 ms
+karatsuba parallel test:569 time: 76 ms
+Test with size: 570
+simple sequential test:570 time: 3 ms
+simple parallel test:570 time: 1 ms
+karatsuba sequential test:570 time: 7 ms
+karatsuba parallel test:570 time: 76 ms
+Test with size: 571
+simple sequential test:571 time: 3 ms
+simple parallel test:571 time: 1 ms
+karatsuba sequential test:571 time: 7 ms
+karatsuba parallel test:571 time: 84 ms
+Test with size: 572
+simple sequential test:572 time: 3 ms
+simple parallel test:572 time: 2 ms
+karatsuba sequential test:572 time: 6 ms
+karatsuba parallel test:572 time: 84 ms
+Test with size: 573
+simple sequential test:573 time: 3 ms
+simple parallel test:573 time: 1 ms
+karatsuba sequential test:573 time: 7 ms
+karatsuba parallel test:573 time: 80 ms
+Test with size: 574
+simple sequential test:574 time: 2 ms
+simple parallel test:574 time: 1 ms
+karatsuba sequential test:574 time: 7 ms
+karatsuba parallel test:574 time: 75 ms
+Test with size: 575
+simple sequential test:575 time: 4 ms
+simple parallel test:575 time: 1 ms
+karatsuba sequential test:575 time: 7 ms
+karatsuba parallel test:575 time: 74 ms
+Test with size: 576
+simple sequential test:576 time: 2 ms
+simple parallel test:576 time: 2 ms
+karatsuba sequential test:576 time: 6 ms
+karatsuba parallel test:576 time: 73 ms
+Test with size: 577
+simple sequential test:577 time: 2 ms
+simple parallel test:577 time: 3 ms
+karatsuba sequential test:577 time: 8 ms
+karatsuba parallel test:577 time: 75 ms
+Test with size: 578
+simple sequential test:578 time: 3 ms
+simple parallel test:578 time: 2 ms
+karatsuba sequential test:578 time: 7 ms
+karatsuba parallel test:578 time: 76 ms
+Test with size: 579
+simple sequential test:579 time: 3 ms
+simple parallel test:579 time: 2 ms
+karatsuba sequential test:579 time: 7 ms
+karatsuba parallel test:579 time: 73 ms
+Test with size: 580
+simple sequential test:580 time: 3 ms
+simple parallel test:580 time: 2 ms
+karatsuba sequential test:580 time: 6 ms
+karatsuba parallel test:580 time: 75 ms
+Test with size: 581
+simple sequential test:581 time: 3 ms
+simple parallel test:581 time: 2 ms
+karatsuba sequential test:581 time: 7 ms
+karatsuba parallel test:581 time: 73 ms
+Test with size: 582
+simple sequential test:582 time: 3 ms
+simple parallel test:582 time: 2 ms
+karatsuba sequential test:582 time: 7 ms
+karatsuba parallel test:582 time: 77 ms
+Test with size: 583
+simple sequential test:583 time: 4 ms
+simple parallel test:583 time: 1 ms
+karatsuba sequential test:583 time: 7 ms
+karatsuba parallel test:583 time: 77 ms
+Test with size: 584
+simple sequential test:584 time: 3 ms
+simple parallel test:584 time: 2 ms
+karatsuba sequential test:584 time: 7 ms
+karatsuba parallel test:584 time: 74 ms
+Test with size: 585
+simple sequential test:585 time: 2 ms
+simple parallel test:585 time: 2 ms
+karatsuba sequential test:585 time: 7 ms
+karatsuba parallel test:585 time: 75 ms
+Test with size: 586
+simple sequential test:586 time: 3 ms
+simple parallel test:586 time: 2 ms
+karatsuba sequential test:586 time: 7 ms
+karatsuba parallel test:586 time: 79 ms
+Test with size: 587
+simple sequential test:587 time: 3 ms
+simple parallel test:587 time: 2 ms
+karatsuba sequential test:587 time: 7 ms
+karatsuba parallel test:587 time: 79 ms
+Test with size: 588
+simple sequential test:588 time: 2 ms
+simple parallel test:588 time: 3 ms
+karatsuba sequential test:588 time: 6 ms
+karatsuba parallel test:588 time: 77 ms
+Test with size: 589
+simple sequential test:589 time: 3 ms
+simple parallel test:589 time: 2 ms
+karatsuba sequential test:589 time: 7 ms
+karatsuba parallel test:589 time: 78 ms
+Test with size: 590
+simple sequential test:590 time: 2 ms
+simple parallel test:590 time: 3 ms
+karatsuba sequential test:590 time: 6 ms
+karatsuba parallel test:590 time: 78 ms
+Test with size: 591
+simple sequential test:591 time: 3 ms
+simple parallel test:591 time: 2 ms
+karatsuba sequential test:591 time: 7 ms
+karatsuba parallel test:591 time: 80 ms
+Test with size: 592
+simple sequential test:592 time: 2 ms
+simple parallel test:592 time: 2 ms
+karatsuba sequential test:592 time: 7 ms
+karatsuba parallel test:592 time: 81 ms
+Test with size: 593
+simple sequential test:593 time: 3 ms
+simple parallel test:593 time: 2 ms
+karatsuba sequential test:593 time: 7 ms
+karatsuba parallel test:593 time: 76 ms
+Test with size: 594
+simple sequential test:594 time: 3 ms
+simple parallel test:594 time: 1 ms
+karatsuba sequential test:594 time: 8 ms
+karatsuba parallel test:594 time: 82 ms
+Test with size: 595
+simple sequential test:595 time: 3 ms
+simple parallel test:595 time: 2 ms
+karatsuba sequential test:595 time: 8 ms
+karatsuba parallel test:595 time: 79 ms
+Test with size: 596
+simple sequential test:596 time: 3 ms
+simple parallel test:596 time: 2 ms
+karatsuba sequential test:596 time: 6 ms
+karatsuba parallel test:596 time: 77 ms
+Test with size: 597
+simple sequential test:597 time: 3 ms
+simple parallel test:597 time: 2 ms
+karatsuba sequential test:597 time: 7 ms
+karatsuba parallel test:597 time: 80 ms
+Test with size: 598
+simple sequential test:598 time: 3 ms
+simple parallel test:598 time: 2 ms
+karatsuba sequential test:598 time: 7 ms
+karatsuba parallel test:598 time: 79 ms
+Test with size: 599
+simple sequential test:599 time: 3 ms
+simple parallel test:599 time: 2 ms
+karatsuba sequential test:599 time: 7 ms
+karatsuba parallel test:599 time: 77 ms
+Test with size: 600
+simple sequential test:600 time: 3 ms
+simple parallel test:600 time: 2 ms
+karatsuba sequential test:600 time: 7 ms
+karatsuba parallel test:600 time: 74 ms
+Test with size: 601
+simple sequential test:601 time: 3 ms
+simple parallel test:601 time: 2 ms
+karatsuba sequential test:601 time: 6 ms
+karatsuba parallel test:601 time: 77 ms
+Test with size: 602
+simple sequential test:602 time: 3 ms
+simple parallel test:602 time: 2 ms
+karatsuba sequential test:602 time: 7 ms
+karatsuba parallel test:602 time: 74 ms
+Test with size: 603
+simple sequential test:603 time: 3 ms
+simple parallel test:603 time: 2 ms
+karatsuba sequential test:603 time: 7 ms
+karatsuba parallel test:603 time: 81 ms
+Test with size: 604
+simple sequential test:604 time: 3 ms
+simple parallel test:604 time: 2 ms
+karatsuba sequential test:604 time: 6 ms
+karatsuba parallel test:604 time: 76 ms
+Test with size: 605
+simple sequential test:605 time: 3 ms
+simple parallel test:605 time: 2 ms
+karatsuba sequential test:605 time: 7 ms
+karatsuba parallel test:605 time: 82 ms
+Test with size: 606
+simple sequential test:606 time: 3 ms
+simple parallel test:606 time: 2 ms
+karatsuba sequential test:606 time: 7 ms
+karatsuba parallel test:606 time: 86 ms
+Test with size: 607
+simple sequential test:607 time: 3 ms
+simple parallel test:607 time: 3 ms
+karatsuba sequential test:607 time: 7 ms
+karatsuba parallel test:607 time: 84 ms
+Test with size: 608
+simple sequential test:608 time: 3 ms
+simple parallel test:608 time: 2 ms
+karatsuba sequential test:608 time: 7 ms
+karatsuba parallel test:608 time: 81 ms
+Test with size: 609
+simple sequential test:609 time: 3 ms
+simple parallel test:609 time: 2 ms
+karatsuba sequential test:609 time: 7 ms
+karatsuba parallel test:609 time: 79 ms
+Test with size: 610
+simple sequential test:610 time: 3 ms
+simple parallel test:610 time: 2 ms
+karatsuba sequential test:610 time: 7 ms
+karatsuba parallel test:610 time: 83 ms
+Test with size: 611
+simple sequential test:611 time: 3 ms
+simple parallel test:611 time: 2 ms
+karatsuba sequential test:611 time: 7 ms
+karatsuba parallel test:611 time: 85 ms
+Test with size: 612
+simple sequential test:612 time: 3 ms
+simple parallel test:612 time: 2 ms
+karatsuba sequential test:612 time: 8 ms
+karatsuba parallel test:612 time: 88 ms
+Test with size: 613
+simple sequential test:613 time: 3 ms
+simple parallel test:613 time: 3 ms
+karatsuba sequential test:613 time: 8 ms
+karatsuba parallel test:613 time: 90 ms
+Test with size: 614
+simple sequential test:614 time: 3 ms
+simple parallel test:614 time: 2 ms
+karatsuba sequential test:614 time: 15 ms
+karatsuba parallel test:614 time: 91 ms
+Test with size: 615
+simple sequential test:615 time: 3 ms
+simple parallel test:615 time: 3 ms
+karatsuba sequential test:615 time: 7 ms
+karatsuba parallel test:615 time: 81 ms
+Test with size: 616
+simple sequential test:616 time: 3 ms
+simple parallel test:616 time: 3 ms
+karatsuba sequential test:616 time: 7 ms
+karatsuba parallel test:616 time: 77 ms
+Test with size: 617
+simple sequential test:617 time: 3 ms
+simple parallel test:617 time: 3 ms
+karatsuba sequential test:617 time: 7 ms
+karatsuba parallel test:617 time: 79 ms
+Test with size: 618
+simple sequential test:618 time: 3 ms
+simple parallel test:618 time: 2 ms
+karatsuba sequential test:618 time: 7 ms
+karatsuba parallel test:618 time: 80 ms
+Test with size: 619
+simple sequential test:619 time: 4 ms
+simple parallel test:619 time: 2 ms
+karatsuba sequential test:619 time: 8 ms
+karatsuba parallel test:619 time: 78 ms
+Test with size: 620
+simple sequential test:620 time: 5 ms
+simple parallel test:620 time: 3 ms
+karatsuba sequential test:620 time: 7 ms
+karatsuba parallel test:620 time: 79 ms
+Test with size: 621
+simple sequential test:621 time: 3 ms
+simple parallel test:621 time: 2 ms
+karatsuba sequential test:621 time: 8 ms
+karatsuba parallel test:621 time: 77 ms
+Test with size: 622
+simple sequential test:622 time: 3 ms
+simple parallel test:622 time: 3 ms
+karatsuba sequential test:622 time: 7 ms
+karatsuba parallel test:622 time: 74 ms
+Test with size: 623
+simple sequential test:623 time: 3 ms
+simple parallel test:623 time: 3 ms
+karatsuba sequential test:623 time: 8 ms
+karatsuba parallel test:623 time: 75 ms
+Test with size: 624
+simple sequential test:624 time: 3 ms
+simple parallel test:624 time: 3 ms
+karatsuba sequential test:624 time: 7 ms
+karatsuba parallel test:624 time: 77 ms
+Test with size: 625
+simple sequential test:625 time: 3 ms
+simple parallel test:625 time: 2 ms
+karatsuba sequential test:625 time: 8 ms
+karatsuba parallel test:625 time: 75 ms
+Test with size: 626
+simple sequential test:626 time: 3 ms
+simple parallel test:626 time: 3 ms
+karatsuba sequential test:626 time: 7 ms
+karatsuba parallel test:626 time: 77 ms
+Test with size: 627
+simple sequential test:627 time: 3 ms
+simple parallel test:627 time: 3 ms
+karatsuba sequential test:627 time: 7 ms
+karatsuba parallel test:627 time: 76 ms
+Test with size: 628
+simple sequential test:628 time: 3 ms
+simple parallel test:628 time: 2 ms
+karatsuba sequential test:628 time: 8 ms
+karatsuba parallel test:628 time: 77 ms
+Test with size: 629
+simple sequential test:629 time: 3 ms
+simple parallel test:629 time: 2 ms
+karatsuba sequential test:629 time: 8 ms
+karatsuba parallel test:629 time: 80 ms
+Test with size: 630
+simple sequential test:630 time: 3 ms
+simple parallel test:630 time: 3 ms
+karatsuba sequential test:630 time: 8 ms
+karatsuba parallel test:630 time: 80 ms
+Test with size: 631
+simple sequential test:631 time: 3 ms
+simple parallel test:631 time: 2 ms
+karatsuba sequential test:631 time: 8 ms
+karatsuba parallel test:631 time: 75 ms
+Test with size: 632
+simple sequential test:632 time: 4 ms
+simple parallel test:632 time: 2 ms
+karatsuba sequential test:632 time: 8 ms
+karatsuba parallel test:632 time: 74 ms
+Test with size: 633
+simple sequential test:633 time: 3 ms
+simple parallel test:633 time: 2 ms
+karatsuba sequential test:633 time: 8 ms
+karatsuba parallel test:633 time: 78 ms
+Test with size: 634
+simple sequential test:634 time: 3 ms
+simple parallel test:634 time: 3 ms
+karatsuba sequential test:634 time: 7 ms
+karatsuba parallel test:634 time: 80 ms
+Test with size: 635
+simple sequential test:635 time: 3 ms
+simple parallel test:635 time: 2 ms
+karatsuba sequential test:635 time: 7 ms
+karatsuba parallel test:635 time: 80 ms
+Test with size: 636
+simple sequential test:636 time: 3 ms
+simple parallel test:636 time: 2 ms
+karatsuba sequential test:636 time: 8 ms
+karatsuba parallel test:636 time: 77 ms
+Test with size: 637
+simple sequential test:637 time: 4 ms
+simple parallel test:637 time: 2 ms
+karatsuba sequential test:637 time: 8 ms
+karatsuba parallel test:637 time: 75 ms
+Test with size: 638
+simple sequential test:638 time: 3 ms
+simple parallel test:638 time: 3 ms
+karatsuba sequential test:638 time: 8 ms
+karatsuba parallel test:638 time: 74 ms
+Test with size: 639
+simple sequential test:639 time: 3 ms
+simple parallel test:639 time: 2 ms
+karatsuba sequential test:639 time: 8 ms
+karatsuba parallel test:639 time: 81 ms
+Test with size: 640
+simple sequential test:640 time: 3 ms
+simple parallel test:640 time: 3 ms
+karatsuba sequential test:640 time: 7 ms
+karatsuba parallel test:640 time: 79 ms
+Test with size: 641
+simple sequential test:641 time: 3 ms
+simple parallel test:641 time: 2 ms
+karatsuba sequential test:641 time: 8 ms
+karatsuba parallel test:641 time: 77 ms
+Test with size: 642
+simple sequential test:642 time: 3 ms
+simple parallel test:642 time: 3 ms
+karatsuba sequential test:642 time: 9 ms
+karatsuba parallel test:642 time: 75 ms
+Test with size: 643
+simple sequential test:643 time: 3 ms
+simple parallel test:643 time: 2 ms
+karatsuba sequential test:643 time: 7 ms
+karatsuba parallel test:643 time: 77 ms
+Test with size: 644
+simple sequential test:644 time: 3 ms
+simple parallel test:644 time: 3 ms
+karatsuba sequential test:644 time: 7 ms
+karatsuba parallel test:644 time: 79 ms
+Test with size: 645
+simple sequential test:645 time: 3 ms
+simple parallel test:645 time: 3 ms
+karatsuba sequential test:645 time: 8 ms
+karatsuba parallel test:645 time: 75 ms
+Test with size: 646
+simple sequential test:646 time: 4 ms
+simple parallel test:646 time: 1 ms
+karatsuba sequential test:646 time: 9 ms
+karatsuba parallel test:646 time: 77 ms
+Test with size: 647
+simple sequential test:647 time: 3 ms
+simple parallel test:647 time: 3 ms
+karatsuba sequential test:647 time: 8 ms
+karatsuba parallel test:647 time: 128 ms
+Test with size: 648
+simple sequential test:648 time: 4 ms
+simple parallel test:648 time: 3 ms
+karatsuba sequential test:648 time: 10 ms
+karatsuba parallel test:648 time: 110 ms
+Test with size: 649
+simple sequential test:649 time: 3 ms
+simple parallel test:649 time: 2 ms
+karatsuba sequential test:649 time: 10 ms
+karatsuba parallel test:649 time: 111 ms
+Test with size: 650
+simple sequential test:650 time: 4 ms
+simple parallel test:650 time: 3 ms
+karatsuba sequential test:650 time: 9 ms
+karatsuba parallel test:650 time: 81 ms
+Test with size: 651
+simple sequential test:651 time: 4 ms
+simple parallel test:651 time: 3 ms
+karatsuba sequential test:651 time: 7 ms
+karatsuba parallel test:651 time: 81 ms
+Test with size: 652
+simple sequential test:652 time: 3 ms
+simple parallel test:652 time: 3 ms
+karatsuba sequential test:652 time: 8 ms
+karatsuba parallel test:652 time: 80 ms
+Test with size: 653
+simple sequential test:653 time: 3 ms
+simple parallel test:653 time: 2 ms
+karatsuba sequential test:653 time: 8 ms
+karatsuba parallel test:653 time: 81 ms
+Test with size: 654
+simple sequential test:654 time: 3 ms
+simple parallel test:654 time: 3 ms
+karatsuba sequential test:654 time: 8 ms
+karatsuba parallel test:654 time: 81 ms
+Test with size: 655
+simple sequential test:655 time: 4 ms
+simple parallel test:655 time: 2 ms
+karatsuba sequential test:655 time: 10 ms
+karatsuba parallel test:655 time: 80 ms
+Test with size: 656
+simple sequential test:656 time: 3 ms
+simple parallel test:656 time: 3 ms
+karatsuba sequential test:656 time: 8 ms
+karatsuba parallel test:656 time: 81 ms
+Test with size: 657
+simple sequential test:657 time: 4 ms
+simple parallel test:657 time: 3 ms
+karatsuba sequential test:657 time: 9 ms
+karatsuba parallel test:657 time: 80 ms
+Test with size: 658
+simple sequential test:658 time: 3 ms
+simple parallel test:658 time: 2 ms
+karatsuba sequential test:658 time: 9 ms
+karatsuba parallel test:658 time: 83 ms
+Test with size: 659
+simple sequential test:659 time: 3 ms
+simple parallel test:659 time: 3 ms
+karatsuba sequential test:659 time: 8 ms
+karatsuba parallel test:659 time: 80 ms
+Test with size: 660
+simple sequential test:660 time: 3 ms
+simple parallel test:660 time: 3 ms
+karatsuba sequential test:660 time: 9 ms
+karatsuba parallel test:660 time: 77 ms
+Test with size: 661
+simple sequential test:661 time: 4 ms
+simple parallel test:661 time: 3 ms
+karatsuba sequential test:661 time: 8 ms
+karatsuba parallel test:661 time: 82 ms
+Test with size: 662
+simple sequential test:662 time: 4 ms
+simple parallel test:662 time: 3 ms
+karatsuba sequential test:662 time: 9 ms
+karatsuba parallel test:662 time: 80 ms
+Test with size: 663
+simple sequential test:663 time: 4 ms
+simple parallel test:663 time: 2 ms
+karatsuba sequential test:663 time: 9 ms
+karatsuba parallel test:663 time: 80 ms
+Test with size: 664
+simple sequential test:664 time: 4 ms
+simple parallel test:664 time: 2 ms
+karatsuba sequential test:664 time: 9 ms
+karatsuba parallel test:664 time: 79 ms
+Test with size: 665
+simple sequential test:665 time: 4 ms
+simple parallel test:665 time: 2 ms
+karatsuba sequential test:665 time: 8 ms
+karatsuba parallel test:665 time: 86 ms
+Test with size: 666
+simple sequential test:666 time: 3 ms
+simple parallel test:666 time: 3 ms
+karatsuba sequential test:666 time: 8 ms
+karatsuba parallel test:666 time: 79 ms
+Test with size: 667
+simple sequential test:667 time: 4 ms
+simple parallel test:667 time: 2 ms
+karatsuba sequential test:667 time: 8 ms
+karatsuba parallel test:667 time: 80 ms
+Test with size: 668
+simple sequential test:668 time: 4 ms
+simple parallel test:668 time: 3 ms
+karatsuba sequential test:668 time: 9 ms
+karatsuba parallel test:668 time: 81 ms
+Test with size: 669
+simple sequential test:669 time: 4 ms
+simple parallel test:669 time: 2 ms
+karatsuba sequential test:669 time: 9 ms
+karatsuba parallel test:669 time: 79 ms
+Test with size: 670
+simple sequential test:670 time: 4 ms
+simple parallel test:670 time: 3 ms
+karatsuba sequential test:670 time: 8 ms
+karatsuba parallel test:670 time: 87 ms
+Test with size: 671
+simple sequential test:671 time: 4 ms
+simple parallel test:671 time: 2 ms
+karatsuba sequential test:671 time: 8 ms
+karatsuba parallel test:671 time: 83 ms
+Test with size: 672
+simple sequential test:672 time: 4 ms
+simple parallel test:672 time: 3 ms
+karatsuba sequential test:672 time: 8 ms
+karatsuba parallel test:672 time: 82 ms
+Test with size: 673
+simple sequential test:673 time: 4 ms
+simple parallel test:673 time: 2 ms
+karatsuba sequential test:673 time: 8 ms
+karatsuba parallel test:673 time: 81 ms
+Test with size: 674
+simple sequential test:674 time: 3 ms
+simple parallel test:674 time: 3 ms
+karatsuba sequential test:674 time: 9 ms
+karatsuba parallel test:674 time: 80 ms
+Test with size: 675
+simple sequential test:675 time: 4 ms
+simple parallel test:675 time: 2 ms
+karatsuba sequential test:675 time: 8 ms
+karatsuba parallel test:675 time: 80 ms
+Test with size: 676
+simple sequential test:676 time: 4 ms
+simple parallel test:676 time: 2 ms
+karatsuba sequential test:676 time: 9 ms
+karatsuba parallel test:676 time: 80 ms
+Test with size: 677
+simple sequential test:677 time: 3 ms
+simple parallel test:677 time: 2 ms
+karatsuba sequential test:677 time: 9 ms
+karatsuba parallel test:677 time: 80 ms
+Test with size: 678
+simple sequential test:678 time: 4 ms
+simple parallel test:678 time: 2 ms
+karatsuba sequential test:678 time: 14 ms
+karatsuba parallel test:678 time: 96 ms
+Test with size: 679
+simple sequential test:679 time: 4 ms
+simple parallel test:679 time: 2 ms
+karatsuba sequential test:679 time: 8 ms
+karatsuba parallel test:679 time: 83 ms
+Test with size: 680
+simple sequential test:680 time: 3 ms
+simple parallel test:680 time: 3 ms
+karatsuba sequential test:680 time: 8 ms
+karatsuba parallel test:680 time: 88 ms
+Test with size: 681
+simple sequential test:681 time: 4 ms
+simple parallel test:681 time: 2 ms
+karatsuba sequential test:681 time: 9 ms
+karatsuba parallel test:681 time: 80 ms
+Test with size: 682
+simple sequential test:682 time: 3 ms
+simple parallel test:682 time: 3 ms
+karatsuba sequential test:682 time: 9 ms
+karatsuba parallel test:682 time: 107 ms
+Test with size: 683
+simple sequential test:683 time: 4 ms
+simple parallel test:683 time: 3 ms
+karatsuba sequential test:683 time: 10 ms
+karatsuba parallel test:683 time: 95 ms
+Test with size: 684
+simple sequential test:684 time: 4 ms
+simple parallel test:684 time: 2 ms
+karatsuba sequential test:684 time: 10 ms
+karatsuba parallel test:684 time: 103 ms
+Test with size: 685
+simple sequential test:685 time: 4 ms
+simple parallel test:685 time: 2 ms
+karatsuba sequential test:685 time: 10 ms
+karatsuba parallel test:685 time: 102 ms
+Test with size: 686
+simple sequential test:686 time: 3 ms
+simple parallel test:686 time: 2 ms
+karatsuba sequential test:686 time: 10 ms
+karatsuba parallel test:686 time: 99 ms
+Test with size: 687
+simple sequential test:687 time: 5 ms
+simple parallel test:687 time: 2 ms
+karatsuba sequential test:687 time: 10 ms
+karatsuba parallel test:687 time: 87 ms
+Test with size: 688
+simple sequential test:688 time: 4 ms
+simple parallel test:688 time: 3 ms
+karatsuba sequential test:688 time: 9 ms
+karatsuba parallel test:688 time: 90 ms
+Test with size: 689
+simple sequential test:689 time: 4 ms
+simple parallel test:689 time: 2 ms
+karatsuba sequential test:689 time: 9 ms
+karatsuba parallel test:689 time: 88 ms
+Test with size: 690
+simple sequential test:690 time: 3 ms
+simple parallel test:690 time: 3 ms
+karatsuba sequential test:690 time: 9 ms
+karatsuba parallel test:690 time: 90 ms
+Test with size: 691
+simple sequential test:691 time: 3 ms
+simple parallel test:691 time: 2 ms
+karatsuba sequential test:691 time: 9 ms
+karatsuba parallel test:691 time: 86 ms
+Test with size: 692
+simple sequential test:692 time: 4 ms
+simple parallel test:692 time: 2 ms
+karatsuba sequential test:692 time: 10 ms
+karatsuba parallel test:692 time: 86 ms
+Test with size: 693
+simple sequential test:693 time: 4 ms
+simple parallel test:693 time: 2 ms
+karatsuba sequential test:693 time: 9 ms
+karatsuba parallel test:693 time: 81 ms
+Test with size: 694
+simple sequential test:694 time: 4 ms
+simple parallel test:694 time: 2 ms
+karatsuba sequential test:694 time: 9 ms
+karatsuba parallel test:694 time: 80 ms
+Test with size: 695
+simple sequential test:695 time: 4 ms
+simple parallel test:695 time: 2 ms
+karatsuba sequential test:695 time: 9 ms
+karatsuba parallel test:695 time: 82 ms
+Test with size: 696
+simple sequential test:696 time: 3 ms
+simple parallel test:696 time: 3 ms
+karatsuba sequential test:696 time: 9 ms
+karatsuba parallel test:696 time: 80 ms
+Test with size: 697
+simple sequential test:697 time: 4 ms
+simple parallel test:697 time: 2 ms
+karatsuba sequential test:697 time: 8 ms
+karatsuba parallel test:697 time: 83 ms
+Test with size: 698
+simple sequential test:698 time: 4 ms
+simple parallel test:698 time: 3 ms
+karatsuba sequential test:698 time: 8 ms
+karatsuba parallel test:698 time: 81 ms
+Test with size: 699
+simple sequential test:699 time: 4 ms
+simple parallel test:699 time: 2 ms
+karatsuba sequential test:699 time: 9 ms
+karatsuba parallel test:699 time: 87 ms
+Test with size: 700
+simple sequential test:700 time: 4 ms
+simple parallel test:700 time: 2 ms
+karatsuba sequential test:700 time: 9 ms
+karatsuba parallel test:700 time: 96 ms
+Test with size: 701
+simple sequential test:701 time: 4 ms
+simple parallel test:701 time: 2 ms
+karatsuba sequential test:701 time: 9 ms
+karatsuba parallel test:701 time: 98 ms
+Test with size: 702
+simple sequential test:702 time: 4 ms
+simple parallel test:702 time: 3 ms
+karatsuba sequential test:702 time: 9 ms
+karatsuba parallel test:702 time: 82 ms
+Test with size: 703
+simple sequential test:703 time: 4 ms
+simple parallel test:703 time: 3 ms
+karatsuba sequential test:703 time: 8 ms
+karatsuba parallel test:703 time: 85 ms
+Test with size: 704
+simple sequential test:704 time: 4 ms
+simple parallel test:704 time: 3 ms
+karatsuba sequential test:704 time: 9 ms
+karatsuba parallel test:704 time: 80 ms
+Test with size: 705
+simple sequential test:705 time: 4 ms
+simple parallel test:705 time: 2 ms
+karatsuba sequential test:705 time: 9 ms
+karatsuba parallel test:705 time: 80 ms
+Test with size: 706
+simple sequential test:706 time: 4 ms
+simple parallel test:706 time: 2 ms
+karatsuba sequential test:706 time: 10 ms
+karatsuba parallel test:706 time: 84 ms
+Test with size: 707
+simple sequential test:707 time: 4 ms
+simple parallel test:707 time: 3 ms
+karatsuba sequential test:707 time: 9 ms
+karatsuba parallel test:707 time: 82 ms
+Test with size: 708
+simple sequential test:708 time: 4 ms
+simple parallel test:708 time: 3 ms
+karatsuba sequential test:708 time: 8 ms
+karatsuba parallel test:708 time: 82 ms
+Test with size: 709
+simple sequential test:709 time: 4 ms
+simple parallel test:709 time: 3 ms
+karatsuba sequential test:709 time: 10 ms
+karatsuba parallel test:709 time: 81 ms
+Test with size: 710
+simple sequential test:710 time: 4 ms
+simple parallel test:710 time: 3 ms
+karatsuba sequential test:710 time: 9 ms
+karatsuba parallel test:710 time: 80 ms
+Test with size: 711
+simple sequential test:711 time: 4 ms
+simple parallel test:711 time: 2 ms
+karatsuba sequential test:711 time: 9 ms
+karatsuba parallel test:711 time: 82 ms
+Test with size: 712
+simple sequential test:712 time: 4 ms
+simple parallel test:712 time: 3 ms
+karatsuba sequential test:712 time: 9 ms
+karatsuba parallel test:712 time: 82 ms
+Test with size: 713
+simple sequential test:713 time: 4 ms
+simple parallel test:713 time: 2 ms
+karatsuba sequential test:713 time: 9 ms
+karatsuba parallel test:713 time: 84 ms
+Test with size: 714
+simple sequential test:714 time: 4 ms
+simple parallel test:714 time: 2 ms
+karatsuba sequential test:714 time: 9 ms
+karatsuba parallel test:714 time: 80 ms
+Test with size: 715
+simple sequential test:715 time: 6 ms
+simple parallel test:715 time: 2 ms
+karatsuba sequential test:715 time: 9 ms
+karatsuba parallel test:715 time: 80 ms
+Test with size: 716
+simple sequential test:716 time: 4 ms
+simple parallel test:716 time: 2 ms
+karatsuba sequential test:716 time: 9 ms
+karatsuba parallel test:716 time: 82 ms
+Test with size: 717
+simple sequential test:717 time: 4 ms
+simple parallel test:717 time: 3 ms
+karatsuba sequential test:717 time: 9 ms
+karatsuba parallel test:717 time: 88 ms
+Test with size: 718
+simple sequential test:718 time: 3 ms
+simple parallel test:718 time: 3 ms
+karatsuba sequential test:718 time: 9 ms
+karatsuba parallel test:718 time: 77 ms
+Test with size: 719
+simple sequential test:719 time: 4 ms
+simple parallel test:719 time: 3 ms
+karatsuba sequential test:719 time: 9 ms
+karatsuba parallel test:719 time: 83 ms
+Test with size: 720
+simple sequential test:720 time: 6 ms
+simple parallel test:720 time: 3 ms
+karatsuba sequential test:720 time: 9 ms
+karatsuba parallel test:720 time: 81 ms
+Test with size: 721
+simple sequential test:721 time: 4 ms
+simple parallel test:721 time: 3 ms
+karatsuba sequential test:721 time: 10 ms
+karatsuba parallel test:721 time: 79 ms
+Test with size: 722
+simple sequential test:722 time: 4 ms
+simple parallel test:722 time: 2 ms
+karatsuba sequential test:722 time: 9 ms
+karatsuba parallel test:722 time: 90 ms
+Test with size: 723
+simple sequential test:723 time: 4 ms
+simple parallel test:723 time: 3 ms
+karatsuba sequential test:723 time: 10 ms
+karatsuba parallel test:723 time: 81 ms
+Test with size: 724
+simple sequential test:724 time: 4 ms
+simple parallel test:724 time: 3 ms
+karatsuba sequential test:724 time: 11 ms
+karatsuba parallel test:724 time: 111 ms
+Test with size: 725
+simple sequential test:725 time: 7 ms
+simple parallel test:725 time: 6 ms
+karatsuba sequential test:725 time: 11 ms
+karatsuba parallel test:725 time: 101 ms
+Test with size: 726
+simple sequential test:726 time: 5 ms
+simple parallel test:726 time: 2 ms
+karatsuba sequential test:726 time: 10 ms
+karatsuba parallel test:726 time: 85 ms
+Test with size: 727
+simple sequential test:727 time: 5 ms
+simple parallel test:727 time: 3 ms
+karatsuba sequential test:727 time: 9 ms
+karatsuba parallel test:727 time: 82 ms
+Test with size: 728
+simple sequential test:728 time: 5 ms
+simple parallel test:728 time: 3 ms
+karatsuba sequential test:728 time: 9 ms
+karatsuba parallel test:728 time: 79 ms
+Test with size: 729
+simple sequential test:729 time: 4 ms
+simple parallel test:729 time: 2 ms
+karatsuba sequential test:729 time: 9 ms
+karatsuba parallel test:729 time: 83 ms
+Test with size: 730
+simple sequential test:730 time: 5 ms
+simple parallel test:730 time: 3 ms
+karatsuba sequential test:730 time: 9 ms
+karatsuba parallel test:730 time: 80 ms
+Test with size: 731
+simple sequential test:731 time: 5 ms
+simple parallel test:731 time: 3 ms
+karatsuba sequential test:731 time: 9 ms
+karatsuba parallel test:731 time: 82 ms
+Test with size: 732
+simple sequential test:732 time: 5 ms
+simple parallel test:732 time: 3 ms
+karatsuba sequential test:732 time: 10 ms
+karatsuba parallel test:732 time: 83 ms
+Test with size: 733
+simple sequential test:733 time: 4 ms
+simple parallel test:733 time: 3 ms
+karatsuba sequential test:733 time: 10 ms
+karatsuba parallel test:733 time: 80 ms
+Test with size: 734
+simple sequential test:734 time: 4 ms
+simple parallel test:734 time: 4 ms
+karatsuba sequential test:734 time: 9 ms
+karatsuba parallel test:734 time: 81 ms
+Test with size: 735
+simple sequential test:735 time: 5 ms
+simple parallel test:735 time: 2 ms
+karatsuba sequential test:735 time: 10 ms
+karatsuba parallel test:735 time: 81 ms
+Test with size: 736
+simple sequential test:736 time: 4 ms
+simple parallel test:736 time: 3 ms
+karatsuba sequential test:736 time: 12 ms
+karatsuba parallel test:736 time: 79 ms
+Test with size: 737
+simple sequential test:737 time: 4 ms
+simple parallel test:737 time: 2 ms
+karatsuba sequential test:737 time: 10 ms
+karatsuba parallel test:737 time: 83 ms
+Test with size: 738
+simple sequential test:738 time: 5 ms
+simple parallel test:738 time: 3 ms
+karatsuba sequential test:738 time: 9 ms
+karatsuba parallel test:738 time: 82 ms
+Test with size: 739
+simple sequential test:739 time: 4 ms
+simple parallel test:739 time: 2 ms
+karatsuba sequential test:739 time: 10 ms
+karatsuba parallel test:739 time: 81 ms
+Test with size: 740
+simple sequential test:740 time: 4 ms
+simple parallel test:740 time: 2 ms
+karatsuba sequential test:740 time: 10 ms
+karatsuba parallel test:740 time: 81 ms
+Test with size: 741
+simple sequential test:741 time: 5 ms
+simple parallel test:741 time: 3 ms
+karatsuba sequential test:741 time: 10 ms
+karatsuba parallel test:741 time: 79 ms
+Test with size: 742
+simple sequential test:742 time: 4 ms
+simple parallel test:742 time: 3 ms
+karatsuba sequential test:742 time: 10 ms
+karatsuba parallel test:742 time: 81 ms
+Test with size: 743
+simple sequential test:743 time: 4 ms
+simple parallel test:743 time: 3 ms
+karatsuba sequential test:743 time: 10 ms
+karatsuba parallel test:743 time: 79 ms
+Test with size: 744
+simple sequential test:744 time: 4 ms
+simple parallel test:744 time: 3 ms
+karatsuba sequential test:744 time: 10 ms
+karatsuba parallel test:744 time: 82 ms
+Test with size: 745
+simple sequential test:745 time: 4 ms
+simple parallel test:745 time: 4 ms
+karatsuba sequential test:745 time: 9 ms
+karatsuba parallel test:745 time: 77 ms
+Test with size: 746
+simple sequential test:746 time: 4 ms
+simple parallel test:746 time: 3 ms
+karatsuba sequential test:746 time: 10 ms
+karatsuba parallel test:746 time: 78 ms
+Test with size: 747
+simple sequential test:747 time: 5 ms
+simple parallel test:747 time: 2 ms
+karatsuba sequential test:747 time: 10 ms
+karatsuba parallel test:747 time: 84 ms
+Test with size: 748
+simple sequential test:748 time: 5 ms
+simple parallel test:748 time: 2 ms
+karatsuba sequential test:748 time: 10 ms
+karatsuba parallel test:748 time: 77 ms
+Test with size: 749
+simple sequential test:749 time: 4 ms
+simple parallel test:749 time: 3 ms
+karatsuba sequential test:749 time: 10 ms
+karatsuba parallel test:749 time: 78 ms
+Test with size: 750
+simple sequential test:750 time: 4 ms
+simple parallel test:750 time: 3 ms
+karatsuba sequential test:750 time: 10 ms
+karatsuba parallel test:750 time: 77 ms
+Test with size: 751
+simple sequential test:751 time: 4 ms
+simple parallel test:751 time: 3 ms
+karatsuba sequential test:751 time: 10 ms
+karatsuba parallel test:751 time: 81 ms
+Test with size: 752
+simple sequential test:752 time: 5 ms
+simple parallel test:752 time: 2 ms
+karatsuba sequential test:752 time: 12 ms
+karatsuba parallel test:752 time: 78 ms
+Test with size: 753
+simple sequential test:753 time: 4 ms
+simple parallel test:753 time: 3 ms
+karatsuba sequential test:753 time: 10 ms
+karatsuba parallel test:753 time: 79 ms
+Test with size: 754
+simple sequential test:754 time: 5 ms
+simple parallel test:754 time: 3 ms
+karatsuba sequential test:754 time: 10 ms
+karatsuba parallel test:754 time: 80 ms
+Test with size: 755
+simple sequential test:755 time: 5 ms
+simple parallel test:755 time: 3 ms
+karatsuba sequential test:755 time: 10 ms
+karatsuba parallel test:755 time: 80 ms
+Test with size: 756
+simple sequential test:756 time: 5 ms
+simple parallel test:756 time: 3 ms
+karatsuba sequential test:756 time: 10 ms
+karatsuba parallel test:756 time: 79 ms
+Test with size: 757
+simple sequential test:757 time: 5 ms
+simple parallel test:757 time: 2 ms
+karatsuba sequential test:757 time: 11 ms
+karatsuba parallel test:757 time: 78 ms
+Test with size: 758
+simple sequential test:758 time: 4 ms
+simple parallel test:758 time: 3 ms
+karatsuba sequential test:758 time: 10 ms
+karatsuba parallel test:758 time: 82 ms
+Test with size: 759
+simple sequential test:759 time: 4 ms
+simple parallel test:759 time: 3 ms
+karatsuba sequential test:759 time: 11 ms
+karatsuba parallel test:759 time: 81 ms
+Test with size: 760
+simple sequential test:760 time: 4 ms
+simple parallel test:760 time: 3 ms
+karatsuba sequential test:760 time: 10 ms
+karatsuba parallel test:760 time: 79 ms
+Test with size: 761
+simple sequential test:761 time: 5 ms
+simple parallel test:761 time: 2 ms
+karatsuba sequential test:761 time: 10 ms
+karatsuba parallel test:761 time: 80 ms
+Test with size: 762
+simple sequential test:762 time: 5 ms
+simple parallel test:762 time: 2 ms
+karatsuba sequential test:762 time: 10 ms
+karatsuba parallel test:762 time: 83 ms
+Test with size: 763
+simple sequential test:763 time: 4 ms
+simple parallel test:763 time: 3 ms
+karatsuba sequential test:763 time: 10 ms
+karatsuba parallel test:763 time: 79 ms
+Test with size: 764
+simple sequential test:764 time: 5 ms
+simple parallel test:764 time: 3 ms
+karatsuba sequential test:764 time: 11 ms
+karatsuba parallel test:764 time: 81 ms
+Test with size: 765
+simple sequential test:765 time: 5 ms
+simple parallel test:765 time: 2 ms
+karatsuba sequential test:765 time: 11 ms
+karatsuba parallel test:765 time: 80 ms
+Test with size: 766
+simple sequential test:766 time: 4 ms
+simple parallel test:766 time: 3 ms
+karatsuba sequential test:766 time: 10 ms
+karatsuba parallel test:766 time: 81 ms
+Test with size: 767
+simple sequential test:767 time: 4 ms
+simple parallel test:767 time: 3 ms
+karatsuba sequential test:767 time: 10 ms
+karatsuba parallel test:767 time: 84 ms
+Test with size: 768
+simple sequential test:768 time: 5 ms
+simple parallel test:768 time: 2 ms
+karatsuba sequential test:768 time: 10 ms
+karatsuba parallel test:768 time: 80 ms
+Test with size: 769
+simple sequential test:769 time: 5 ms
+simple parallel test:769 time: 3 ms
+karatsuba sequential test:769 time: 10 ms
+karatsuba parallel test:769 time: 79 ms
+Test with size: 770
+simple sequential test:770 time: 5 ms
+simple parallel test:770 time: 3 ms
+karatsuba sequential test:770 time: 11 ms
+karatsuba parallel test:770 time: 83 ms
+Test with size: 771
+simple sequential test:771 time: 5 ms
+simple parallel test:771 time: 3 ms
+karatsuba sequential test:771 time: 10 ms
+karatsuba parallel test:771 time: 79 ms
+Test with size: 772
+simple sequential test:772 time: 5 ms
+simple parallel test:772 time: 3 ms
+karatsuba sequential test:772 time: 10 ms
+karatsuba parallel test:772 time: 80 ms
+Test with size: 773
+simple sequential test:773 time: 5 ms
+simple parallel test:773 time: 3 ms
+karatsuba sequential test:773 time: 10 ms
+karatsuba parallel test:773 time: 81 ms
+Test with size: 774
+simple sequential test:774 time: 5 ms
+simple parallel test:774 time: 3 ms
+karatsuba sequential test:774 time: 10 ms
+karatsuba parallel test:774 time: 82 ms
+Test with size: 775
+simple sequential test:775 time: 5 ms
+simple parallel test:775 time: 2 ms
+karatsuba sequential test:775 time: 11 ms
+karatsuba parallel test:775 time: 81 ms
+Test with size: 776
+simple sequential test:776 time: 5 ms
+simple parallel test:776 time: 3 ms
+karatsuba sequential test:776 time: 11 ms
+karatsuba parallel test:776 time: 78 ms
+Test with size: 777
+simple sequential test:777 time: 6 ms
+simple parallel test:777 time: 3 ms
+karatsuba sequential test:777 time: 10 ms
+karatsuba parallel test:777 time: 80 ms
+Test with size: 778
+simple sequential test:778 time: 5 ms
+simple parallel test:778 time: 3 ms
+karatsuba sequential test:778 time: 10 ms
+karatsuba parallel test:778 time: 79 ms
+Test with size: 779
+simple sequential test:779 time: 4 ms
+simple parallel test:779 time: 2 ms
+karatsuba sequential test:779 time: 10 ms
+karatsuba parallel test:779 time: 80 ms
+Test with size: 780
+simple sequential test:780 time: 4 ms
+simple parallel test:780 time: 3 ms
+karatsuba sequential test:780 time: 10 ms
+karatsuba parallel test:780 time: 80 ms
+Test with size: 781
+simple sequential test:781 time: 5 ms
+simple parallel test:781 time: 4 ms
+karatsuba sequential test:781 time: 10 ms
+karatsuba parallel test:781 time: 81 ms
+Test with size: 782
+simple sequential test:782 time: 4 ms
+simple parallel test:782 time: 3 ms
+karatsuba sequential test:782 time: 11 ms
+karatsuba parallel test:782 time: 82 ms
+Test with size: 783
+simple sequential test:783 time: 5 ms
+simple parallel test:783 time: 3 ms
+karatsuba sequential test:783 time: 11 ms
+karatsuba parallel test:783 time: 86 ms
+Test with size: 784
+simple sequential test:784 time: 5 ms
+simple parallel test:784 time: 2 ms
+karatsuba sequential test:784 time: 10 ms
+karatsuba parallel test:784 time: 81 ms
+Test with size: 785
+simple sequential test:785 time: 5 ms
+simple parallel test:785 time: 3 ms
+karatsuba sequential test:785 time: 10 ms
+karatsuba parallel test:785 time: 81 ms
+Test with size: 786
+simple sequential test:786 time: 6 ms
+simple parallel test:786 time: 2 ms
+karatsuba sequential test:786 time: 11 ms
+karatsuba parallel test:786 time: 81 ms
+Test with size: 787
+simple sequential test:787 time: 5 ms
+simple parallel test:787 time: 3 ms
+karatsuba sequential test:787 time: 10 ms
+karatsuba parallel test:787 time: 79 ms
+Test with size: 788
+simple sequential test:788 time: 4 ms
+simple parallel test:788 time: 3 ms
+karatsuba sequential test:788 time: 11 ms
+karatsuba parallel test:788 time: 81 ms
+Test with size: 789
+simple sequential test:789 time: 5 ms
+simple parallel test:789 time: 4 ms
+karatsuba sequential test:789 time: 11 ms
+karatsuba parallel test:789 time: 78 ms
+Test with size: 790
+simple sequential test:790 time: 4 ms
+simple parallel test:790 time: 3 ms
+karatsuba sequential test:790 time: 11 ms
+karatsuba parallel test:790 time: 80 ms
+Test with size: 791
+simple sequential test:791 time: 5 ms
+simple parallel test:791 time: 3 ms
+karatsuba sequential test:791 time: 10 ms
+karatsuba parallel test:791 time: 80 ms
+Test with size: 792
+simple sequential test:792 time: 5 ms
+simple parallel test:792 time: 3 ms
+karatsuba sequential test:792 time: 11 ms
+karatsuba parallel test:792 time: 80 ms
+Test with size: 793
+simple sequential test:793 time: 5 ms
+simple parallel test:793 time: 2 ms
+karatsuba sequential test:793 time: 11 ms
+karatsuba parallel test:793 time: 79 ms
+Test with size: 794
+simple sequential test:794 time: 5 ms
+simple parallel test:794 time: 2 ms
+karatsuba sequential test:794 time: 11 ms
+karatsuba parallel test:794 time: 82 ms
+Test with size: 795
+simple sequential test:795 time: 5 ms
+simple parallel test:795 time: 2 ms
+karatsuba sequential test:795 time: 11 ms
+karatsuba parallel test:795 time: 80 ms
+Test with size: 796
+simple sequential test:796 time: 5 ms
+simple parallel test:796 time: 2 ms
+karatsuba sequential test:796 time: 11 ms
+karatsuba parallel test:796 time: 77 ms
+Test with size: 797
+simple sequential test:797 time: 5 ms
+simple parallel test:797 time: 3 ms
+karatsuba sequential test:797 time: 11 ms
+karatsuba parallel test:797 time: 82 ms
+Test with size: 798
+simple sequential test:798 time: 5 ms
+simple parallel test:798 time: 3 ms
+karatsuba sequential test:798 time: 10 ms
+karatsuba parallel test:798 time: 79 ms
+Test with size: 799
+simple sequential test:799 time: 5 ms
+simple parallel test:799 time: 3 ms
+karatsuba sequential test:799 time: 10 ms
+karatsuba parallel test:799 time: 82 ms
+Test with size: 800
+simple sequential test:800 time: 5 ms
+simple parallel test:800 time: 3 ms
+karatsuba sequential test:800 time: 10 ms
+karatsuba parallel test:800 time: 81 ms
+Test with size: 801
+simple sequential test:801 time: 5 ms
+simple parallel test:801 time: 2 ms
+karatsuba sequential test:801 time: 11 ms
+karatsuba parallel test:801 time: 80 ms
+Test with size: 802
+simple sequential test:802 time: 5 ms
+simple parallel test:802 time: 2 ms
+karatsuba sequential test:802 time: 11 ms
+karatsuba parallel test:802 time: 81 ms
+Test with size: 803
+simple sequential test:803 time: 5 ms
+simple parallel test:803 time: 4 ms
+karatsuba sequential test:803 time: 10 ms
+karatsuba parallel test:803 time: 82 ms
+Test with size: 804
+simple sequential test:804 time: 5 ms
+simple parallel test:804 time: 3 ms
+karatsuba sequential test:804 time: 10 ms
+karatsuba parallel test:804 time: 80 ms
+Test with size: 805
+simple sequential test:805 time: 5 ms
+simple parallel test:805 time: 2 ms
+karatsuba sequential test:805 time: 12 ms
+karatsuba parallel test:805 time: 77 ms
+Test with size: 806
+simple sequential test:806 time: 6 ms
+simple parallel test:806 time: 3 ms
+karatsuba sequential test:806 time: 11 ms
+karatsuba parallel test:806 time: 80 ms
+Test with size: 807
+simple sequential test:807 time: 5 ms
+simple parallel test:807 time: 4 ms
+karatsuba sequential test:807 time: 10 ms
+karatsuba parallel test:807 time: 81 ms
+Test with size: 808
+simple sequential test:808 time: 5 ms
+simple parallel test:808 time: 3 ms
+karatsuba sequential test:808 time: 11 ms
+karatsuba parallel test:808 time: 79 ms
+Test with size: 809
+simple sequential test:809 time: 5 ms
+simple parallel test:809 time: 3 ms
+karatsuba sequential test:809 time: 10 ms
+karatsuba parallel test:809 time: 82 ms
+Test with size: 810
+simple sequential test:810 time: 6 ms
+simple parallel test:810 time: 3 ms
+karatsuba sequential test:810 time: 10 ms
+karatsuba parallel test:810 time: 82 ms
+Test with size: 811
+simple sequential test:811 time: 6 ms
+simple parallel test:811 time: 3 ms
+karatsuba sequential test:811 time: 11 ms
+karatsuba parallel test:811 time: 79 ms
+Test with size: 812
+simple sequential test:812 time: 5 ms
+simple parallel test:812 time: 3 ms
+karatsuba sequential test:812 time: 11 ms
+karatsuba parallel test:812 time: 85 ms
+Test with size: 813
+simple sequential test:813 time: 5 ms
+simple parallel test:813 time: 2 ms
+karatsuba sequential test:813 time: 11 ms
+karatsuba parallel test:813 time: 82 ms
+Test with size: 814
+simple sequential test:814 time: 5 ms
+simple parallel test:814 time: 3 ms
+karatsuba sequential test:814 time: 11 ms
+karatsuba parallel test:814 time: 79 ms
+Test with size: 815
+simple sequential test:815 time: 5 ms
+simple parallel test:815 time: 3 ms
+karatsuba sequential test:815 time: 11 ms
+karatsuba parallel test:815 time: 82 ms
+Test with size: 816
+simple sequential test:816 time: 5 ms
+simple parallel test:816 time: 3 ms
+karatsuba sequential test:816 time: 11 ms
+karatsuba parallel test:816 time: 81 ms
+Test with size: 817
+simple sequential test:817 time: 5 ms
+simple parallel test:817 time: 3 ms
+karatsuba sequential test:817 time: 11 ms
+karatsuba parallel test:817 time: 83 ms
+Test with size: 818
+simple sequential test:818 time: 5 ms
+simple parallel test:818 time: 4 ms
+karatsuba sequential test:818 time: 10 ms
+karatsuba parallel test:818 time: 79 ms
+Test with size: 819
+simple sequential test:819 time: 6 ms
+simple parallel test:819 time: 3 ms
+karatsuba sequential test:819 time: 11 ms
+karatsuba parallel test:819 time: 78 ms
+Test with size: 820
+simple sequential test:820 time: 5 ms
+simple parallel test:820 time: 3 ms
+karatsuba sequential test:820 time: 10 ms
+karatsuba parallel test:820 time: 82 ms
+Test with size: 821
+simple sequential test:821 time: 6 ms
+simple parallel test:821 time: 2 ms
+karatsuba sequential test:821 time: 11 ms
+karatsuba parallel test:821 time: 80 ms
+Test with size: 822
+simple sequential test:822 time: 5 ms
+simple parallel test:822 time: 3 ms
+karatsuba sequential test:822 time: 11 ms
+karatsuba parallel test:822 time: 78 ms
+Test with size: 823
+simple sequential test:823 time: 5 ms
+simple parallel test:823 time: 3 ms
+karatsuba sequential test:823 time: 11 ms
+karatsuba parallel test:823 time: 81 ms
+Test with size: 824
+simple sequential test:824 time: 5 ms
+simple parallel test:824 time: 3 ms
+karatsuba sequential test:824 time: 11 ms
+karatsuba parallel test:824 time: 82 ms
+Test with size: 825
+simple sequential test:825 time: 6 ms
+simple parallel test:825 time: 3 ms
+karatsuba sequential test:825 time: 11 ms
+karatsuba parallel test:825 time: 83 ms
+Test with size: 826
+simple sequential test:826 time: 5 ms
+simple parallel test:826 time: 3 ms
+karatsuba sequential test:826 time: 11 ms
+karatsuba parallel test:826 time: 77 ms
+Test with size: 827
+simple sequential test:827 time: 5 ms
+simple parallel test:827 time: 4 ms
+karatsuba sequential test:827 time: 11 ms
+karatsuba parallel test:827 time: 79 ms
+Test with size: 828
+simple sequential test:828 time: 7 ms
+simple parallel test:828 time: 3 ms
+karatsuba sequential test:828 time: 11 ms
+karatsuba parallel test:828 time: 78 ms
+Test with size: 829
+simple sequential test:829 time: 6 ms
+simple parallel test:829 time: 3 ms
+karatsuba sequential test:829 time: 10 ms
+karatsuba parallel test:829 time: 80 ms
+Test with size: 830
+simple sequential test:830 time: 5 ms
+simple parallel test:830 time: 4 ms
+karatsuba sequential test:830 time: 11 ms
+karatsuba parallel test:830 time: 82 ms
+Test with size: 831
+simple sequential test:831 time: 6 ms
+simple parallel test:831 time: 2 ms
+karatsuba sequential test:831 time: 11 ms
+karatsuba parallel test:831 time: 80 ms
+Test with size: 832
+simple sequential test:832 time: 5 ms
+simple parallel test:832 time: 4 ms
+karatsuba sequential test:832 time: 11 ms
+karatsuba parallel test:832 time: 79 ms
+Test with size: 833
+simple sequential test:833 time: 5 ms
+simple parallel test:833 time: 3 ms
+karatsuba sequential test:833 time: 12 ms
+karatsuba parallel test:833 time: 79 ms
+Test with size: 834
+simple sequential test:834 time: 5 ms
+simple parallel test:834 time: 3 ms
+karatsuba sequential test:834 time: 10 ms
+karatsuba parallel test:834 time: 81 ms
+Test with size: 835
+simple sequential test:835 time: 5 ms
+simple parallel test:835 time: 3 ms
+karatsuba sequential test:835 time: 11 ms
+karatsuba parallel test:835 time: 77 ms
+Test with size: 836
+simple sequential test:836 time: 6 ms
+simple parallel test:836 time: 3 ms
+karatsuba sequential test:836 time: 12 ms
+karatsuba parallel test:836 time: 80 ms
+Test with size: 837
+simple sequential test:837 time: 6 ms
+simple parallel test:837 time: 3 ms
+karatsuba sequential test:837 time: 11 ms
+karatsuba parallel test:837 time: 79 ms
+Test with size: 838
+simple sequential test:838 time: 5 ms
+simple parallel test:838 time: 2 ms
+karatsuba sequential test:838 time: 12 ms
+karatsuba parallel test:838 time: 86 ms
+Test with size: 839
+simple sequential test:839 time: 6 ms
+simple parallel test:839 time: 2 ms
+karatsuba sequential test:839 time: 12 ms
+karatsuba parallel test:839 time: 80 ms
+Test with size: 840
+simple sequential test:840 time: 8 ms
+simple parallel test:840 time: 3 ms
+karatsuba sequential test:840 time: 12 ms
+karatsuba parallel test:840 time: 84 ms
+Test with size: 841
+simple sequential test:841 time: 5 ms
+simple parallel test:841 time: 3 ms
+karatsuba sequential test:841 time: 11 ms
+karatsuba parallel test:841 time: 86 ms
+Test with size: 842
+simple sequential test:842 time: 6 ms
+simple parallel test:842 time: 3 ms
+karatsuba sequential test:842 time: 11 ms
+karatsuba parallel test:842 time: 83 ms
+Test with size: 843
+simple sequential test:843 time: 6 ms
+simple parallel test:843 time: 4 ms
+karatsuba sequential test:843 time: 11 ms
+karatsuba parallel test:843 time: 82 ms
+Test with size: 844
+simple sequential test:844 time: 6 ms
+simple parallel test:844 time: 3 ms
+karatsuba sequential test:844 time: 13 ms
+karatsuba parallel test:844 time: 82 ms
+Test with size: 845
+simple sequential test:845 time: 6 ms
+simple parallel test:845 time: 4 ms
+karatsuba sequential test:845 time: 13 ms
+karatsuba parallel test:845 time: 85 ms
+Test with size: 846
+simple sequential test:846 time: 5 ms
+simple parallel test:846 time: 4 ms
+karatsuba sequential test:846 time: 11 ms
+karatsuba parallel test:846 time: 84 ms
+Test with size: 847
+simple sequential test:847 time: 6 ms
+simple parallel test:847 time: 3 ms
+karatsuba sequential test:847 time: 11 ms
+karatsuba parallel test:847 time: 81 ms
+Test with size: 848
+simple sequential test:848 time: 6 ms
+simple parallel test:848 time: 4 ms
+karatsuba sequential test:848 time: 11 ms
+karatsuba parallel test:848 time: 80 ms
+Test with size: 849
+simple sequential test:849 time: 6 ms
+simple parallel test:849 time: 3 ms
+karatsuba sequential test:849 time: 12 ms
+karatsuba parallel test:849 time: 83 ms
+Test with size: 850
+simple sequential test:850 time: 6 ms
+simple parallel test:850 time: 2 ms
+karatsuba sequential test:850 time: 11 ms
+karatsuba parallel test:850 time: 80 ms
+Test with size: 851
+simple sequential test:851 time: 6 ms
+simple parallel test:851 time: 3 ms
+karatsuba sequential test:851 time: 11 ms
+karatsuba parallel test:851 time: 79 ms
+Test with size: 852
+simple sequential test:852 time: 5 ms
+simple parallel test:852 time: 4 ms
+karatsuba sequential test:852 time: 13 ms
+karatsuba parallel test:852 time: 80 ms
+Test with size: 853
+simple sequential test:853 time: 6 ms
+simple parallel test:853 time: 3 ms
+karatsuba sequential test:853 time: 12 ms
+karatsuba parallel test:853 time: 76 ms
+Test with size: 854
+simple sequential test:854 time: 6 ms
+simple parallel test:854 time: 3 ms
+karatsuba sequential test:854 time: 11 ms
+karatsuba parallel test:854 time: 82 ms
+Test with size: 855
+simple sequential test:855 time: 6 ms
+simple parallel test:855 time: 4 ms
+karatsuba sequential test:855 time: 11 ms
+karatsuba parallel test:855 time: 88 ms
+Test with size: 856
+simple sequential test:856 time: 6 ms
+simple parallel test:856 time: 3 ms
+karatsuba sequential test:856 time: 12 ms
+karatsuba parallel test:856 time: 78 ms
+Test with size: 857
+simple sequential test:857 time: 5 ms
+simple parallel test:857 time: 4 ms
+karatsuba sequential test:857 time: 13 ms
+karatsuba parallel test:857 time: 80 ms
+Test with size: 858
+simple sequential test:858 time: 6 ms
+simple parallel test:858 time: 4 ms
+karatsuba sequential test:858 time: 11 ms
+karatsuba parallel test:858 time: 81 ms
+Test with size: 859
+simple sequential test:859 time: 5 ms
+simple parallel test:859 time: 4 ms
+karatsuba sequential test:859 time: 11 ms
+karatsuba parallel test:859 time: 79 ms
+Test with size: 860
+simple sequential test:860 time: 5 ms
+simple parallel test:860 time: 3 ms
+karatsuba sequential test:860 time: 11 ms
+karatsuba parallel test:860 time: 82 ms
+Test with size: 861
+simple sequential test:861 time: 6 ms
+simple parallel test:861 time: 3 ms
+karatsuba sequential test:861 time: 12 ms
+karatsuba parallel test:861 time: 85 ms
+Test with size: 862
+simple sequential test:862 time: 9 ms
+simple parallel test:862 time: 3 ms
+karatsuba sequential test:862 time: 13 ms
+karatsuba parallel test:862 time: 108 ms
+Test with size: 863
+simple sequential test:863 time: 6 ms
+simple parallel test:863 time: 3 ms
+karatsuba sequential test:863 time: 12 ms
+karatsuba parallel test:863 time: 89 ms
+Test with size: 864
+simple sequential test:864 time: 6 ms
+simple parallel test:864 time: 3 ms
+karatsuba sequential test:864 time: 11 ms
+karatsuba parallel test:864 time: 89 ms
+Test with size: 865
+simple sequential test:865 time: 6 ms
+simple parallel test:865 time: 2 ms
+karatsuba sequential test:865 time: 13 ms
+karatsuba parallel test:865 time: 84 ms
+Test with size: 866
+simple sequential test:866 time: 6 ms
+simple parallel test:866 time: 3 ms
+karatsuba sequential test:866 time: 12 ms
+karatsuba parallel test:866 time: 91 ms
+Test with size: 867
+simple sequential test:867 time: 6 ms
+simple parallel test:867 time: 3 ms
+karatsuba sequential test:867 time: 12 ms
+karatsuba parallel test:867 time: 79 ms
+Test with size: 868
+simple sequential test:868 time: 6 ms
+simple parallel test:868 time: 3 ms
+karatsuba sequential test:868 time: 11 ms
+karatsuba parallel test:868 time: 81 ms
+Test with size: 869
+simple sequential test:869 time: 6 ms
+simple parallel test:869 time: 4 ms
+karatsuba sequential test:869 time: 12 ms
+karatsuba parallel test:869 time: 81 ms
+Test with size: 870
+simple sequential test:870 time: 6 ms
+simple parallel test:870 time: 4 ms
+karatsuba sequential test:870 time: 12 ms
+karatsuba parallel test:870 time: 87 ms
+Test with size: 871
+simple sequential test:871 time: 6 ms
+simple parallel test:871 time: 4 ms
+karatsuba sequential test:871 time: 12 ms
+karatsuba parallel test:871 time: 80 ms
+Test with size: 872
+simple sequential test:872 time: 6 ms
+simple parallel test:872 time: 3 ms
+karatsuba sequential test:872 time: 11 ms
+karatsuba parallel test:872 time: 78 ms
+Test with size: 873
+simple sequential test:873 time: 6 ms
+simple parallel test:873 time: 2 ms
+karatsuba sequential test:873 time: 14 ms
+karatsuba parallel test:873 time: 82 ms
+Test with size: 874
+simple sequential test:874 time: 6 ms
+simple parallel test:874 time: 3 ms
+karatsuba sequential test:874 time: 11 ms
+karatsuba parallel test:874 time: 81 ms
+Test with size: 875
+simple sequential test:875 time: 5 ms
+simple parallel test:875 time: 4 ms
+karatsuba sequential test:875 time: 12 ms
+karatsuba parallel test:875 time: 79 ms
+Test with size: 876
+simple sequential test:876 time: 6 ms
+simple parallel test:876 time: 4 ms
+karatsuba sequential test:876 time: 11 ms
+karatsuba parallel test:876 time: 82 ms
+Test with size: 877
+simple sequential test:877 time: 6 ms
+simple parallel test:877 time: 3 ms
+karatsuba sequential test:877 time: 12 ms
+karatsuba parallel test:877 time: 81 ms
+Test with size: 878
+simple sequential test:878 time: 6 ms
+simple parallel test:878 time: 3 ms
+karatsuba sequential test:878 time: 12 ms
+karatsuba parallel test:878 time: 79 ms
+Test with size: 879
+simple sequential test:879 time: 6 ms
+simple parallel test:879 time: 4 ms
+karatsuba sequential test:879 time: 11 ms
+karatsuba parallel test:879 time: 83 ms
+Test with size: 880
+simple sequential test:880 time: 6 ms
+simple parallel test:880 time: 3 ms
+karatsuba sequential test:880 time: 11 ms
+karatsuba parallel test:880 time: 81 ms
+Test with size: 881
+simple sequential test:881 time: 6 ms
+simple parallel test:881 time: 4 ms
+karatsuba sequential test:881 time: 11 ms
+karatsuba parallel test:881 time: 92 ms
+Test with size: 882
+simple sequential test:882 time: 6 ms
+simple parallel test:882 time: 3 ms
+karatsuba sequential test:882 time: 12 ms
+karatsuba parallel test:882 time: 94 ms
+Test with size: 883
+simple sequential test:883 time: 6 ms
+simple parallel test:883 time: 4 ms
+karatsuba sequential test:883 time: 12 ms
+karatsuba parallel test:883 time: 94 ms
+Test with size: 884
+simple sequential test:884 time: 6 ms
+simple parallel test:884 time: 3 ms
+karatsuba sequential test:884 time: 12 ms
+karatsuba parallel test:884 time: 95 ms
+Test with size: 885
+simple sequential test:885 time: 6 ms
+simple parallel test:885 time: 3 ms
+karatsuba sequential test:885 time: 12 ms
+karatsuba parallel test:885 time: 89 ms
+Test with size: 886
+simple sequential test:886 time: 6 ms
+simple parallel test:886 time: 4 ms
+karatsuba sequential test:886 time: 13 ms
+karatsuba parallel test:886 time: 83 ms
+Test with size: 887
+simple sequential test:887 time: 6 ms
+simple parallel test:887 time: 4 ms
+karatsuba sequential test:887 time: 12 ms
+karatsuba parallel test:887 time: 79 ms
+Test with size: 888
+simple sequential test:888 time: 6 ms
+simple parallel test:888 time: 4 ms
+karatsuba sequential test:888 time: 12 ms
+karatsuba parallel test:888 time: 81 ms
+Test with size: 889
+simple sequential test:889 time: 6 ms
+simple parallel test:889 time: 4 ms
+karatsuba sequential test:889 time: 12 ms
+karatsuba parallel test:889 time: 80 ms
+Test with size: 890
+simple sequential test:890 time: 6 ms
+simple parallel test:890 time: 4 ms
+karatsuba sequential test:890 time: 11 ms
+karatsuba parallel test:890 time: 81 ms
+Test with size: 891
+simple sequential test:891 time: 6 ms
+simple parallel test:891 time: 3 ms
+karatsuba sequential test:891 time: 13 ms
+karatsuba parallel test:891 time: 83 ms
+Test with size: 892
+simple sequential test:892 time: 6 ms
+simple parallel test:892 time: 3 ms
+karatsuba sequential test:892 time: 11 ms
+karatsuba parallel test:892 time: 83 ms
+Test with size: 893
+simple sequential test:893 time: 5 ms
+simple parallel test:893 time: 5 ms
+karatsuba sequential test:893 time: 11 ms
+karatsuba parallel test:893 time: 85 ms
+Test with size: 894
+simple sequential test:894 time: 7 ms
+simple parallel test:894 time: 3 ms
+karatsuba sequential test:894 time: 11 ms
+karatsuba parallel test:894 time: 83 ms
+Test with size: 895
+simple sequential test:895 time: 7 ms
+simple parallel test:895 time: 3 ms
+karatsuba sequential test:895 time: 12 ms
+karatsuba parallel test:895 time: 80 ms
+Test with size: 896
+simple sequential test:896 time: 6 ms
+simple parallel test:896 time: 3 ms
+karatsuba sequential test:896 time: 12 ms
+karatsuba parallel test:896 time: 85 ms
+Test with size: 897
+simple sequential test:897 time: 6 ms
+simple parallel test:897 time: 4 ms
+karatsuba sequential test:897 time: 12 ms
+karatsuba parallel test:897 time: 84 ms
+Test with size: 898
+simple sequential test:898 time: 6 ms
+simple parallel test:898 time: 4 ms
+karatsuba sequential test:898 time: 12 ms
+karatsuba parallel test:898 time: 76 ms
+Test with size: 899
+simple sequential test:899 time: 6 ms
+simple parallel test:899 time: 4 ms
+karatsuba sequential test:899 time: 13 ms
+karatsuba parallel test:899 time: 81 ms
+Test with size: 900
+simple sequential test:900 time: 7 ms
+simple parallel test:900 time: 4 ms
+karatsuba sequential test:900 time: 13 ms
+karatsuba parallel test:900 time: 88 ms
+Test with size: 901
+simple sequential test:901 time: 7 ms
+simple parallel test:901 time: 4 ms
+karatsuba sequential test:901 time: 11 ms
+karatsuba parallel test:901 time: 88 ms
+Test with size: 902
+simple sequential test:902 time: 6 ms
+simple parallel test:902 time: 3 ms
+karatsuba sequential test:902 time: 12 ms
+karatsuba parallel test:902 time: 86 ms
+Test with size: 903
+simple sequential test:903 time: 6 ms
+simple parallel test:903 time: 3 ms
+karatsuba sequential test:903 time: 13 ms
+karatsuba parallel test:903 time: 83 ms
+Test with size: 904
+simple sequential test:904 time: 6 ms
+simple parallel test:904 time: 4 ms
+karatsuba sequential test:904 time: 12 ms
+karatsuba parallel test:904 time: 86 ms
+Test with size: 905
+simple sequential test:905 time: 7 ms
+simple parallel test:905 time: 3 ms
+karatsuba sequential test:905 time: 12 ms
+karatsuba parallel test:905 time: 82 ms
+Test with size: 906
+simple sequential test:906 time: 7 ms
+simple parallel test:906 time: 3 ms
+karatsuba sequential test:906 time: 12 ms
+karatsuba parallel test:906 time: 84 ms
+Test with size: 907
+simple sequential test:907 time: 7 ms
+simple parallel test:907 time: 4 ms
+karatsuba sequential test:907 time: 14 ms
+karatsuba parallel test:907 time: 82 ms
+Test with size: 908
+simple sequential test:908 time: 6 ms
+simple parallel test:908 time: 4 ms
+karatsuba sequential test:908 time: 12 ms
+karatsuba parallel test:908 time: 82 ms
+Test with size: 909
+simple sequential test:909 time: 6 ms
+simple parallel test:909 time: 4 ms
+karatsuba sequential test:909 time: 13 ms
+karatsuba parallel test:909 time: 88 ms
+Test with size: 910
+simple sequential test:910 time: 6 ms
+simple parallel test:910 time: 3 ms
+karatsuba sequential test:910 time: 12 ms
+karatsuba parallel test:910 time: 77 ms
+Test with size: 911
+simple sequential test:911 time: 7 ms
+simple parallel test:911 time: 3 ms
+karatsuba sequential test:911 time: 12 ms
+karatsuba parallel test:911 time: 82 ms
+Test with size: 912
+simple sequential test:912 time: 8 ms
+simple parallel test:912 time: 5 ms
+karatsuba sequential test:912 time: 13 ms
+karatsuba parallel test:912 time: 83 ms
+Test with size: 913
+simple sequential test:913 time: 6 ms
+simple parallel test:913 time: 3 ms
+karatsuba sequential test:913 time: 12 ms
+karatsuba parallel test:913 time: 80 ms
+Test with size: 914
+simple sequential test:914 time: 6 ms
+simple parallel test:914 time: 4 ms
+karatsuba sequential test:914 time: 12 ms
+karatsuba parallel test:914 time: 98 ms
+Test with size: 915
+simple sequential test:915 time: 6 ms
+simple parallel test:915 time: 3 ms
+karatsuba sequential test:915 time: 12 ms
+karatsuba parallel test:915 time: 88 ms
+Test with size: 916
+simple sequential test:916 time: 7 ms
+simple parallel test:916 time: 3 ms
+karatsuba sequential test:916 time: 12 ms
+karatsuba parallel test:916 time: 95 ms
+Test with size: 917
+simple sequential test:917 time: 8 ms
+simple parallel test:917 time: 5 ms
+karatsuba sequential test:917 time: 12 ms
+karatsuba parallel test:917 time: 86 ms
+Test with size: 918
+simple sequential test:918 time: 6 ms
+simple parallel test:918 time: 5 ms
+karatsuba sequential test:918 time: 12 ms
+karatsuba parallel test:918 time: 92 ms
+Test with size: 919
+simple sequential test:919 time: 7 ms
+simple parallel test:919 time: 4 ms
+karatsuba sequential test:919 time: 12 ms
+karatsuba parallel test:919 time: 79 ms
+Test with size: 920
+simple sequential test:920 time: 6 ms
+simple parallel test:920 time: 5 ms
+karatsuba sequential test:920 time: 12 ms
+karatsuba parallel test:920 time: 83 ms
+Test with size: 921
+simple sequential test:921 time: 9 ms
+simple parallel test:921 time: 5 ms
+karatsuba sequential test:921 time: 13 ms
+karatsuba parallel test:921 time: 84 ms
+Test with size: 922
+simple sequential test:922 time: 6 ms
+simple parallel test:922 time: 4 ms
+karatsuba sequential test:922 time: 13 ms
+karatsuba parallel test:922 time: 80 ms
+Test with size: 923
+simple sequential test:923 time: 6 ms
+simple parallel test:923 time: 4 ms
+karatsuba sequential test:923 time: 12 ms
+karatsuba parallel test:923 time: 95 ms
+Test with size: 924
+simple sequential test:924 time: 7 ms
+simple parallel test:924 time: 5 ms
+karatsuba sequential test:924 time: 12 ms
+karatsuba parallel test:924 time: 87 ms
+Test with size: 925
+simple sequential test:925 time: 7 ms
+simple parallel test:925 time: 3 ms
+karatsuba sequential test:925 time: 12 ms
+karatsuba parallel test:925 time: 97 ms
+Test with size: 926
+simple sequential test:926 time: 7 ms
+simple parallel test:926 time: 4 ms
+karatsuba sequential test:926 time: 13 ms
+karatsuba parallel test:926 time: 81 ms
+Test with size: 927
+simple sequential test:927 time: 6 ms
+simple parallel test:927 time: 3 ms
+karatsuba sequential test:927 time: 13 ms
+karatsuba parallel test:927 time: 94 ms
+Test with size: 928
+simple sequential test:928 time: 7 ms
+simple parallel test:928 time: 4 ms
+karatsuba sequential test:928 time: 12 ms
+karatsuba parallel test:928 time: 83 ms
+Test with size: 929
+simple sequential test:929 time: 7 ms
+simple parallel test:929 time: 3 ms
+karatsuba sequential test:929 time: 12 ms
+karatsuba parallel test:929 time: 77 ms
+Test with size: 930
+simple sequential test:930 time: 8 ms
+simple parallel test:930 time: 5 ms
+karatsuba sequential test:930 time: 14 ms
+karatsuba parallel test:930 time: 81 ms
+Test with size: 931
+simple sequential test:931 time: 7 ms
+simple parallel test:931 time: 4 ms
+karatsuba sequential test:931 time: 11 ms
+karatsuba parallel test:931 time: 81 ms
+Test with size: 932
+simple sequential test:932 time: 7 ms
+simple parallel test:932 time: 3 ms
+karatsuba sequential test:932 time: 13 ms
+karatsuba parallel test:932 time: 90 ms
+Test with size: 933
+simple sequential test:933 time: 7 ms
+simple parallel test:933 time: 4 ms
+karatsuba sequential test:933 time: 13 ms
+karatsuba parallel test:933 time: 79 ms
+Test with size: 934
+simple sequential test:934 time: 7 ms
+simple parallel test:934 time: 4 ms
+karatsuba sequential test:934 time: 12 ms
+karatsuba parallel test:934 time: 93 ms
+Test with size: 935
+simple sequential test:935 time: 7 ms
+simple parallel test:935 time: 4 ms
+karatsuba sequential test:935 time: 12 ms
+karatsuba parallel test:935 time: 76 ms
+Test with size: 936
+simple sequential test:936 time: 7 ms
+simple parallel test:936 time: 4 ms
+karatsuba sequential test:936 time: 12 ms
+karatsuba parallel test:936 time: 76 ms
+Test with size: 937
+simple sequential test:937 time: 7 ms
+simple parallel test:937 time: 4 ms
+karatsuba sequential test:937 time: 15 ms
+karatsuba parallel test:937 time: 85 ms
+Test with size: 938
+simple sequential test:938 time: 6 ms
+simple parallel test:938 time: 4 ms
+karatsuba sequential test:938 time: 12 ms
+karatsuba parallel test:938 time: 84 ms
+Test with size: 939
+simple sequential test:939 time: 7 ms
+simple parallel test:939 time: 3 ms
+karatsuba sequential test:939 time: 13 ms
+karatsuba parallel test:939 time: 94 ms
+Test with size: 940
+simple sequential test:940 time: 6 ms
+simple parallel test:940 time: 3 ms
+karatsuba sequential test:940 time: 13 ms
+karatsuba parallel test:940 time: 82 ms
+Test with size: 941
+simple sequential test:941 time: 7 ms
+simple parallel test:941 time: 4 ms
+karatsuba sequential test:941 time: 13 ms
+karatsuba parallel test:941 time: 96 ms
+Test with size: 942
+simple sequential test:942 time: 7 ms
+simple parallel test:942 time: 3 ms
+karatsuba sequential test:942 time: 13 ms
+karatsuba parallel test:942 time: 86 ms
+Test with size: 943
+simple sequential test:943 time: 7 ms
+simple parallel test:943 time: 4 ms
+karatsuba sequential test:943 time: 13 ms
+karatsuba parallel test:943 time: 75 ms
+Test with size: 944
+simple sequential test:944 time: 8 ms
+simple parallel test:944 time: 4 ms
+karatsuba sequential test:944 time: 15 ms
+karatsuba parallel test:944 time: 78 ms
+Test with size: 945
+simple sequential test:945 time: 7 ms
+simple parallel test:945 time: 4 ms
+karatsuba sequential test:945 time: 12 ms
+karatsuba parallel test:945 time: 77 ms
+Test with size: 946
+simple sequential test:946 time: 7 ms
+simple parallel test:946 time: 3 ms
+karatsuba sequential test:946 time: 12 ms
+karatsuba parallel test:946 time: 89 ms
+Test with size: 947
+simple sequential test:947 time: 6 ms
+simple parallel test:947 time: 5 ms
+karatsuba sequential test:947 time: 13 ms
+karatsuba parallel test:947 time: 76 ms
+Test with size: 948
+simple sequential test:948 time: 7 ms
+simple parallel test:948 time: 4 ms
+karatsuba sequential test:948 time: 13 ms
+karatsuba parallel test:948 time: 85 ms
+Test with size: 949
+simple sequential test:949 time: 7 ms
+simple parallel test:949 time: 3 ms
+karatsuba sequential test:949 time: 13 ms
+karatsuba parallel test:949 time: 76 ms
+Test with size: 950
+simple sequential test:950 time: 6 ms
+simple parallel test:950 time: 4 ms
+karatsuba sequential test:950 time: 12 ms
+karatsuba parallel test:950 time: 74 ms
+Test with size: 951
+simple sequential test:951 time: 8 ms
+simple parallel test:951 time: 4 ms
+karatsuba sequential test:951 time: 13 ms
+karatsuba parallel test:951 time: 84 ms
+Test with size: 952
+simple sequential test:952 time: 7 ms
+simple parallel test:952 time: 3 ms
+karatsuba sequential test:952 time: 13 ms
+karatsuba parallel test:952 time: 76 ms
+Test with size: 953
+simple sequential test:953 time: 7 ms
+simple parallel test:953 time: 4 ms
+karatsuba sequential test:953 time: 13 ms
+karatsuba parallel test:953 time: 86 ms
+Test with size: 954
+simple sequential test:954 time: 7 ms
+simple parallel test:954 time: 4 ms
+karatsuba sequential test:954 time: 12 ms
+karatsuba parallel test:954 time: 78 ms
+Test with size: 955
+simple sequential test:955 time: 7 ms
+simple parallel test:955 time: 3 ms
+karatsuba sequential test:955 time: 12 ms
+karatsuba parallel test:955 time: 74 ms
+Test with size: 956
+simple sequential test:956 time: 7 ms
+simple parallel test:956 time: 4 ms
+karatsuba sequential test:956 time: 14 ms
+karatsuba parallel test:956 time: 85 ms
+Test with size: 957
+simple sequential test:957 time: 7 ms
+simple parallel test:957 time: 4 ms
+karatsuba sequential test:957 time: 12 ms
+karatsuba parallel test:957 time: 76 ms
+Test with size: 958
+simple sequential test:958 time: 7 ms
+simple parallel test:958 time: 5 ms
+karatsuba sequential test:958 time: 12 ms
+karatsuba parallel test:958 time: 87 ms
+Test with size: 959
+simple sequential test:959 time: 7 ms
+simple parallel test:959 time: 4 ms
+karatsuba sequential test:959 time: 13 ms
+karatsuba parallel test:959 time: 77 ms
+Test with size: 960
+simple sequential test:960 time: 7 ms
+simple parallel test:960 time: 4 ms
+karatsuba sequential test:960 time: 13 ms
+karatsuba parallel test:960 time: 79 ms
+Test with size: 961
+simple sequential test:961 time: 10 ms
+simple parallel test:961 time: 4 ms
+karatsuba sequential test:961 time: 12 ms
+karatsuba parallel test:961 time: 76 ms
+Test with size: 962
+simple sequential test:962 time: 7 ms
+simple parallel test:962 time: 4 ms
+karatsuba sequential test:962 time: 12 ms
+karatsuba parallel test:962 time: 77 ms
+Test with size: 963
+simple sequential test:963 time: 7 ms
+simple parallel test:963 time: 4 ms
+karatsuba sequential test:963 time: 13 ms
+karatsuba parallel test:963 time: 87 ms
+Test with size: 964
+simple sequential test:964 time: 7 ms
+simple parallel test:964 time: 4 ms
+karatsuba sequential test:964 time: 12 ms
+karatsuba parallel test:964 time: 76 ms
+Test with size: 965
+simple sequential test:965 time: 7 ms
+simple parallel test:965 time: 4 ms
+karatsuba sequential test:965 time: 13 ms
+karatsuba parallel test:965 time: 92 ms
+Test with size: 966
+simple sequential test:966 time: 8 ms
+simple parallel test:966 time: 5 ms
+karatsuba sequential test:966 time: 14 ms
+karatsuba parallel test:966 time: 84 ms
+Test with size: 967
+simple sequential test:967 time: 8 ms
+simple parallel test:967 time: 4 ms
+karatsuba sequential test:967 time: 13 ms
+karatsuba parallel test:967 time: 84 ms
+Test with size: 968
+simple sequential test:968 time: 9 ms
+simple parallel test:968 time: 5 ms
+karatsuba sequential test:968 time: 15 ms
+karatsuba parallel test:968 time: 79 ms
+Test with size: 969
+simple sequential test:969 time: 7 ms
+simple parallel test:969 time: 5 ms
+karatsuba sequential test:969 time: 12 ms
+karatsuba parallel test:969 time: 81 ms
+Test with size: 970
+simple sequential test:970 time: 7 ms
+simple parallel test:970 time: 4 ms
+karatsuba sequential test:970 time: 13 ms
+karatsuba parallel test:970 time: 93 ms
+Test with size: 971
+simple sequential test:971 time: 7 ms
+simple parallel test:971 time: 3 ms
+karatsuba sequential test:971 time: 13 ms
+karatsuba parallel test:971 time: 79 ms
+Test with size: 972
+simple sequential test:972 time: 8 ms
+simple parallel test:972 time: 3 ms
+karatsuba sequential test:972 time: 13 ms
+karatsuba parallel test:972 time: 88 ms
+Test with size: 973
+simple sequential test:973 time: 7 ms
+simple parallel test:973 time: 4 ms
+karatsuba sequential test:973 time: 13 ms
+karatsuba parallel test:973 time: 77 ms
+Test with size: 974
+simple sequential test:974 time: 7 ms
+simple parallel test:974 time: 4 ms
+karatsuba sequential test:974 time: 13 ms
+karatsuba parallel test:974 time: 85 ms
+Test with size: 975
+simple sequential test:975 time: 12 ms
+simple parallel test:975 time: 5 ms
+karatsuba sequential test:975 time: 13 ms
+karatsuba parallel test:975 time: 77 ms
+Test with size: 976
+simple sequential test:976 time: 7 ms
+simple parallel test:976 time: 4 ms
+karatsuba sequential test:976 time: 13 ms
+karatsuba parallel test:976 time: 78 ms
+Test with size: 977
+simple sequential test:977 time: 7 ms
+simple parallel test:977 time: 4 ms
+karatsuba sequential test:977 time: 14 ms
+karatsuba parallel test:977 time: 89 ms
+Test with size: 978
+simple sequential test:978 time: 8 ms
+simple parallel test:978 time: 4 ms
+karatsuba sequential test:978 time: 13 ms
+karatsuba parallel test:978 time: 78 ms
+Test with size: 979
+simple sequential test:979 time: 9 ms
+simple parallel test:979 time: 4 ms
+karatsuba sequential test:979 time: 13 ms
+karatsuba parallel test:979 time: 88 ms
+Test with size: 980
+simple sequential test:980 time: 8 ms
+simple parallel test:980 time: 3 ms
+karatsuba sequential test:980 time: 14 ms
+karatsuba parallel test:980 time: 84 ms
+Test with size: 981
+simple sequential test:981 time: 8 ms
+simple parallel test:981 time: 3 ms
+karatsuba sequential test:981 time: 13 ms
+karatsuba parallel test:981 time: 96 ms
+Test with size: 982
+simple sequential test:982 time: 7 ms
+simple parallel test:982 time: 4 ms
+karatsuba sequential test:982 time: 16 ms
+karatsuba parallel test:982 time: 83 ms
+Test with size: 983
+simple sequential test:983 time: 8 ms
+simple parallel test:983 time: 4 ms
+karatsuba sequential test:983 time: 13 ms
+karatsuba parallel test:983 time: 73 ms
+Test with size: 984
+simple sequential test:984 time: 8 ms
+simple parallel test:984 time: 4 ms
+karatsuba sequential test:984 time: 18 ms
+karatsuba parallel test:984 time: 80 ms
+Test with size: 985
+simple sequential test:985 time: 7 ms
+simple parallel test:985 time: 4 ms
+karatsuba sequential test:985 time: 13 ms
+karatsuba parallel test:985 time: 79 ms
+Test with size: 986
+simple sequential test:986 time: 8 ms
+simple parallel test:986 time: 4 ms
+karatsuba sequential test:986 time: 13 ms
+karatsuba parallel test:986 time: 92 ms
+Test with size: 987
+simple sequential test:987 time: 8 ms
+simple parallel test:987 time: 4 ms
+karatsuba sequential test:987 time: 13 ms
+karatsuba parallel test:987 time: 83 ms
+Test with size: 988
+simple sequential test:988 time: 8 ms
+simple parallel test:988 time: 3 ms
+karatsuba sequential test:988 time: 14 ms
+karatsuba parallel test:988 time: 89 ms
+Test with size: 989
+simple sequential test:989 time: 7 ms
+simple parallel test:989 time: 5 ms
+karatsuba sequential test:989 time: 14 ms
+karatsuba parallel test:989 time: 78 ms
+Test with size: 990
+simple sequential test:990 time: 7 ms
+simple parallel test:990 time: 4 ms
+karatsuba sequential test:990 time: 14 ms
+karatsuba parallel test:990 time: 79 ms
+Test with size: 991
+simple sequential test:991 time: 9 ms
+simple parallel test:991 time: 5 ms
+karatsuba sequential test:991 time: 15 ms
+karatsuba parallel test:991 time: 81 ms
+Test with size: 992
+simple sequential test:992 time: 8 ms
+simple parallel test:992 time: 4 ms
+karatsuba sequential test:992 time: 13 ms
+karatsuba parallel test:992 time: 81 ms
+Test with size: 993
+simple sequential test:993 time: 7 ms
+simple parallel test:993 time: 6 ms
+karatsuba sequential test:993 time: 15 ms
+karatsuba parallel test:993 time: 95 ms
+Test with size: 994
+simple sequential test:994 time: 7 ms
+simple parallel test:994 time: 4 ms
+karatsuba sequential test:994 time: 13 ms
+karatsuba parallel test:994 time: 82 ms
+Test with size: 995
+simple sequential test:995 time: 8 ms
+simple parallel test:995 time: 4 ms
+karatsuba sequential test:995 time: 14 ms
+karatsuba parallel test:995 time: 93 ms
+Test with size: 996
+simple sequential test:996 time: 8 ms
+simple parallel test:996 time: 4 ms
+karatsuba sequential test:996 time: 13 ms
+karatsuba parallel test:996 time: 77 ms
+Test with size: 997
+simple sequential test:997 time: 8 ms
+simple parallel test:997 time: 5 ms
+karatsuba sequential test:997 time: 13 ms
+karatsuba parallel test:997 time: 97 ms
+Test with size: 998
+simple sequential test:998 time: 8 ms
+simple parallel test:998 time: 4 ms
+karatsuba sequential test:998 time: 13 ms
+karatsuba parallel test:998 time: 82 ms
+Test with size: 999
+simple sequential test:999 time: 9 ms
+simple parallel test:999 time: 4 ms
+karatsuba sequential test:999 time: 13 ms
+karatsuba parallel test:999 time: 80 ms
+Test with size: 1000
+simple sequential test:1000 time: 8 ms
+simple parallel test:1000 time: 5 ms
+karatsuba sequential test:1000 time: 13 ms
+karatsuba parallel test:1000 time: 79 ms
+Test with size: 2000
+simple sequential test:2000 time: 32 ms
+simple parallel test:2000 time: 18 ms
+karatsuba sequential test:2000 time: 40 ms
+karatsuba parallel test:2000 time: 76 ms
+Test with size: 3000
+simple sequential test:3000 time: 73 ms
+simple parallel test:3000 time: 33 ms
+karatsuba sequential test:3000 time: 94 ms
+karatsuba parallel test:3000 time: 79 ms
+Test with size: 4000
+simple sequential test:4000 time: 129 ms
+simple parallel test:4000 time: 46 ms
+karatsuba sequential test:4000 time: 115 ms
+karatsuba parallel test:4000 time: 83 ms
+Test with size: 5000
+simple sequential test:5000 time: 200 ms
+simple parallel test:5000 time: 75 ms
+karatsuba sequential test:5000 time: 192 ms
+karatsuba parallel test:5000 time: 95 ms
+Test with size: 6000
+simple sequential test:6000 time: 286 ms
+simple parallel test:6000 time: 128 ms
+karatsuba sequential test:6000 time: 249 ms
+karatsuba parallel test:6000 time: 105 ms
+Test with size: 7000
+simple sequential test:7000 time: 392 ms
+simple parallel test:7000 time: 175 ms
+karatsuba sequential test:7000 time: 298 ms
+karatsuba parallel test:7000 time: 100 ms
+Test with size: 8000
+simple sequential test:8000 time: 507 ms
+simple parallel test:8000 time: 224 ms
+karatsuba sequential test:8000 time: 365 ms
+karatsuba parallel test:8000 time: 180 ms
+Test with size: 9000
+simple sequential test:9000 time: 657 ms
+simple parallel test:9000 time: 283 ms
+karatsuba sequential test:9000 time: 500 ms
+karatsuba parallel test:9000 time: 142 ms
+Test with size: 10000
+simple sequential test:10000 time: 824 ms
+simple parallel test:10000 time: 321 ms
+karatsuba sequential test:10000 time: 615 ms
+karatsuba parallel test:10000 time: 186 ms
+Test with size: 11000
+simple sequential test:11000 time: 957 ms
+simple parallel test:11000 time: 342 ms
+karatsuba sequential test:11000 time: 713 ms
+karatsuba parallel test:11000 time: 213 ms
+Test with size: 12000
+simple sequential test:12000 time: 1273 ms
+simple parallel test:12000 time: 455 ms
+karatsuba sequential test:12000 time: 768 ms
+karatsuba parallel test:12000 time: 202 ms
+Test with size: 13000
+simple sequential test:13000 time: 1490 ms
+simple parallel test:13000 time: 507 ms
+karatsuba sequential test:13000 time: 845 ms
+karatsuba parallel test:13000 time: 238 ms
+Test with size: 14000
+simple sequential test:14000 time: 1721 ms
+simple parallel test:14000 time: 572 ms
+karatsuba sequential test:14000 time: 889 ms
+karatsuba parallel test:14000 time: 248 ms
+Test with size: 15000
+simple sequential test:15000 time: 2017 ms
+simple parallel test:15000 time: 779 ms
+karatsuba sequential test:15000 time: 1022 ms
+karatsuba parallel test:15000 time: 271 ms
+Test with size: 16000
+simple sequential test:16000 time: 2270 ms
+simple parallel test:16000 time: 873 ms
+karatsuba sequential test:16000 time: 1065 ms
+karatsuba parallel test:16000 time: 306 ms
+Test with size: 17000
+simple sequential test:17000 time: 2597 ms
+simple parallel test:17000 time: 994 ms
+karatsuba sequential test:17000 time: 1345 ms
+karatsuba parallel test:17000 time: 350 ms
+Test with size: 18000
+simple sequential test:18000 time: 2879 ms
+simple parallel test:18000 time: 1123 ms
+karatsuba sequential test:18000 time: 1460 ms
+karatsuba parallel test:18000 time: 359 ms
+Test with size: 19000
+simple sequential test:19000 time: 3137 ms
+simple parallel test:19000 time: 1198 ms
+karatsuba sequential test:19000 time: 1617 ms
+karatsuba parallel test:19000 time: 382 ms
+Test with size: 20000
+simple sequential test:20000 time: 3447 ms
+simple parallel test:20000 time: 1342 ms
+karatsuba sequential test:20000 time: 1759 ms
+karatsuba parallel test:20000 time: 419 ms

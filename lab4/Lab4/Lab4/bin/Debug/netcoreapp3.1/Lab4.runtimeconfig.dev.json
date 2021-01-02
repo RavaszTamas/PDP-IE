@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ravas\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ravas\\.nuget\\packages"
+    ]
+  }
+}
